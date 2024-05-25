@@ -1,0 +1,38 @@
+project:
+  type: book
+
+book:
+  title: "Tandem Freestyle"
+  description: "Übersicht der Manöver im Tandem"
+  author: "Rieke"
+  date: today
+  date-format: medium
+  chapters:
+    - index.qmd
+    - maneuver1.qmd
+    - maneuver2.qmd
+    - maneuver3.qmd
+    - maneuver4.qmd
+    - sideslips.qmd
+    - freespins.qmd
+    - gimbal.qmd
+    - extended.qmd
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+    toc-depth: 2
+    number-depth: 1
+
+babelquarto:
+  languagecodes:
+  - name: en
+    text: "Version in en"
+  - name: de
+    text: "Version in de"
+  mainlanguage: 'de'
+  languages: ['en']
+description-en: "Overview of maneuvers in the tandem"
+lang: de

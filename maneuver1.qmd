@@ -1,0 +1,113 @@
+# Vorwärts Onside
+
+Fahrtrichtung: Vorwärts
+
+Placement: Onside
+
+## Axle und Post
+
+::: {.column-margin .panel-tabset group="side"}
+### Onside = Rechts
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/Axle.png){fig-align="center" height=5cm}
+:::
+
+::: {}
+![Axle](ManoeverSkizzen/K-rechts_P-rechts.png){fig-align="center" height=1cm}
+
+![Post](ManoeverSkizzen/K-links_P-rechts.png){fig-align="center" height=1cm}
+:::
+:::
+
+
+### Onside = Links
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/CrossAxle.png){fig-align="center" height=5cm}
+:::
+
+::: {}
+![Axle](ManoeverSkizzen/K-links_P-links.png){fig-align="center" height=1cm}
+
+![Post](ManoeverSkizzen/K-rechts_P-links.png){fig-align="center" height=1cm}
+:::
+:::
+:::
+
+Drehrichtung: Onside
+
+Kantung:
+
+- Axle: Onside
+- Post: Offside
+
++-------------+-------------------------+-------------------------------------------+
+| Abschnitt   | Bug                     | Heck                                      |
++=============+=========================+===========================================+
+| Einleitung  | 45° Ziehschlag          | - 45° Ziehschlag                          |
+|             |                         | - Bogenschlag                             |
+|             |                         | - unkorrigierter Vorwärtsschlag           |
++-------------+-------------------------+-------------------------------------------+
+| Placement   | Stationärer Ziehschlag  | - Neutraler stationärer Ziehschlag        |
+|             |                         | - Neutraler cross stationärer Drückschlag |
+|             |                         | - Cross Christie (nur Axle)               |
++-------------+-------------------------+-------------------------------------------+
+| Abschluss   | Bugziehschlag           | - Heckziehschlag                          |
+|             |                         | - Rückwärts cross Bogenschlag             |
++-------------+-------------------------+-------------------------------------------+
+
+## Wedge und Tangent
+
+::: {.column-margin .panel-tabset group="side"}
+### Onside = Rechts
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/Wedge.png){fig-align="center" height=5cm}
+:::
+
+::: {}
+![Wedge](ManoeverSkizzen/K-rechts_P-rechts.png){fig-align="center" height=1cm}
+
+![Tangent](ManoeverSkizzen/K-links_P-rechts.png){fig-align="center" height=1cm}
+:::
+:::
+
+
+### Onside = Links
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/CrossWedge.png){fig-align="center" height=5cm}
+:::
+
+::: {}
+![Wedge](ManoeverSkizzen/K-links_P-links.png){fig-align="center" height=1cm}
+
+![Tangent](ManoeverSkizzen/K-rechts_P-links.png){fig-align="center" height=1cm}
+:::
+:::
+:::
+
+Drehrichtung: Offside
+
+Kantung:
+
+- Wedge: Onside
+- Tangent: Offside
+
++-------------+---------------------------------------+------------------------------------------+
+| Abschnitt   | Bug                                   | Heck                                     |
++=============+=======================================+==========================================+
+| Einleitung  | Kurzer Bugbogenschlag                 | Überkorrigiertes J                       |
++-------------+---------------------------------------+------------------------------------------+
+| Placement   | Stationärer Drückschlag               | - Neutraler stationärer Drückschlag      | 
+|             |                                       | - Neutraler cross stationärer Ziehschlag |
+|             |                                       | - Christie (nur Tangent)                 |
++-------------+---------------------------------------+------------------------------------------+
+| Abschluss   | (Kurzer loaded slice und) Bogenschlag | - Heckziehschlag                         |
+|             |                                       | - Rückwärts Cross Bogenschlag            |
++-------------+---------------------------------------+------------------------------------------+

@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="Boot.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.3093395"
+     inkscape:cx="1366.8411"
+     inkscape:cy="1005.2658"
+     inkscape:window-width="1864"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="84.311863,155.59659"
+       orientation="1,0"
+       id="guide2848" />
+    <sodipodi:guide
+       position="441.54385,109.19725"
+       orientation="1,0"
+       id="guide1165" />
+    <sodipodi:guide
+       position="377.77457,66.487072"
+       orientation="1,0"
+       id="guide1871" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1865" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker2134"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2132" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1871" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1859" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-5-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-3-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-5-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-3-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-7-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-0-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-5-9-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-3-3-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-5-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-3-93" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-7-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-0-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-5-9-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-3-3-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-3-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-7-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-5-5-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-3-9-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-7-2-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-0-2-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-5-9-8-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-3-3-9-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-36"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-56" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-36-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-56-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-39"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-08" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-7-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-0-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-5-9-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-3-3-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-3-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-7-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-5-9-8-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-3-3-9-5" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1715"
+       transform="matrix(0.41506925,0,0,0.41506925,7.1421285,39.435019)"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/Axle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255">
+      <g
+         id="g1022"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.81847306;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 54.982853,80.02942 c 0,-35.103239 -5.694151,-48.098562 -10.896366,-68.019409 -5.202215,19.920847 -10.896366,32.91617 -10.896366,68.019409 0,35.10323 5.694151,48.09856 10.896366,68.01941 5.202215,-19.92085 10.896366,-32.91618 10.896366,-68.01941"
+           id="path857-6"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#000000;stroke:none;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.996464,35.227173 h -7.737769 l 3.63058,-18.319166 z"
+         id="path1057"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.863283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)"
+       d="m 25.391064,37.427194 c 0,-8.90791 1.841032,-11.525158 11.595007,-11.46355"
+       id="path1774"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/Axle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 32.482559,62.933066 4.419084,-6.89687"
+       id="path3229"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/Axle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <g
+       id="g1715-5"
+       transform="matrix(0.41506925,0,0,0.41506925,64.431485,41.756154)"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/CrossWedge.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255">
+      <g
+         id="g1022-6"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 54.982853,80.02942 c 0,-35.103239 -5.694151,-48.098562 -10.896366,-68.019409 -5.202215,19.920847 -10.896366,32.91617 -10.896366,68.019409 0,35.10323 5.694151,48.09856 10.896366,68.01941 5.202215,-19.92085 10.896366,-32.91618 10.896366,-68.01941"
+           id="path857-6-2"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#000000;stroke:none;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.996464,35.227173 h -7.737769 l 3.63058,-18.319166 z"
+         id="path1057-9"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.863283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-5)"
+       d="m 82.680421,39.748329 c 0,-8.90791 1.841032,-11.525158 11.595007,-11.46355"
+       id="path1774-1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/CrossWedge.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 71.780238,65.254201 4.419084,-6.89687"
+       id="path3229-2"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/CrossWedge.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <g
+       id="g1715-6"
+       transform="matrix(0.41506925,0,0,0.41506925,8.8054176,132.06428)"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/Wedge.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255">
+      <g
+         id="g1022-0"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 54.982853,80.02942 c 0,-35.103239 -5.694151,-48.098562 -10.896366,-68.019409 -5.202215,19.920847 -10.896366,32.91617 -10.896366,68.019409 0,35.10323 5.694151,48.09856 10.896366,68.01941 5.202215,-19.92085 10.896366,-32.91618 10.896366,-68.01941"
+           id="path857-6-6"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#000000;stroke:none;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.996464,35.227173 h -7.737769 l 3.63058,-18.319166 z"
+         id="path1057-2"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.863283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-7)"
+       d="m 27.588101,130.05646 c 0,-8.90791 -1.841032,-11.52516 -11.595007,-11.46355"
+       id="path1774-6"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/Wedge.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 38.564932,155.56233 -4.419084,-6.89687"
+       id="path3229-1"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/Wedge.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <g
+       id="g1715-5-8"
+       transform="matrix(0.41506925,0,0,0.41506925,66.094774,134.38542)"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/CrossAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255">
+      <g
+         id="g1022-6-7"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 54.982853,80.02942 c 0,-35.103239 -5.694151,-48.098562 -10.896366,-68.019409 -5.202215,19.920847 -10.896366,32.91617 -10.896366,68.019409 0,35.10323 5.694151,48.09856 10.896366,68.01941 5.202215,-19.92085 10.896366,-32.91618 10.896366,-68.01941"
+           id="path857-6-2-9"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#000000;stroke:none;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.996464,35.227173 h -7.737769 l 3.63058,-18.319166 z"
+         id="path1057-9-2"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.863283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-5-9)"
+       d="m 84.348291,132.37759 c 0,-8.90791 -1.841032,-11.52516 -11.595007,-11.46355"
+       id="path1774-1-0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/CrossAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 77.862611,157.88346 -4.419084,-6.89687"
+       id="path3229-2-2"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/CrossAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <g
+       id="g1715-54"
+       transform="matrix(0.41506925,0,0,0.41506925,-8.7343095,285.19053)"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SideslipSternOffside.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255">
+      <g
+         id="g1022-7"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 54.982853,80.02942 c 0,-35.103239 -5.694151,-48.098562 -10.896366,-68.019409 -5.202215,19.920847 -10.896366,32.91617 -10.896366,68.019409 0,35.10323 5.694151,48.09856 10.896366,68.01941 5.202215,-19.92085 10.896366,-32.91618 10.896366,-68.01941"
+           id="path857-6-4"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#000000;stroke:none;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.996464,35.227173 h -7.737769 l 3.63058,-18.319166 z"
+         id="path1057-4"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 16.606121,308.68858 4.419084,-6.89687"
+       id="path3229-7"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SideslipSternOffside.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1.3855565,308.68858 4.419084,-6.89687"
+       id="path3229-2-1"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SideslipSternOffside.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <g
+       id="g1715-6-4"
+       transform="matrix(0.41506925,0,0,0.41506925,-7.0710204,377.81979)"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SideslipSternOnside.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255">
+      <g
+         id="g1022-0-9"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 54.982853,80.02942 c 0,-35.103239 -5.694151,-48.098562 -10.896366,-68.019409 -5.202215,19.920847 -10.896366,32.91617 -10.896366,68.019409 0,35.10323 5.694151,48.09856 10.896366,68.01941 5.202215,-19.92085 10.896366,-32.91618 10.896366,-68.01941"
+           id="path857-6-6-2"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#000000;stroke:none;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.996464,35.227173 h -7.737769 l 3.63058,-18.319166 z"
+         id="path1057-2-0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 22.688494,401.31784 18.26941,394.42097"
+       id="path3229-1-8"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SideslipSternOnside.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 4.6968166,401.31783 -4.419084,-6.89687"
+       id="path3229-2-2-5"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SideslipSternOnside.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <g
+       id="g1715-7"
+       transform="matrix(0.41506925,0,0,0.41506925,158.68324,114.72704)"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SternCrossAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255">
+      <g
+         id="g1022-3"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 54.982853,80.02942 c 0,-35.103239 -5.694151,-48.098562 -10.896366,-68.019409 -5.202215,19.920847 -10.896366,32.91617 -10.896366,68.019409 0,35.10323 5.694151,48.09856 10.896366,68.01941 5.202215,-19.92085 10.896366,-32.91618 10.896366,-68.01941"
+           id="path857-6-61"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#000000;stroke:none;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.996464,35.227173 h -7.737769 l 3.63058,-18.319166 z"
+         id="path1057-29"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.863283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-3)"
+       d="m 176.93217,183.17037 c 0,8.90791 1.84104,11.52516 11.59501,11.46355"
+       id="path1774-3"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SternCrossAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 184.02367,157.6645 4.41908,6.89687"
+       id="path3229-19"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SternCrossAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <g
+       id="g1715-5-4"
+       transform="matrix(0.41506925,0,0,0.41506925,215.97259,112.4059)"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SternWedge.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255">
+      <g
+         id="g1022-6-78"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 54.982853,80.02942 c 0,-35.103239 -5.694151,-48.098562 -10.896366,-68.019409 -5.202215,19.920847 -10.896366,32.91617 -10.896366,68.019409 0,35.10323 5.694151,48.09856 10.896366,68.01941 5.202215,-19.92085 10.896366,-32.91618 10.896366,-68.01941"
+           id="path857-6-2-4"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#000000;stroke:none;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.996464,35.227173 h -7.737769 l 3.63058,-18.319166 z"
+         id="path1057-9-5"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.863283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-5-5)"
+       d="m 234.22153,180.84923 c 0,8.90791 1.84103,11.52516 11.59501,11.46355"
+       id="path1774-1-03"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SternWedge.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 223.32135,155.34336 4.41908,6.89687"
+       id="path3229-2-6"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SternWedge.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 370.45009,232.9686 -10e-6,15.97438"
+       id="path3229-2-6-09"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverUebersicht/ManoeverSkizzen/K-links_P-rechts.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g1715-6-1"
+       transform="matrix(0.41506925,0,0,0.41506925,160.34653,22.097781)"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SternCrossWedge.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255">
+      <g
+         id="g1022-0-0"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 54.982853,80.02942 c 0,-35.103239 -5.694151,-48.098562 -10.896366,-68.019409 -5.202215,19.920847 -10.896366,32.91617 -10.896366,68.019409 0,35.10323 5.694151,48.09856 10.896366,68.01941 5.202215,-19.92085 10.896366,-32.91618 10.896366,-68.01941"
+           id="path857-6-6-6"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#000000;stroke:none;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.996464,35.227173 h -7.737769 l 3.63058,-18.319166 z"
+         id="path1057-2-3"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.863283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-7-2)"
+       d="m 179.12921,90.541101 c 0,8.90791 -1.84103,11.525159 -11.59501,11.463549"
+       id="path1774-6-2"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SternCrossWedge.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 190.10604,65.035241 -4.41908,6.89686"
+       id="path3229-1-0"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SternCrossWedge.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <g
+       id="g1715-5-8-6"
+       transform="matrix(0.41506925,0,0,0.41506925,217.63588,19.776641)"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SternAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255">
+      <g
+         id="g1022-6-7-1"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 54.982853,80.02942 c 0,-35.103239 -5.694151,-48.098562 -10.896366,-68.019409 -5.202215,19.920847 -10.896366,32.91617 -10.896366,68.019409 0,35.10323 5.694151,48.09856 10.896366,68.01941 5.202215,-19.92085 10.896366,-32.91618 10.896366,-68.01941"
+           id="path857-6-2-9-5"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#000000;stroke:none;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.996464,35.227173 h -7.737769 l 3.63058,-18.319166 z"
+         id="path1057-9-2-5"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.863283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-5-9-8)"
+       d="m 235.8894,88.219971 c 0,8.90791 -1.84103,11.52516 -11.59501,11.46355"
+       id="path1774-1-0-4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SternAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 229.40372,62.714111 -4.41908,6.89686"
+       id="path3229-2-2-7"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SternAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <g
+       id="g1715-5-8-6-7"
+       transform="matrix(0.41506925,0,0,0.41506925,271.37071,265.49712)"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SternExtendedAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255">
+      <g
+         id="g1022-6-7-1-4"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 54.982853,80.02942 c 0,-35.103239 -5.694151,-48.098562 -10.896366,-68.019409 -5.202215,19.920847 -10.896366,32.91617 -10.896366,68.019409 0,35.10323 5.694151,48.09856 10.896366,68.01941 5.202215,-19.92085 10.896366,-32.91618 10.896366,-68.01941"
+           id="path857-6-2-9-5-1"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#000000;stroke:none;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.996464,35.227173 h -7.737769 l 3.63058,-18.319166 z"
+         id="path1057-9-2-5-8"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.863283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-5-9-8-8)"
+       d="m 289.62423,333.94045 c 0,8.90791 -1.84103,11.52516 -11.59501,11.46355"
+       id="path1774-1-0-4-5"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SternExtendedAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18.26941,420.75725 4.41908,6.89687"
+       id="path3229-19-6"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SideslipSternOnside.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 0.2777396,420.75725 4.41908,6.89687"
+       id="path3229-2-6-0"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SideslipSternOnside.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 21.025203,328.12799 -4.419082,6.89686"
+       id="path3229-1-0-1"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SideslipSternOffside.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 3.0335305,328.128 -4.41908,6.89686"
+       id="path3229-2-2-7-7"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SideslipSternOffside.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.863;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)"
+       d="M 32.036875,308.03318 47.991507,292.07854"
+       id="path5152"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SideslipOnside.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.863;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-36)"
+       d="m -10.051924,327.70035 -15.954632,15.95464"
+       id="path5152-3"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SideslipSternOffside.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.863;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-9)"
+       d="M -7.6601575,400.68155 -23.61479,384.72691"
+       id="path5152-2"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SideslipOffside.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.863;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-36-8)"
+       d="M 31.808238,421.72501 47.76287,437.67965"
+       id="path5152-3-9"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SideslipSternOnside.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <g
+       id="g1715-0"
+       transform="matrix(0.41506925,0,0,0.41506925,216.5314,268.9496)"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/ExtendedAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255">
+      <g
+         id="g1022-9"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 54.982853,80.02942 c 0,-35.103239 -5.694151,-48.098562 -10.896366,-68.019409 -5.202215,19.920847 -10.896366,32.91617 -10.896366,68.019409 0,35.10323 5.694151,48.09856 10.896366,68.01941 5.202215,-19.92085 10.896366,-32.91618 10.896366,-68.01941"
+           id="path857-6-63"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#000000;stroke:none;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.996464,35.227173 h -7.737769 l 3.63058,-18.319166 z"
+         id="path1057-8"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.863283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-39)"
+       d="m 234.78033,266.94177 c 0,-8.90791 1.84104,-11.52515 11.59501,-11.46355"
+       id="path1774-5"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/ExtendedAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 248.17726,293.09379 -0.18096,-8.18915"
+       id="path3229-6"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/ExtendedAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 276.07362,315.86062 -0.18096,-8.18915"
+       id="path3229-6-7"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SternExtendedAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <g
+       id="g1715-5-8-0"
+       transform="matrix(0.41506925,0,0,0.41506925,217.57952,357.9742)"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/CrossExtendedAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255">
+      <g
+         id="g1022-6-7-4"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 54.982853,80.02942 c 0,-35.103239 -5.694151,-48.098562 -10.896366,-68.019409 -5.202215,19.920847 -10.896366,32.91617 -10.896366,68.019409 0,35.10323 5.694151,48.09856 10.896366,68.01941 5.202215,-19.92085 10.896366,-32.91618 10.896366,-68.01941"
+           id="path857-6-2-9-4"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#000000;stroke:none;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.996464,35.227173 h -7.737769 l 3.63058,-18.319166 z"
+         id="path1057-9-2-4"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.863283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-5-9-0)"
+       d="m 235.83304,355.96637 c 0,-8.90791 -1.84103,-11.52516 -11.59501,-11.46355"
+       id="path1774-1-0-47"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/CrossExtendedAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 222.59714,381.52568 -0.18096,-8.18915"
+       id="path3229-6-3"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/CrossExtendedAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <g
+       id="g1715-7-5"
+       transform="matrix(0.41506925,0,0,0.41506925,249.75102,344.87864)"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SternCrossExtendedAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255">
+      <g
+         id="g1022-3-9"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 54.982853,80.02942 c 0,-35.103239 -5.694151,-48.098562 -10.896366,-68.019409 -5.202215,19.920847 -10.896366,32.91617 -10.896366,68.019409 0,35.10323 5.694151,48.09856 10.896366,68.01941 5.202215,-19.92085 10.896366,-32.91618 10.896366,-68.01941"
+           id="path857-6-61-6"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#000000;stroke:none;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.996464,35.227173 h -7.737769 l 3.63058,-18.319166 z"
+         id="path1057-29-2"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.863283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-3-1)"
+       d="m 267.99995,413.32197 c 0,8.90791 1.84104,11.52516 11.59501,11.46355"
+       id="path1774-3-1"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SternCrossExtendedAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#b3b3b3;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 282.27641,395.27202 -0.18096,-8.18915"
+       id="path3229-6-5"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/SternCrossExtendedAxle.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <g
+       id="g1606"
+       transform="matrix(0.14812357,0,0,0.14812357,291.50066,184.59388)"
+       style="stroke-width:5.74991;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5.74991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 453.92144,200.9675 h -58.93827 c 1.87667,23.72748 11.31632,61.09631 58.93826,59.99894"
+         id="path1163"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5.74991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 453.92142,200.9675 h 58.93827 c -1.87667,23.72748 -11.31632,61.09631 -58.93826,59.99894"
+         id="path1163-6"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g1606-7"
+       transform="matrix(0.14307638,-0.0383372,0.0383372,0.14307638,284.60172,227.58145)"
+       style="stroke-width:13.5022;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverUebersicht/ManoeverSkizzen/K-links_P-rechts.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:13.5022;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 453.92144,200.9675 h -58.93827 c 1.87667,23.72748 11.31632,61.09631 58.93826,59.99894"
+         id="path1163-5"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:13.5022;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 453.92142,200.9675 h 58.93827 c -1.87667,23.72748 -11.31632,61.09631 -58.93826,59.99894"
+         id="path1163-6-3"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 386.23962,232.83518 v 15.97438"
+       id="path3229-2-6-09-3"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverUebersicht/ManoeverSkizzen/K-rechts_P-links.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g1606-7-6"
+       transform="matrix(-0.14307638,-0.0383372,-0.0383372,0.14307638,472.08798,227.44803)"
+       style="stroke-width:13.5022;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverUebersicht/ManoeverSkizzen/K-rechts_P-links.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:13.5022;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 453.92144,200.9675 h -58.93827 c 1.87667,23.72748 11.31632,61.09631 58.93826,59.99894"
+         id="path1163-5-0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:13.5022;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 453.92142,200.9675 h 58.93827 c -1.87667,23.72748 -11.31632,61.09631 -58.93826,59.99894"
+         id="path1163-6-3-6"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 369.73126,265.44005 -1e-5,15.97438"
+       id="path3229-2-6-09-2"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverUebersicht/ManoeverSkizzen/K-rechts_P-rechts.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g1606-7-61"
+       transform="matrix(-0.14307638,-0.0383372,-0.0383372,0.14307638,429.16026,260.0529)"
+       style="stroke-width:13.5022;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverUebersicht/ManoeverSkizzen/K-rechts_P-rechts.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:13.5022;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 453.92144,200.9675 h -58.93827 c 1.87667,23.72748 11.31632,61.09631 58.93826,59.99894"
+         id="path1163-5-8"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:13.5022;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 453.92142,200.9675 h 58.93827 c -1.87667,23.72748 -11.31632,61.09631 -58.93826,59.99894"
+         id="path1163-6-3-7"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 385.52079,265.30663 v 15.97438"
+       id="path3229-2-6-09-3-9"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverUebersicht/ManoeverSkizzen/K-links_P-links.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g1606-7-6-2"
+       transform="matrix(0.14307638,-0.0383372,0.0383372,0.14307638,326.09178,259.91948)"
+       style="stroke-width:13.5022;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverUebersicht/ManoeverSkizzen/K-links_P-links.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:13.5022;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 453.92144,200.9675 h -58.93827 c 1.87667,23.72748 11.31632,61.09631 58.93826,59.99894"
+         id="path1163-5-0-0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:13.5022;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 453.92142,200.9675 h 58.93827 c -1.87667,23.72748 -11.31632,61.09631 -58.93826,59.99894"
+         id="path1163-6-3-6-2"
+         sodipodi:nodetypes="ccc" />
+    </g>
+  </g>
+</svg>

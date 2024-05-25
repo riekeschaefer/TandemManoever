@@ -1,0 +1,29 @@
+# Free spins
+
+## Free spin onside
+
+Fahrtrichtung: Vorwärts/Rückwärts
+
+Drehrichtung: Onside
+
+Kantung: Offside
+
++-----------------------+-----------------------+
+| Bug                   | Heck                  |
++=======================+=======================+
+| Paddel aus dem Wasser | Paddel aus dem Wasser |
++-----------------------+-----------------------+
+
+## Free spin offside
+
+Fahrtrichtung: Vorwärts/Rückwärts
+
+Drehrichtung: Offside
+
+Kantung: Onside
+
++-----------------------+-----------------------+
+| Bug                   | Heck                  |
++=======================+=======================+
+| Paddel aus dem Wasser | Paddel aus dem Wasser |
++-----------------------+-----------------------+

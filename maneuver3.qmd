@@ -1,0 +1,121 @@
+# Rückwärts Offside (Stern)
+
+Fahrtrichtung: Rückwärts
+
+Placement: Offside
+
+Da die Onside durch die Paddelseite im Bug bestimmt wird, sind Stern Manöver offside Manöver.
+
+## Stern Axle und Stern Post
+
+
+
+
+
+::: {.column-margin .panel-tabset group="side"}
+### Onside = Rechts
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/SternAxle.png){fig-align="center" height=5cm}
+:::
+
+::: {}
+![Stern Axle](ManoeverSkizzen/K-links_P-links.png){fig-align="center" height=1cm}
+
+![Stern Post](ManoeverSkizzen/K-rechts_P-links.png){fig-align="center" height=1cm}
+:::
+:::
+
+
+### Onside = Links
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/SternCrossAxle.png){fig-align="center" height=5cm}
+:::
+
+::: {}
+![Stern Axle](ManoeverSkizzen/K-rechts_P-rechts.png){fig-align="center" height=1cm}
+
+![Stern Post](ManoeverSkizzen/K-links_P-rechts.png){fig-align="center" height=1cm}
+:::
+:::
+:::
+
+Drehrichtung: Offside
+
+Kantung:
+
+- Stern Axle: Offside
+- Stern Post: Onside
+
++-------------+-------------------------------------------+----------------------------------+
+| Abschnitt   | Bug                                       | Heck                             |
++=============+===========================================+==================================+
+| Einleitung  | - Unkorrigierter Rückwärtsschlag          | 45° rückwärts Ziehschlag         |
+|             | - Rückwärts 45° Ziehschlag                |                                  |
++-------------+-------------------------------------------+----------------------------------+
+| Placement   | - Neutraler stationärer Ziehschlag        | Rückwärts stationärer Ziehschlag |
+|             | - Neutraler cross stationärer Drückschlag |                                  |
+|             | - Reverse Cross Christie (nur Stern Axle) |                                  |
++-------------+-------------------------------------------+----------------------------------+
+| Abschluss   | - Bugziehschlag                           | Heckziehschlag                   |
+|             | - Rückwärts cross Bogenschlag             |                                  |
++-------------+-------------------------------------------+----------------------------------+
+
+
+## Stern Wedge und Stern Tangent
+
+
+::: {.column-margin .panel-tabset group="side"}
+### Onside = Rechts
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/SternWedge.png){fig-align="center" height=5cm}
+:::
+
+::: {}
+![Stern Wedge](ManoeverSkizzen/K-links_P-links.png){fig-align="center" height=1cm}
+
+![Stern Tangent](ManoeverSkizzen/K-rechts_P-links.png){fig-align="center" height=1cm}
+:::
+:::
+
+
+### Onside = Links
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/SternCrossWedge.png){fig-align="center" height=5cm}
+:::
+
+::: {}
+![Stern Wedge](ManoeverSkizzen/K-rechts_P-rechts.png){fig-align="center" height=1cm}
+
+![Stern Tangent](ManoeverSkizzen/K-links_P-rechts.png){fig-align="center" height=1cm}
+:::
+:::
+:::
+
+Drehrichtung: Onside
+
+Kantung:
+
+- Stern Wedge: Offside
+- Stern Tangent: Onside
+
++-------------+-------------------------------------------+---------------------------------------------------------+
+| Abschnitt   | Bug                                       | Heck                                                    |
++=============+===========================================+=========================================================+
+| Einleitung  | Überkorrigierter Rückwärtsschlag          | Heckhebel/Heckdrückschlag                               |
++-------------+-------------------------------------------+---------------------------------------------------------+
+| Placement   | - Neutraler stationärer Drückschlag       | Rückwärts stationärer Drückschlag                       | 
+|             | - Neutraler cross stationärer Ziehschlag  |                                                         |
+|             | - Reverse Christie (nur Stern Tangent)    |                                                         |
++-------------+-------------------------------------------+---------------------------------------------------------+
+| Abschluss   | - Bogenschlag                             | (Kurzer loaded slice und) rückwärts Bogenschlag         |
+|             | - Cross Bugziehschlag                     |                                                         |
++-------------+-------------------------------------------+---------------------------------------------------------+
+

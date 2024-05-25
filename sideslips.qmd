@@ -1,0 +1,178 @@
+# Side slips
+
+Die Paddelposition auf der On- und Offside kann beliebig kombiniert werden. Auf den Abbildungen sind einfach beide mögliche Positionen für jeweils Bug und Heck dargestellt.
+
+## Side slip onside
+
+::: {.column-margin .panel-tabset group="side"}
+### Onside = Rechts
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/SideslipOnside.png){fig-align="center" height=4cm}
+:::
+
+::: {}
+![](ManoeverSkizzen/Kantung_links.png){fig-align="center" height=1cm}
+
+:::
+:::
+
+
+### Onside = Links
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/SideslipOffside.png){fig-align="center" height=4cm}
+:::
+
+::: {}
+![](ManoeverSkizzen/Kantung_rechts.png){fig-align="center" height=1cm}
+:::
+:::
+:::
+
+Fahrtrichtung: Vorwärts
+
+Bewegungsrichtung: Onside
+
+Kantung: Offside
+
++---------------------------------+--------------------------------+
+| Bug                             | Heck                           |
++=================================+================================+
+| - Stationärer Ziehschlag        | - Stationärer Drückschlag      |
+| - Cross stationärer Drückschlag | - Cross stationärer Ziehschlag |
++---------------------------------+--------------------------------+
+
+## Side slip offside
+
+
+::: {.column-margin .panel-tabset group="side"}
+### Onside = Rechts
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/SideslipOffside.png){fig-align="center" height=4cm}
+:::
+
+::: {}
+![](ManoeverSkizzen/Kantung_rechts.png){fig-align="center" height=1cm}
+
+:::
+:::
+
+
+### Onside = Links
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/SideslipOnside.png){fig-align="center" height=4cm}
+:::
+
+::: {}
+![](ManoeverSkizzen/Kantung_links.png){fig-align="center" height=1cm}
+:::
+:::
+:::
+
+Fahrtrichtung: Vorwärts
+
+Bewegungsrichtung: Offside
+
+Kantung: Onside
+
++---------------------------------+---------------------------------+
+| Bug                             | Heck                            |
++=================================+=================================+
+| - Stationärer Drückschlag       | - Stationärer Ziehschlag        |
+| - Cross stationärer Ziehschlag  | - Cross stationärer Drückschlag |
++---------------------------------+---------------------------------+
+
+## Stern side slip onside
+
+::: {.column-margin .panel-tabset group="side"}
+### Onside = Rechts
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/SideslipSternOnside.png){fig-align="center" height=4cm}
+:::
+
+::: {}
+![](ManoeverSkizzen/Kantung_links.png){fig-align="center" height=1cm}
+
+:::
+:::
+
+
+### Onside = Links
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/SideslipSternOffside.png){fig-align="center" height=4cm}
+:::
+
+::: {}
+![](ManoeverSkizzen/Kantung_rechts.png){fig-align="center" height=1cm}
+:::
+:::
+:::
+
+Fahrtrichtung: Rückwärts
+
+Bewegungsrichtung: Onside
+
+Kantung: Offside
+
++-------------------------------------------+------------------------------------------+
+| Bug                                       | Heck                                     |
++===========================================+==========================================+
+| - Rückwärts stationärer Ziehschlag        | - Rückwärts stationärer Drückschlag      |
+| - Rückwärts cross stationärer Drückschlag | - Rückwärts cross stationärer Ziehschlag |
++-------------------------------------------+------------------------------------------+
+
+## Stern side slip offside
+
+
+
+::: {.column-margin .panel-tabset group="side"}
+### Onside = Rechts
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/SideslipSternOffside.png){fig-align="center" height=4cm}
+:::
+
+::: {}
+![](ManoeverSkizzen/Kantung_rechts.png){fig-align="center" height=1cm}
+
+:::
+:::
+
+
+### Onside = Links
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/SideslipSternOnside.png){fig-align="center" height=4cm}
+:::
+
+::: {}
+![](ManoeverSkizzen/Kantung_links.png){fig-align="center" height=1cm}
+:::
+:::
+:::
+
+Fahrtrichtung: Rückwärts
+
+Bewegungsrichtung: Offside
+
+Kantung: Onside
+
++-------------------------------------------+-------------------------------------------+
+| Bug                                       | Heck                                      |
++===========================================+===========================================+
+| - Rückwärts stationärer Drückschlag       | - Rückwärts stationärer Ziehschlag        |
+| - Rückwärts cross stationärer Ziehschlag  | - Rückwärts cross stationärer Drückschlag |
++-------------------------------------------+-------------------------------------------+

@@ -1,0 +1,55 @@
+# Extended Manöver
+
+Placement ohne Druck für beide, das Gewicht wird allein durch Körperspannung gehalten und der zweite muss ausgleichen
+
+## Extended Axle
+
+
+::: {.column-margin .panel-tabset group="side"}
+### Onside = Rechts
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/ExtendedAxle.png){fig-align="center" height=5cm}
+:::
+
+::: {}
+![](ManoeverSkizzen/Kantung_rechts.png){fig-align="center" height=1cm}
+
+:::
+:::
+
+
+### Onside = Links
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/CrossExtendedAxle.png){fig-align="center" height=5cm}
+:::
+
+::: {}
+![](ManoeverSkizzen/Kantung_links.png){fig-align="center" height=1cm}
+
+:::
+:::
+:::
+
+Drehrichtung: Onside
+
+Kantung: Onside
+
++-------------+-------------------------------------------------------------+--------------------------------------------------+
+| Abschnitt   | Bug                                                         | Heck                                             |
++=============+=============================================================+==================================================+
+| Einleitung  | 45° Ziehschlag                                              | - 45° Ziehschlag                                 |
+|             |                                                             | - Bogenschlag                                    |
+|             |                                                             | - unkorrigierter Vorwärtsschlag                  |
++-------------+-------------------------------------------------------------+--------------------------------------------------+
+| Placement | - Paddel flach auf’s Wasser rausführen und dabei rauslehnen | Neutraler stationärer Ziehschlag und gegenhalten |
+|             | - Arme über dem Kopf und im J-Lean rauslehnen               |                                                  |
++-------------+-------------------------------------------------------------+--------------------------------------------------+
+| Abschluss   | Bugziehschlag, dabei wieder ins Boot kommen                 | Heckziehschlag                                   |
++-------------+-------------------------------------------------------------+--------------------------------------------------+
+
+## weitere
+Kreativ werden ;)
