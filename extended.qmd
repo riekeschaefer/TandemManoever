@@ -8,6 +8,7 @@ Placement ohne Druck für beide, das Gewicht wird allein durch Körperspannung g
 ::: {.column-margin .panel-tabset group="side"}
 ### Onside = Rechts
 
+::: {.content-visible when-format="html"}
 ::: {layout="[[3,2]]" layout-valign="bottom"}
 ::: {}
 ![](ManoeverSkizzen/ExtendedAxle.png){fig-align="center" height=5cm}
@@ -18,10 +19,22 @@ Placement ohne Druck für beide, das Gewicht wird allein durch Körperspannung g
 
 :::
 :::
+:::
+
+::: {.content-visible when-format="pdf"}
+::: {layout="[[3,2]]" layout-valign="bottom"}
+
+![](ManoeverSkizzen/ExtendedAxle.png){fig-align="center" height=3cm}
+
+![](ManoeverSkizzen/Kantung_rechts.png){fig-align="center" height=0.5cm}
+
+:::
+:::
 
 
 ### Onside = Links
 
+::: {.content-visible when-format="html"}
 ::: {layout="[[3,2]]" layout-valign="bottom"}
 ::: {}
 ![](ManoeverSkizzen/CrossExtendedAxle.png){fig-align="center" height=5cm}
@@ -29,6 +42,17 @@ Placement ohne Druck für beide, das Gewicht wird allein durch Körperspannung g
 
 ::: {}
 ![](ManoeverSkizzen/Kantung_links.png){fig-align="center" height=1cm}
+
+:::
+:::
+:::
+
+::: {.content-visible when-format="pdf"}
+::: {layout="[[3,2]]" layout-valign="bottom"}
+
+![](ManoeverSkizzen/CrossExtendedAxle.png){fig-align="center" height=3cm}
+
+![](ManoeverSkizzen/Kantung_links.png){fig-align="center" height=0.5cm}
 
 :::
 :::

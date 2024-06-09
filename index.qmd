@@ -1,16 +1,18 @@
 # Erläuterungen zum Dokument {.unnumbered}
 
 ::: {.column-margin .panel-tabset group="side"}
-### Onside = Rechts
+### Onside = Rechts {.unnumbered}
 Bug paddelt rechts
 
-### Onside = Links
+### Onside = Links {.unnumbered}
 Bug paddelt links
 :::
 
 Die Onside (Paddelseite) wird durch die Paddelseite des/der Bugpaddler*in bestimmt. 
-[Für die Skizzen zu den Manövern kannst du rechts die Onside auswählen.]{.content-visible when-format="html"}
+[Für die Skizzen zu den Manövern kannst du rechts die Onside auswählen. Leider habe ich es noch nicht geschafft, dass die Auswahl sich auf die nächste Seite überträgt.]{.content-visible when-format="html"}
 
 Bei einigen Manövern gibt es verschiedene Alternativen, was gemacht werden kann. Diese sind in der Tabelle als Aufzählung gelistest. 
 
 In den Skizzen wird auf der linken Seite die Drehrichtung und Paddelstellung für die Placement gezeigt. Auf der rechten Seite ist die Kantung (Blick von hinten auf's Boot) im Verhältnis zum Paddel gezeigt.
+
+[Texte und Bilder können unter [Create Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) genutzt werden.]{.content-visible when-format="pdf"}

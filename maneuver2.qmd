@@ -9,6 +9,7 @@ Placement: Offside
 ::: {.column-margin .panel-tabset group="side"}
 ### Onside = Rechts
 
+::: {.content-visible when-format="html"}
 ::: {layout="[[3,2]]" layout-valign="bottom"}
 ::: {}
 ![](ManoeverSkizzen/CrossAxle.png){fig-align="center" height=5cm}
@@ -20,10 +21,23 @@ Placement: Offside
 ![Cross Post](ManoeverSkizzen/K-rechts_P-links.png){fig-align="center" height=1cm}
 :::
 :::
+:::
+
+::: {.content-visible when-format="pdf"}
+::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
+
+![](ManoeverSkizzen/CrossAxle.png){fig-align="center" height=3cm}
+
+![Cross Axle](ManoeverSkizzen/K-links_P-links.png){fig-align="center" height=0.5cm}
+
+![Cross Post](ManoeverSkizzen/K-rechts_P-links.png){fig-align="center" height=0.5cm}
+:::
+:::
 
 
 ### Onside = Links
 
+::: {.content-visible when-format="html"}
 ::: {layout="[[3,2]]" layout-valign="bottom"}
 ::: {}
 ![](ManoeverSkizzen/Axle.png){fig-align="center" height=5cm}
@@ -33,6 +47,19 @@ Placement: Offside
 ![Cross Axle](ManoeverSkizzen/K-rechts_P-rechts.png){fig-align="center" height=1cm}
 
 ![Cross Post](ManoeverSkizzen/K-links_P-rechts.png){fig-align="center" height=1cm}
+:::
+:::
+:::
+
+::: {.content-visible when-format="pdf"}
+::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
+
+![](ManoeverSkizzen/Axle.png){fig-align="center" height=3cm}
+
+![Cross Axle](ManoeverSkizzen/K-rechts_P-rechts.png){fig-align="center" height=0.5cm}
+
+![Cross Post](ManoeverSkizzen/K-links_P-rechts.png){fig-align="center" height=0.5cm}
+
 :::
 :::
 :::
@@ -64,6 +91,7 @@ Kantung:
 ::: {.column-margin .panel-tabset group="side"}
 ### Onside = Rechts
 
+::: {.content-visible when-format="html"}
 ::: {layout="[[3,2]]" layout-valign="bottom"}
 ::: {}
 ![](ManoeverSkizzen/CrossWedge.png){fig-align="center" height=5cm}
@@ -74,12 +102,25 @@ Kantung:
 
 ![Cross Tangent](ManoeverSkizzen/K-rechts_P-links.png){fig-align="center" height=1cm}
 :::
+:::
+:::
 
+::: {.content-visible when-format="pdf"}
+::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
+
+![](ManoeverSkizzen/CrossWedge.png){fig-align="center" height=3cm}
+
+![Cross Wedge](ManoeverSkizzen/K-links_P-links.png){fig-align="center" height=0.5cm}
+
+![Cross Tangent](ManoeverSkizzen/K-rechts_P-links.png){fig-align="center" height=0.5cm}
+
+:::
 :::
 
 
 ### Onside = Links
 
+::: {.content-visible when-format="html"}
 ::: {layout="[[3,2]]" layout-valign="bottom"}
 ::: {}
 ![](ManoeverSkizzen/Wedge.png){fig-align="center" height=5cm}
@@ -89,6 +130,18 @@ Kantung:
 ![Cross Wedge](ManoeverSkizzen/K-rechts_P-rechts.png){fig-align="center" height=1cm}
 
 ![Cross Tangent](ManoeverSkizzen/K-links_P-rechts.png){fig-align="center" height=1cm}
+:::
+:::
+:::
+
+::: {.content-visible when-format="pdf"}
+::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
+![](ManoeverSkizzen/Wedge.png){fig-align="center" height=3cm}
+
+![Cross Wedge](ManoeverSkizzen/K-rechts_P-rechts.png){fig-align="center" height=0.5cm}
+
+![Cross Tangent](ManoeverSkizzen/K-links_P-rechts.png){fig-align="center" height=0.5cm}
+
 :::
 :::
 :::
@@ -104,7 +157,7 @@ Kantung:
 | Abschnitt   | Bug                                         | Heck                                      |
 +=============+=============================================+===========================================+
 | Einleitung  | - 45° Ziehschlag                            | - 45° Ziehschlag                          |
-|             | - Cross Bugbogenschlag                      | - Rückwärts Bogenschlag                   |
+|             | - Cross Bugbogenschlag                      | - Bogenschlag                             |
 |             |                                             | - unkorrigierter Vorwärtsschlag           |
 +-------------+---------------------------------------------+-------------------------------------------+
 | Placement   | Cross stationärer Drückschlag               | - Neutraler stationärer Ziehschlag        |

@@ -15,6 +15,7 @@ Da die Onside durch die Paddelseite im Bug bestimmt wird, sind Stern Manöver of
 ::: {.column-margin .panel-tabset group="side"}
 ### Onside = Rechts
 
+::: {.content-visible when-format="html"}
 ::: {layout="[[3,2]]" layout-valign="bottom"}
 ::: {}
 ![](ManoeverSkizzen/SternAxle.png){fig-align="center" height=5cm}
@@ -26,10 +27,24 @@ Da die Onside durch die Paddelseite im Bug bestimmt wird, sind Stern Manöver of
 ![Stern Post](ManoeverSkizzen/K-rechts_P-links.png){fig-align="center" height=1cm}
 :::
 :::
+:::
+
+::: {.content-visible when-format="pdf"}
+::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
+
+![](ManoeverSkizzen/SternAxle.png){fig-align="center" height=3cm}
+
+![Stern Axle](ManoeverSkizzen/K-links_P-links.png){fig-align="center" height=0.5cm}
+
+![Stern Post](ManoeverSkizzen/K-rechts_P-links.png){fig-align="center" height=0.5cm}
+
+:::
+:::
 
 
 ### Onside = Links
 
+::: {.content-visible when-format="html"}
 ::: {layout="[[3,2]]" layout-valign="bottom"}
 ::: {}
 ![](ManoeverSkizzen/SternCrossAxle.png){fig-align="center" height=5cm}
@@ -39,6 +54,19 @@ Da die Onside durch die Paddelseite im Bug bestimmt wird, sind Stern Manöver of
 ![Stern Axle](ManoeverSkizzen/K-rechts_P-rechts.png){fig-align="center" height=1cm}
 
 ![Stern Post](ManoeverSkizzen/K-links_P-rechts.png){fig-align="center" height=1cm}
+:::
+:::
+:::
+
+::: {.content-visible when-format="pdf"}
+::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
+
+![](ManoeverSkizzen/SternCrossAxle.png){fig-align="center" height=3cm}
+
+![Stern Axle](ManoeverSkizzen/K-rechts_P-rechts.png){fig-align="center" height=0.5cm}
+
+![Stern Post](ManoeverSkizzen/K-links_P-rechts.png){fig-align="center" height=0.5cm}
+
 :::
 :::
 :::
@@ -71,6 +99,7 @@ Kantung:
 ::: {.column-margin .panel-tabset group="side"}
 ### Onside = Rechts
 
+::: {.content-visible when-format="html"}
 ::: {layout="[[3,2]]" layout-valign="bottom"}
 ::: {}
 ![](ManoeverSkizzen/SternWedge.png){fig-align="center" height=5cm}
@@ -82,10 +111,24 @@ Kantung:
 ![Stern Tangent](ManoeverSkizzen/K-rechts_P-links.png){fig-align="center" height=1cm}
 :::
 :::
+:::
+
+::: {.content-visible when-format="pdf"}
+::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
+
+![](ManoeverSkizzen/SternWedge.png){fig-align="center" height=3cm}
+
+![Stern Wedge](ManoeverSkizzen/K-links_P-links.png){fig-align="center" height=0.5cm}
+
+![Stern Tangent](ManoeverSkizzen/K-rechts_P-links.png){fig-align="center" height=0.5cm}
+
+:::
+:::
 
 
 ### Onside = Links
 
+::: {.content-visible when-format="html"}
 ::: {layout="[[3,2]]" layout-valign="bottom"}
 ::: {}
 ![](ManoeverSkizzen/SternCrossWedge.png){fig-align="center" height=5cm}
@@ -95,6 +138,19 @@ Kantung:
 ![Stern Wedge](ManoeverSkizzen/K-rechts_P-rechts.png){fig-align="center" height=1cm}
 
 ![Stern Tangent](ManoeverSkizzen/K-links_P-rechts.png){fig-align="center" height=1cm}
+:::
+:::
+:::
+
+::: {.content-visible when-format="pdf"}
+::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
+
+![](ManoeverSkizzen/SternCrossWedge.png){fig-align="center" height=3cm}
+
+![Stern Wedge](ManoeverSkizzen/K-rechts_P-rechts.png){fig-align="center" height=0.5cm}
+
+![Stern Tangent](ManoeverSkizzen/K-links_P-rechts.png){fig-align="center" height=0.5cm}
+
 :::
 :::
 :::

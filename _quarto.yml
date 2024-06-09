@@ -7,6 +7,8 @@ book:
   author: "Rieke"
   date: today
   date-format: medium
+  page-footer: "Text and figures shared under the Creative Commons Attribution 4.0 International License."
+  site-url: "./"
   chapters:
     - index.qmd
     - maneuver1.qmd
@@ -25,6 +27,12 @@ format:
     documentclass: scrreprt
     toc-depth: 2
     number-depth: 1
+    include-in-header: 
+      - text: |
+          \AddToHook{cmd/section/before}{\clearpage}
+    include-before-body: 
+      - text: |
+          \captionsetup[subfigure]{labelformat=empty}
 
 babelquarto:
   languagecodes:

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Tandem Freestyle",
     "section": "",
-    "text": "Erläuterungen zum Dokument\n\n\nOnside = RechtsOnside = Links\n\n\nBug paddelt rechts\n\n\nBug paddelt links\n\n\nDie Onside (Paddelseite) wird durch die Paddelseite des/der Bugpaddler*in bestimmt. Für die Skizzen zu den Manövern kannst du rechts die Onside auswählen.\nBei einigen Manövern gibt es verschiedene Alternativen, was gemacht werden kann. Diese sind in der Tabelle als Aufzählung gelistest.\nIn den Skizzen wird auf der linken Seite die Drehrichtung und Paddelstellung für die Placement gezeigt. Auf der rechten Seite ist die Kantung (Blick von hinten auf’s Boot) im Verhältnis zum Paddel gezeigt.",
+    "text": "Erläuterungen zum Dokument\n\n\nOnside = RechtsOnside = Links\n\n\nBug paddelt rechts\n\n\nBug paddelt links\n\n\nDie Onside (Paddelseite) wird durch die Paddelseite des/der Bugpaddler*in bestimmt. Für die Skizzen zu den Manövern kannst du rechts die Onside auswählen. Leider habe ich es noch nicht geschafft, dass die Auswahl sich auf die nächste Seite überträgt.\nBei einigen Manövern gibt es verschiedene Alternativen, was gemacht werden kann. Diese sind in der Tabelle als Aufzählung gelistest.\nIn den Skizzen wird auf der linken Seite die Drehrichtung und Paddelstellung für die Placement gezeigt. Auf der rechten Seite ist die Kantung (Blick von hinten auf’s Boot) im Verhältnis zum Paddel gezeigt.",
     "crumbs": [
       "Erläuterungen zum Dokument"
     ]
@@ -34,7 +34,7 @@
     "href": "maneuver1.html#wedge-und-tangent",
     "title": "1  Vorwärts Onside",
     "section": "1.2 Wedge und Tangent",
-    "text": "1.2 Wedge und Tangent\n\n\nOnside = RechtsOnside = Links\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWedge\n\n\n\n\n\nTangent\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWedge\n\n\n\n\n\nTangent\n\n\n\n\n\n\n\nDrehrichtung: Offside\nKantung:\n\nWedge: Onside\nTangent: Offside\n\n\n\n\n\n\n\n\n\nAbschnitt\nBug\nHeck\n\n\n\n\nEinleitung\nKurzer Bugbogenschlag\nÜberkorrigiertes J\n\n\nPlacement\nStationärer Drückschlag\n\nNeutraler stationärer Drückschlag\nNeutraler cross stationärer Ziehschlag\nChristie (nur Tangent)\n\n\n\nAbschluss\n(Kurzer loaded slice und) Bogenschlag\n\nHeckziehschlag\nRückwärts Cross Bogenschlag",
+    "text": "1.2 Wedge und Tangent\n\n\nOnside = RechtsOnside = Links\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWedge\n\n\n\n\n\nTangent\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWedge\n\n\n\n\n\nTangent\n\n\n\n\n\n\n\nDrehrichtung: Offside\nKantung:\n\nWedge: Onside\nTangent: Offside\n\n\n\n\n\n\n\n\n\nAbschnitt\nBug\nHeck\n\n\n\n\nEinleitung\nKurzer Bugbogenschlag\nÜberkorrigiertes J\n\n\nPlacement\nStationärer Drückschlag\n\nNeutraler stationärer Drückschlag\nNeutraler cross stationärer Ziehschlag\nChristie (nur Tangent)\n\n\n\nAbschluss\n(Kurzer loaded slice und) Bogenschlag\n\nCross Heckziehschlag\nRückwärts Bogenschlag",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Vorwärts Onside</span>"
     ]
@@ -64,7 +64,7 @@
     "href": "maneuver2.html#cross-wedge-und-cross-tangent",
     "title": "2  Vorwärts Offside (Cross)",
     "section": "2.2 Cross Wedge und Cross Tangent",
-    "text": "2.2 Cross Wedge und Cross Tangent\n\n\nOnside = RechtsOnside = Links\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCross Wedge\n\n\n\n\n\nCross Tangent\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCross Wedge\n\n\n\n\n\nCross Tangent\n\n\n\n\n\n\n\nDrehrichtung: Onside\nKantung:\n\nCross Wedge: Offside\nCross Tangent: Onside\n\n\n\n\n\n\n\n\n\nAbschnitt\nBug\nHeck\n\n\n\n\nEinleitung\n\n45° Ziehschlag\nCross Bugbogenschlag\n\n\n45° Ziehschlag\nRückwärts Bogenschlag\nunkorrigierter Vorwärtsschlag\n\n\n\nPlacement\nCross stationärer Drückschlag\n\nNeutraler stationärer Ziehschlag\nNeutraler cross stationärer Drückschlag\nCross Christie (nur Cross Tangent)\n\n\n\nAbschluss\n(Kurzer loaded slice und) Cross Bogenschlag\n\nBogenschlag\nRckwärts cross Heckziehschlag",
+    "text": "2.2 Cross Wedge und Cross Tangent\n\n\nOnside = RechtsOnside = Links\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCross Wedge\n\n\n\n\n\nCross Tangent\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCross Wedge\n\n\n\n\n\nCross Tangent\n\n\n\n\n\n\n\nDrehrichtung: Onside\nKantung:\n\nCross Wedge: Offside\nCross Tangent: Onside\n\n\n\n\n\n\n\n\n\nAbschnitt\nBug\nHeck\n\n\n\n\nEinleitung\n\n45° Ziehschlag\nCross Bugbogenschlag\n\n\n45° Ziehschlag\nBogenschlag\nunkorrigierter Vorwärtsschlag\n\n\n\nPlacement\nCross stationärer Drückschlag\n\nNeutraler stationärer Ziehschlag\nNeutraler cross stationärer Drückschlag\nCross Christie (nur Cross Tangent)\n\n\n\nAbschluss\n(Kurzer loaded slice und) Cross Bogenschlag\n\nBogenschlag\nRckwärts cross Heckziehschlag",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Vorwärts Offside (Cross)</span>"
     ]
