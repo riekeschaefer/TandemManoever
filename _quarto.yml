@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Tandem Freestyle"
@@ -11,6 +12,7 @@ book:
   site-url: "./"
   chapters:
     - index.qmd
+    - intro.qmd
     - maneuver1.qmd
     - maneuver2.qmd
     - maneuver3.qmd
