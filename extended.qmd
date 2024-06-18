@@ -69,7 +69,7 @@ Kantung: Onside
 |             |                                                             | - Bogenschlag                                    |
 |             |                                                             | - unkorrigierter Vorwärtsschlag                  |
 +-------------+-------------------------------------------------------------+--------------------------------------------------+
-| Placement | - Paddel flach auf’s Wasser rausführen und dabei rauslehnen | Neutraler stationärer Ziehschlag und gegenhalten |
+| Placement   | - Paddel flach auf’s Wasser rausführen und dabei rauslehnen | Neutraler stationärer Ziehschlag und gegenhalten |
 |             | - Arme über dem Kopf und im J-Lean rauslehnen               |                                                  |
 +-------------+-------------------------------------------------------------+--------------------------------------------------+
 | Abschluss   | Bugziehschlag, dabei wieder ins Boot kommen                 | Heckziehschlag                                   |

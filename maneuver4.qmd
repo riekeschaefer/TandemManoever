@@ -162,7 +162,7 @@ Kantung:
 | Abschnitt   | Bug                                        | Heck                                                        |
 +=============+============================================+=============================================================+
 | Einleitung  | - Unkorrigierter Rückwärtsschlag           | - Rückwärts 45° Ziehschlag                                  |
-|             | - Rückwärts 45° Ziehschlag                 | - Cross Heckhebel(?)                                        |
+|             | - Rückwärts 45° Ziehschlag                 |                                                             |
 +-------------+--------------------------------------------+-------------------------------------------------------------+
 | Placement   | - Neutraler stationärer Ziehschlag         | Rückwärts cross stationärer Drückschlag                     |
 |             | - Neutraler cross stationärer Drückschlag  |                                                             |

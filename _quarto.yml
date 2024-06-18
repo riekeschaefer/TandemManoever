@@ -29,7 +29,9 @@ format:
     number-depth: 1
     include-in-header: 
       - text: |
+          \usepackage{enumitem}
           \AddToHook{cmd/section/before}{\clearpage}
+          \setlist[itemize]{leftmargin=5mm}
     include-before-body: 
       - text: |
           \captionsetup[subfigure]{labelformat=empty}
@@ -41,6 +43,6 @@ babelquarto:
   - name: de
     text: "Version in de"
   mainlanguage: 'de'
-  languages: ['en']
+  languages: []
 description-en: "Overview of maneuvers in the tandem"
 lang: de

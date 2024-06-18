@@ -1,3 +1,20 @@
-# Introduction {.unnumbered}
+# Introduction to the document {.unnumbered}
 
-Blabla
+::: {.column-margin .panel-tabset group="side"}
+### Onside = Right {.unnumbered}
+bow paddler paddles on the right side
+
+### Onside = Left {.unnumbered}
+bow paddler paddles on the left side
+:::
+
+The onside (paddle side) is defined by the paddle side of the bow paddler.
+[FFor the maneuver sketches you can choose the onside in the tabs on the right. Unfortunately, I have not yet managed to have the selection transferred to the next page.]{.content-visible when-format="html"}
+
+For some maneuvers, there are several alternatives of what can be done. Those are denoted as lists in the tables.
+
+In the sketches, the left sketch shows turning direction and paddle placement and the right sketch the heel (viewed from the stern) relative to the paddle.
+
+Bei einigen Manövern gibt es verschiedene Alternativen, was gemacht werden kann. Diese sind in der Tabelle als Aufzählung gelistest. 
+
+[Texts and figures can be used under [Create Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.en).]{.content-visible when-format="pdf"}
