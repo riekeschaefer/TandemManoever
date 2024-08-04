@@ -1,0 +1,46 @@
+# Feinabstimmung {.unnumbered}
+
+## Koordination
+
+- Timing der Kantung 
+  - Rein
+    - Bugpaddler immer zuerst
+  - Raus
+    - beide Paddler (fast) zeitgleich
+    - Axle/Post beim nächsten Catch
+  - Wedge/Tangent Weg zum Vorwärtsschlag
+- Conclusion
+  - Der Paddler mit dem weiteren Weg zur Conclusion gibt das Timing vor.
+  - Bei Rückwärtsmanövern gibt im Idealfall der Heckpaddler das Timing vor, weil er die Bootsdrehung besser beurteilen kann. Das ist allerdings nicht in allen Manövern gut machbar, weil der Bugpaddler nicht immer ausreichende Sicht nach hinten hat.
+  - Cross-Placement im Bug: Im Heck kann die Conclusion verzögert gemacht werden, um dem Bug-Paddler Zeit zu geben, das Paddel wieder auf die Onside zu bringen.
+
+## Nonverbale Kommunikation
+
+- Bugpaddler gibt Drehrichtung und Kantung vor
+- Das Einleiten der Kantung kann man von hinten teilweise schon an den Füßen des Bug-Paddlers erkennen. Alle Körperbewegungen beobachten. Wahrscheinlich stark abhängig vom jeweiligen Paddler. 
+- Einleitungsschläge (damit der Heckpaddler es sehen kann)
+  - Onside Drehung: 45° Ziehschlag
+  - Offside Drehung: Bugdrückschlag
+  - Stern Onside Drehung: überkorrigierter Rückwärtsschlag (nicht compound!)
+  - Stern Offside Drehung: rückwärts 45° Ziehschlag
+  - Auch Rückwärtsmanöver leitet am besten der Bug-Paddler ein, weil der Heck-Paddler dann folgen kann. 
+- Vor einem Cross-Placement im Heck nur einen sehr kurzen Vorwärtsschlag machen und zügig mit dem Paddel das Boot kreuzen, damit der Bugpaddler eine Chance hat das Placement zu erkennen. Paddel können dann synchron eingesetzt werden.
+- Sideslips erkennt man an Placement ohne Initiation
+
+## Paddeln zu Takt/Musik
+
+- Tempo um 80(?) geht ganz gut
+- Länge in Takten
+  - Axle/Post 7 Takte: 1 Takt Initiation, 4 Takte Placement, 2 Takte Conclusion
+  - Wedge/Tangent 6 Takte: 1 Takt Initiation, 3 Takte Placement, 2 Takte Conclusion
+  - Stern Axle/Post 5: 1 Takt Initiation, 3 Takte Placement, 1 Takt Conclusion
+  - Die Länge der Initiation ist je nach Manöver sehr unterschiedlich und damit nicht immer genau einen Takt lang. 
+- Rückwärts compound: far back auf 1, normaler Catch zwischen 2 und 3. So bleibt dem Bugpaddler genug Zeit für eine Korrektur.
+- Musik
+  - Loreena McKennitt - La Serenissima
+    - Tempo 87
+
+## Sonstiges
+
+- beim ersten Vorwärtsschlag nach Manöver auch vorne Drehung etwas korrigieren
+- cross Vorwärtsschläge nach Cross Manöver (passt aber nicht immer flüssig)

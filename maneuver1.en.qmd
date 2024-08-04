@@ -1,3 +1,185 @@
-# Summary
+# Forwards Onside
 
-In summary, this book has no content whatsoever.
+Moving direction: Forwards
+
+Placement: Onside
+
+## Axle und Post
+
+::: {.column-margin .panel-tabset group="side"}
+### Onside = Right
+
+::: {.content-visible when-format="html"}
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+
+::: {}
+![](ManoeverSkizzen/Axle.png){fig-align="center" height=5cm}
+:::
+
+::: {}
+![Axle](ManoeverSkizzen/K-rechts_P-rechts.png){fig-align="center" height=1cm}
+
+![Post](ManoeverSkizzen/K-links_P-rechts.png){fig-align="center" height=1cm}
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-format="pdf"}
+
+::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
+
+![](ManoeverSkizzen/Axle.png){fig-align="center" height=3cm}
+
+![Axle](ManoeverSkizzen/K-rechts_P-rechts.png){fig-align="center" height=0.5cm}
+
+![Post](ManoeverSkizzen/K-links_P-rechts.png){fig-align="center" height=0.5cm}
+
+:::
+
+:::
+
+
+### Onside = Left
+
+::: {.content-visible when-format="html"}
+
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/CrossAxle.png){fig-align="center" height=5cm}
+:::
+
+::: {}
+![Axle](ManoeverSkizzen/K-links_P-links.png){fig-align="center" height=1cm}
+
+![Post](ManoeverSkizzen/K-rechts_P-links.png){fig-align="center" height=1cm}
+:::
+:::
+:::
+
+::: {.content-visible when-format="pdf"}
+
+::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
+![](ManoeverSkizzen/CrossAxle.png){fig-align="center" height=3cm}
+
+![Axle](ManoeverSkizzen/K-links_P-links.png){fig-align="center" height=0.5cm}
+
+![Post](ManoeverSkizzen/K-rechts_P-links.png){fig-align="center" height=0.5cm}
+
+:::
+:::
+
+:::
+
+Turning direction: Onside
+
+Heel:
+
+- Axle: Onside
+- Post: Offside
+
++-------------+-------------------------+---------------------------------------+
+| Part        | Bow                     | Stern                                 |
++=============+=========================+=======================================+
+| Initiation  | 45° draw                | - 45° draw                            |
+|             |                         | - sweep                               |
+|             |                         | - uncorrected forward stroke          |
++-------------+-------------------------+---------------------------------------+
+| Placement   | stationary high brace   | - neutral stationary high brace       |
+|             |                         | - neutral cross stationary high brace |
+|             |                         | - Cross Christie (only Axle)          |
++-------------+-------------------------+---------------------------------------+
+| Conclusion  | bow draw                | - stern draw                          |
+|             |                         | - reverse cross sweep                 |
++-------------+-------------------------+---------------------------------------+
+
+## Wedge und Tangent
+
+::: {.column-margin .panel-tabset group="side"}
+### Onside = Right
+
+::: {.content-visible when-format="html"}
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/Wedge.png){fig-align="center" height=5cm}
+:::
+
+::: {}
+![Wedge](ManoeverSkizzen/K-rechts_P-rechts.png){fig-align="center" height=1cm}
+
+![Tangent](ManoeverSkizzen/K-links_P-rechts.png){fig-align="center" height=1cm}
+:::
+:::
+:::
+
+::: {.content-visible when-format="pdf"}
+::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/Wedge.png){fig-align="center" height=3cm}
+:::
+
+::: {}
+![Wedge](ManoeverSkizzen/K-rechts_P-rechts.png){fig-align="center" height=0.5cm}
+:::
+
+::: {}
+![Tangent](ManoeverSkizzen/K-links_P-rechts.png){fig-align="center" height=0.5cm}
+:::
+:::
+:::
+
+### Onside = Left
+
+::: {.content-visible when-format="html"}
+::: {layout="[[3,2]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/CrossWedge.png){fig-align="center" height=5cm}
+:::
+
+::: {}
+![Wedge](ManoeverSkizzen/K-links_P-links.png){fig-align="center" height=1cm}
+
+![Tangent](ManoeverSkizzen/K-rechts_P-links.png){fig-align="center" height=1cm}
+:::
+:::
+:::
+
+::: {.content-visible when-format="pdf"}
+::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
+::: {}
+![](ManoeverSkizzen/CrossWedge.png){fig-align="center" height=3cm}
+:::
+
+::: {}
+![Wedge](ManoeverSkizzen/K-links_P-links.png){fig-align="center" height=0.5cm}
+:::
+
+::: {}
+![Tangent](ManoeverSkizzen/K-rechts_P-links.png){fig-align="center" height=0.5cm}
+:::
+:::
+:::
+:::
+
+Turning direction: Offside
+
+Heel:
+
+- Wedge: Onside
+- Tangent: Offside
+
++-------------+---------------------------------------+------------------------------------------+
+| Part        | Bow                                   | Stern                                    |
++=============+=======================================+==========================================+
+| Initiation  | Short bow sweep                       | Overcorrected J stroke                   |
++-------------+---------------------------------------+------------------------------------------+
+| Placement   | Stationary high brace                 | - Neutral stationary high brace          | 
+|             |                                       | - neutral cross stationary high brace    |
+|             |                                       | - Christie (only Tangent)                |
++-------------+---------------------------------------+------------------------------------------+
+| Conclusion  | (Short loaded slice and) sweep        | - Cross stern draw                       |
+|             |                                       | - Reverse sweep                          |
++-------------+---------------------------------------+------------------------------------------+

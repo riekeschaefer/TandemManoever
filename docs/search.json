@@ -154,7 +154,7 @@
     "href": "maneuver4.html#stern-cross-axle-und-stern-cross-post",
     "title": "4  Rückwärts Onside (Stern Cross)",
     "section": "",
-    "text": "Onside = RechtsOnside = Links\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStern Cross Axle\n\n\n\n\n\nStern Cross Post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStern Cross Axle\n\n\n\n\n\nStern Cross Post\n\n\n\n\n\n\n\n\n\n\nStern Cross Axle: Onside\nStern Cross Post: Offside\n\n\n\n\n\n\n\n\n\nAbschnitt\nBug\nHeck\n\n\n\n\nEinleitung\nÜberkorrigierter Rückwärtsschlag\n\nHeckhebel\nCross Ziehschlag\n\n\n\nPlacement\n\nNeutraler stationärer Drückschlag\nNeutraler cross stationärer Ziehschlag\nChristie (nur Stern Cross Axle)\n\nRückwärts stationärer Ziehschlag\n\n\nAbschluss\n\nRückwärts Bogenschlag\nCross Bugziehschlag\n\nCross Heckziehschlag",
+    "text": "Onside = RechtsOnside = Links\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStern Cross Axle\n\n\n\n\n\nStern Cross Post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStern Cross Axle\n\n\n\n\n\nStern Cross Post\n\n\n\n\n\n\n\n\n\n\nStern Cross Axle: Onside\nStern Cross Post: Offside\n\n\n\n\n\n\n\n\n\nAbschnitt\nBug\nHeck\n\n\n\n\nEinleitung\nÜberkorrigierter Rückwärtsschlag\n\nHeckhebel\nCross Ziehschlag\n\n\n\nPlacement\n\nNeutraler stationärer Drückschlag\nNeutraler cross stationärer Ziehschlag\nChristie (nur Stern Cross Axle)\n\nRückwärts cross stationärer Ziehschlag\n\n\nAbschluss\n\nRückwärts Bogenschlag\nCross Bugziehschlag\n\nCross Heckziehschlag",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Rückwärts Onside (Stern Cross)</span>"
     ]
@@ -287,6 +287,56 @@
     "text": "8.2 weitere\nKreativ werden ;)",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Extended Manöver</span>"
+    ]
+  },
+  {
+    "objectID": "Feinheiten.html",
+    "href": "Feinheiten.html",
+    "title": "Feinabstimmung",
+    "section": "",
+    "text": "Koordination",
+    "crumbs": [
+      "Feinabstimmung"
+    ]
+  },
+  {
+    "objectID": "Feinheiten.html#koordination",
+    "href": "Feinheiten.html#koordination",
+    "title": "Feinabstimmung",
+    "section": "",
+    "text": "Timing der Kantung\n\nRein\n\nBugpaddler immer zuerst\n\nRaus\n\nbeide Paddler (fast) zeitgleich\nAxle/Post beim nächsten Catch\n\nWedge/Tangent Weg zum Vorwärtsschlag\n\nConclusion\n\nDer Paddler mit dem weiteren Weg zur Conclusion gibt das Timing vor.\nBei Rückwärtsmanövern gibt im Idealfall der Heckpaddler das Timing vor, weil er die Bootsdrehung besser beurteilen kann. Das ist allerdings nicht in allen Manövern gut machbar, weil der Bugpaddler nicht immer ausreichende Sicht nach hinten hat.\nCross-Placement im Bug: Im Heck kann die Conclusion verzögert gemacht werden, um dem Bug-Paddler Zeit zu geben, das Paddel wieder auf die Onside zu bringen.\n\nOuter Gimbal\n\nbeide machen 90° Bogenschläge (ggf. etwas kürzer, damit das Boot keine vorwärts/rückwärts Fahrt bekommt)\nimmer abwechselnd, damit man eine ruhige Bootsbewegung kriegt\nwährend der eine den Bogen macht, führt der andere das Paddel in die Startposition für den nächsten Bogen\n\nInner Gimbal\n\nbeide machen 180° Bögen mit Kraft (ggf. etwas kürzer, damit das Boot keine vorwärts/rückwärts Fahrt bekommt) und die andere Hälfte neutral. Der Bugpaddler hat seine Kraftphase im Halbkreis um den Bug und der Heckpaddler ums Heck, der Wechsel erfolgt also etwa 90° neben den Paddlern\nimmer abwechselnd, damit man eine ruhige Bootsbewegung kriegt\ndie Paddel bewegen sich synchron auf dem Kreis, sind also gleichzeitig in der gleichen Position, nur dass einer Kraft auf dem Blatt hat, während der andere es neutral führt.\n\nÜbergang Manöver zu outer Gimbal, Koordination der Conclusion\n\nbei Manövern mit zweiteiliger Conclusion, würde ja sonst ggf. der Paddler mit nur einem Teil warten, bis der andere beim zweiten Teil ist\nwenn man einen outer Gimbal anhängen möchte, fangen beide gleichzeitig an, der erste macht direkt den Bogen, der zweite dann versetzt und es geht flüssig in den Gimbal über",
+    "crumbs": [
+      "Feinabstimmung"
+    ]
+  },
+  {
+    "objectID": "Feinheiten.html#nonverbale-kommunikation",
+    "href": "Feinheiten.html#nonverbale-kommunikation",
+    "title": "Feinabstimmung",
+    "section": "Nonverbale Kommunikation",
+    "text": "Nonverbale Kommunikation\n\nBugpaddler gibt Drehrichtung und Kantung vor\nDas Einleiten der Kantung kann man von hinten teilweise schon an den Füßen des Bug-Paddlers erkennen. Alle Körperbewegungen beobachten. Wahrscheinlich stark abhängig vom jeweiligen Paddler.\nEinleitungsschläge (damit der Heckpaddler es sehen kann)\n\nOnside Drehung: 45° Ziehschlag\nOffside Drehung: Bugdrückschlag\nStern Onside Drehung: überkorrigierter Rückwärtsschlag (nicht compound!)\nStern Offside Drehung: rückwärts 45° Ziehschlag\nAuch Rückwärtsmanöver leitet am besten der Bug-Paddler ein, weil der Heck-Paddler dann folgen kann.\n\nVor einem Cross-Placement im Heck nur einen sehr kurzen Vorwärtsschlag machen und zügig mit dem Paddel das Boot kreuzen, damit der Bugpaddler eine Chance hat das Placement zu erkennen. Paddel können dann synchron eingesetzt werden.\nSideslips erkennt man an Placement ohne Initiation",
+    "crumbs": [
+      "Feinabstimmung"
+    ]
+  },
+  {
+    "objectID": "Feinheiten.html#paddeln-zu-taktmusik",
+    "href": "Feinheiten.html#paddeln-zu-taktmusik",
+    "title": "Feinabstimmung",
+    "section": "Paddeln zu Takt/Musik",
+    "text": "Paddeln zu Takt/Musik\n\nTempo um 80(?) geht ganz gut\nLänge in Takten\n\nAxle/Post 7 Takte: 1 Takt Initiation, 4 Takte Placement, 2 Takte Conclusion\nWedge/Tangent 6 Takte: 1 Takt Initiation, 3 Takte Placement, 2 Takte Conclusion\nStern Axle/Post 5: 1 Takt Initiation, 3 Takte Placement, 1 Takt Conclusion\nDie Länge der Initiation ist je nach Manöver sehr unterschiedlich und damit nicht immer genau einen Takt lang.\n\nRückwärts compound: far back auf 1, normaler Catch zwischen 2 und 3. So bleibt dem Bugpaddler genug Zeit für eine Korrektur.\nMusik\n\nLoreena McKennitt - La Serenissima\n\nTempo 87",
+    "crumbs": [
+      "Feinabstimmung"
+    ]
+  },
+  {
+    "objectID": "Feinheiten.html#sonstiges",
+    "href": "Feinheiten.html#sonstiges",
+    "title": "Feinabstimmung",
+    "section": "Sonstiges",
+    "text": "Sonstiges\n\nbeim ersten Vorwärtsschlag nach Manöver auch vorne Drehung etwas korrigieren\ncross Vorwärtsschläge nach Cross Manöver (passt aber nicht immer flüssig)",
+    "crumbs": [
+      "Feinabstimmung"
     ]
   }
 ]

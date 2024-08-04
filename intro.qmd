@@ -9,7 +9,7 @@
 
 ## weitere Gedanken
 
--  versuchen mit parallelen Bewegungen zu spielen
+- versuchen mit parallelen Bewegungen zu spielen
 - Platzierung für beide stationär
 - wie immer
    - Arme gerade

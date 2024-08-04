@@ -1,0 +1,29 @@
+# Free spins
+
+## Free spin onside
+
+Moving direction: Forwards/Backwards
+
+Turning direction: Onside
+
+Heel: Offside
+
++-------------------------+-------------------------+
+| Bow                     | Stern                   |
++=========================+=========================+
+| Paddle out of the water | Paddle out of the water |
++-------------------------+-------------------------+
+
+## Free spin offside
+
+Moving direction: Forwards/Backwards
+
+Turning direction: Offside
+
+Heel: Onside
+
++-------------------------+-------------------------+
+| Bow                     | Stern                   |
++=========================+=========================+
+| Paddle out of the water | Paddle out of the water |
++-------------------------+-------------------------+

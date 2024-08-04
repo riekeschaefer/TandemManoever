@@ -74,19 +74,19 @@ Kantung:
 - Stern Cross Axle: Onside
 - Stern Cross Post: Offside
 
-+-------------+------------------------------------------+----------------------------------+
-| Abschnitt   | Bug                                      | Heck                             |
-+=============+==========================================+==================================+
-| Einleitung  | Überkorrigierter Rückwärtsschlag         | - Heckhebel                      |
-|             |                                          | - Cross Ziehschlag               |
-+-------------+------------------------------------------+----------------------------------+
-| Placement   | - Neutraler stationärer Drückschlag      | Rückwärts stationärer Ziehschlag |
-|             | - Neutraler cross stationärer Ziehschlag |                                  |
-|             | - Christie (nur Stern Cross Axle)        |                                  |
-+-------------+------------------------------------------+----------------------------------+
-| Abschluss   | - Rückwärts Bogenschlag                  | Cross Heckziehschlag             |
-|             | - Cross Bugziehschlag                    |                                  |
-+-------------+------------------------------------------+----------------------------------+
++-------------+------------------------------------------+----------------------------------------+
+| Abschnitt   | Bug                                      | Heck                                   |
++=============+==========================================+========================================+
+| Einleitung  | Überkorrigierter Rückwärtsschlag         | - Heckhebel                            |
+|             |                                          | - Cross Ziehschlag                     |
++-------------+------------------------------------------+----------------------------------------+
+| Placement   | - Neutraler stationärer Drückschlag      | Rückwärts cross stationärer Ziehschlag |
+|             | - Neutraler cross stationärer Ziehschlag |                                        |
+|             | - Christie (nur Stern Cross Axle)        |                                        |
++-------------+------------------------------------------+----------------------------------------+
+| Abschluss   | - Rückwärts Bogenschlag                  | Cross Heckziehschlag                   |
+|             | - Cross Bugziehschlag                    |                                        |
++-------------+------------------------------------------+----------------------------------------+
 
 
 

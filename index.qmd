@@ -1,5 +1,7 @@
 # Erläuterungen zum Dokument {.unnumbered}
 
+## Darstelung
+
 ::: {.column-margin .panel-tabset group="side"}
 ### Onside = Rechts {.unnumbered}
 Bug paddelt rechts
@@ -14,5 +16,10 @@ Die Onside (Paddelseite) wird durch die Paddelseite des/der Bugpaddler*in bestim
 Bei einigen Manövern gibt es verschiedene Alternativen, was gemacht werden kann. Diese sind in der Tabelle als Aufzählung gelistest. 
 
 In den Skizzen wird auf der linken Seite die Drehrichtung und Paddelstellung für die Placement gezeigt. Auf der rechten Seite ist die Kantung (Blick von hinten auf's Boot) im Verhältnis zum Paddel gezeigt.
+
+## Struktur
+
+Es werden alle Quadranten und dann einige sondern Manöver durchgegangen. Am Ende haben wir noch ein paar unserer Erfahrungen zur Feinabstimmung zwischen den Paddlern eingefügt.
+
 
 [Texte und Bilder können unter [Create Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) genutzt werden.]{.content-visible when-format="pdf"}

@@ -5,14 +5,14 @@ project:
 book:
   title: "Tandem Freestyle"
   description: "Übersicht der Manöver im Tandem"
-  author: "Rieke"
+  author: "Marius, Rieke"
   date: today
   date-format: medium
   page-footer: "Text and figures shared under the Creative Commons Attribution 4.0 International License."
   site-url: "./"
   chapters:
-    - index.qmd
     - intro.qmd
+    - index.qmd
     - maneuver1.qmd
     - maneuver2.qmd
     - maneuver3.qmd
@@ -21,6 +21,7 @@ book:
     - freespins.qmd
     - gimbal.qmd
     - extended.qmd
+    - Feinheiten.qmd
 
 format:
   html:
