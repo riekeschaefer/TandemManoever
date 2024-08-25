@@ -92,6 +92,19 @@ Kantung:
 |             | - Rückwärts cross Bogenschlag             |                                  |
 +-------------+-------------------------------------------+----------------------------------+
 
+Koordinationsdetails
+
+- Stern Axle vorne Placement cross:
+    - Palmroll beim Reinslicen
+    - neutral ist fast 90° zum Boot
+    - Cross reverse Schlag wenn hinten Compound 1. Teil macht (Vorwarnung ist der Ziehschlag der Conclusion hinten)
+    - dann rüber (während hinten Compound 2. Teil macht) und weiter rückwärts (gleichzeitig vorne+hinten)
+- Stern Axle hinten
+  - Als Conclusion nur einen kurzen Ziehschlag machen, um das Boot nicht nach vorne zu beschleunigen. Dann direkt in den Compound Reverse.
+- Stern Post, vorne Placement Onside, rückwärts weiter
+  - früh mit Conclusion beginnen
+  - dann kann hinten den Bogen an den Bogen vorne anschließen (sonst hat das Boot schon quasi aufgehört zu drehen bis man so weit ist)
+- Stern Manöver, vorne ein Reverse Cross Christie als Placement: Palmroll nach dem Rübernehmen
 
 ## Stern Wedge und Stern Tangent
 

@@ -1,6 +1,8 @@
 # Erläuterungen zum Dokument {.unnumbered}
 
-## Darstelung
+Viele der Details im Tandem sind sehr abhängig vom Tandempaar (Paddelstil, Trim) und Boot. Wir haben uns bemüht, sowohl die Grundlage, die allgemein gelten, als auch Ideen und Anregungen zu eben solchen Details zu sammeln. Die feinere Abstimmung erfordert aber einfach Übung und Ausprobieren.
+
+## Darstellung
 
 ::: {.column-margin .panel-tabset group="side"}
 ### Onside = Rechts {.unnumbered}

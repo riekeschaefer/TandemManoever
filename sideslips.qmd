@@ -203,6 +203,11 @@ Kantung: Offside
 | - Rückwärts cross stationärer Drückschlag | - Rückwärts cross stationärer Ziehschlag |
 +-------------------------------------------+------------------------------------------+
 
+
+Koordinationsdetails
+
+- mit hecklastiger Trimmung: vorne muss man eigentlich direkt in die andere Richtung dagegen halten (Paddeln nicht offen sondern geschlossen), sonst dreht das Boot
+
 ## Stern side slip offside
 
 
@@ -271,3 +276,7 @@ Kantung: Onside
 | - Rückwärts stationärer Drückschlag       | - Rückwärts stationärer Ziehschlag        |
 | - Rückwärts cross stationärer Ziehschlag  | - Rückwärts cross stationärer Drückschlag |
 +-------------------------------------------+-------------------------------------------+
+
+Koordinationsdetails
+
+- mit hecklastiger Trimmung: vorne ist erst später ein Gegenhalten notwendig

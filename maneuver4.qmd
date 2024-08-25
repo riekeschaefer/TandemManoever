@@ -89,6 +89,12 @@ Kantung:
 +-------------+------------------------------------------+----------------------------------------+
 
 
+Koordinationsdetails
+
+- Stern Cross Axle/Post vorne Conclusion Onside
+  - loaded slice nach vorne während hinten einen Bogen macht
+  - direkt danach einfacher Rückwärtsschlag
+- nach Stern Cross Axle/Post vorne Conclusion Offside, compound Rückwärtsschlag, oder mal testen nur mit einem normalen Reverse weiterzumachen, um nicht so weit zum Compound Reverse rotieren zu müssen. 
 
 
 ## Stern Cross Wedge und Stern Cross Tangent
@@ -171,3 +177,7 @@ Kantung:
 | Abschluss   | - Rückwärts Bogenschlag                    | (Kurzer cross loaded slice und) rückwärts cross Bogenschlag |
 |             | - Cross Bogenschlag                        |                                                             |
 +-------------+--------------------------------------------+-------------------------------------------------------------+
+
+Koordinationsdetails
+
+- Stern Manöver, vorne ein Reverse Cross Christie als Placement: Palmroll nach dem Rübernehmen

@@ -1,44 +1,176 @@
 # Feinabstimmung {.unnumbered}
 
+## Allgemeingültige Dinge
+
+### Initiation
+
+- Der Bugpaddler entscheidet die Drehrichtung.
+- Initiation findet gleichzeitig statt.
+- Alle Manöver vorwärts zur Onside/rückwärts zur Offside werden mit einem diagonalen Ziehschlag eingeleitet.
+- Alle Manöver vorwärts zur Offside/rückwärts zur Onside werden mit einem kurzen Bogenschlag (beim führenden Paddler) und überkorrigierten J-Schlag (beim folgenden Paddler) eingeleitet. 
+- Side slips haben keine Einleitung und können daran erkannt werden.
+
+### Kantung -- rein
+
+- Der Bugpaddler gibt die Richtung der Kantung vor. Heckpaddler folgt leicht zeitversetzt mit der Kantung (insbesondere bei Cross Placement mit Offside Kante für den Bugpaddler wichtig).
+
+### Conclusion
+
+- Cross-Manöver zur Offside haben eine versetzte Conclusion, sofern der Heckpaddler kein Cross Placement macht (s.u. Weiterfahrt).
+- Stern Cross-Manöver zur Onside haben eine versetzte Conclusion, sofern der Bugpaddler kein Cross Placement macht (s.u. Weiterfahrt). (überprüfen)
+- Der Paddler mit dem weiteren Weg zur Conclusion bestimmt das Timing, es sei denn er kann vom anderen Paddler nicht gesehen werden.
+
+### Kantung -- raus
+
+- Bei Cross Manövern des Bugpaddlers beim Rübergehen des Bugpaddlers die Kantung rausnehmen (außer Cross Forward mit Kantung zur Onside).
+  - Cross Post + Cross Tangent: Catch des Cross Forward Strokes
+  - Cross Axle + Cross Wedge: beim Rübergehen
+- Timing der Kantung 
+  - beide Paddler (fast) zeitgleich
+  - Axle/Post beim nächsten Catch
+  - Wedge/Tangent Weg zum Vorwärtsschlag
+
+### Weiterfahrt
+
+- Wenn beide Paddler ein Cross-Placement machen, wird eine Vorwärtsweiterfahrt mit Cross Forwards begonnen. 
+- Die Länge der Manöver ist Cross und Nicht-Cross meist gleich.
+- Ggf. beim ersten Vorwärtsschlag nach Manöver auch im Bug die Drehung etwas korrigieren
+
+
 ## Koordination
 
-- Timing der Kantung 
-  - Rein
-    - Bugpaddler immer zuerst
-  - Raus
-    - beide Paddler (fast) zeitgleich
-    - Axle/Post beim nächsten Catch
-  - Wedge/Tangent Weg zum Vorwärtsschlag
 - Conclusion
-  - Der Paddler mit dem weiteren Weg zur Conclusion gibt das Timing vor.
   - Bei Rückwärtsmanövern gibt im Idealfall der Heckpaddler das Timing vor, weil er die Bootsdrehung besser beurteilen kann. Das ist allerdings nicht in allen Manövern gut machbar, weil der Bugpaddler nicht immer ausreichende Sicht nach hinten hat.
-  - Cross-Placement im Bug: Im Heck kann die Conclusion verzögert gemacht werden, um dem Bug-Paddler Zeit zu geben, das Paddel wieder auf die Onside zu bringen.
+
+<!-- - Cross-Placement im Bug: Im Heck kann die Conclusion verzögert gemacht werden, um dem Bug-Paddler Zeit zu geben, das Paddel wieder auf die Onside zu bringen (wenn kein Cross Vorwärtsschlag anschließt). -->
 
 ## Nonverbale Kommunikation
 
-- Bugpaddler gibt Drehrichtung und Kantung vor
-- Das Einleiten der Kantung kann man von hinten teilweise schon an den Füßen des Bug-Paddlers erkennen. Alle Körperbewegungen beobachten. Wahrscheinlich stark abhängig vom jeweiligen Paddler. 
-- Einleitungsschläge (damit der Heckpaddler es sehen kann)
-  - Onside Drehung: 45° Ziehschlag
-  - Offside Drehung: Bugdrückschlag
-  - Stern Onside Drehung: überkorrigierter Rückwärtsschlag (nicht compound!)
-  - Stern Offside Drehung: rückwärts 45° Ziehschlag
-  - Auch Rückwärtsmanöver leitet am besten der Bug-Paddler ein, weil der Heck-Paddler dann folgen kann. 
+<!-- - Das Einleiten der Kantung kann man von hinten teilweise schon an den Füßen des Bug-Paddlers erkennen. Alle Körperbewegungen beobachten. Wahrscheinlich stark abhängig vom jeweiligen Paddler.  -->
+<!-- - Einleitungsschläge (damit der Heckpaddler es sehen kann) -->
+<!--   - Onside Drehung: 45° Ziehschlag -->
+<!--   - Offside Drehung: Bugdrückschlag/kurzer Bugbogenschlag (so 30° oder so) -->
+<!--   - Stern Onside Drehung: überkorrigierter Rückwärtsschlag (nicht compound!) -->
+<!--   - Stern Offside Drehung: rückwärts 45° Ziehschlag -->
+<!--   - Auch Rückwärtsmanöver leitet am besten der Bug-Paddler ein, weil der Heck-Paddler dann folgen kann.  -->
 - Vor einem Cross-Placement im Heck nur einen sehr kurzen Vorwärtsschlag machen und zügig mit dem Paddel das Boot kreuzen, damit der Bugpaddler eine Chance hat das Placement zu erkennen. Paddel können dann synchron eingesetzt werden.
-- Sideslips erkennt man an Placement ohne Initiation
+<!-- - Sideslips erkennt man an Placement ohne Initiation -->
+
+<!-- - wenn wir beide ein Cross Placement machen, folgt direkt ein Cross Forward stroke (wenn es vorwärts weiter geht), Timing des Kantung rausnehmens dabei -->
+<!--   - Cross Post + Cross Tangent: Catch -->
+<!--   - Cross Axle + Cross Wedge: rübergehen -->
+- wenn vorne Paddel + Kantung auf einer Seite sind, kann man von vorne den Heckpaddler nicht sehen, wenn er das Placement auf der anderen Seite hat
+  - für Stern-Manöver bedeutet das, dass der Bugpaddler in dem Fall die Conclusion beginnen sollte
+
+### Fragen, um sich heranzuarbeiten
+
+- Fahrtrichtung
+- Einleitung 
+  - vorne initiiert
+  - hinten wahrgenommen und aufgenommen: woran erkennt man das?
+    - Paddelhaltung
+    - Füße
+    - Hüfte
+- Weg zum Placement
+- Kante
+  - vorne festgelegt
+  - hinten aufgenommen
+    - woran erkennt man das?
+      - Sitzposition
+      - Füße
+      - Körperspannung
+    - ggf. sehr frühzeitig zu sehen
+- Placement
+  - Placement folgender Paddler: 2,5 Möglichkeiten
+    - Neutral Slice und Cross Neutral Slice gehen immer
+    - Christie, bzw. Cross Christie funktioniert bei Manövern, die zur Kurvenrichtung gekantet werden
+  - gleichzeitiges Eintauchen der Paddel, wenn mindestens einer Cross geht
+    - bei welchen Manövern passt das?
+    - Wie wird das in den Übergang zwischen Initiation und Placement für den anderen Paddler gut eingebaut?
+- Conclusion
+  - den Zeitpunkt des Beginns entscheidet meist der führende Paddler
+    - Bei welchen Manövern gilt das nicht? (z.B. weil der folgende Paddler den führenden nicht richtig sehen kann)
+  - Timing der Conclusions beider Paddler zueinander
+- Bewegung zum nächsten Catch
+  - Wann genau wird die Kantung rausgenommen?
+  - in welche Richtung geht es weiter?
+  - wer braucht wie lange?
+    - Wo endet die Conclusion? Wo geht es weiter?
+    - Muss einer über das Boot?
+- nächster Catch
+  - Timing: wann genau?
+    - gibt der Bugpaddler vor, weil der Heckpaddler reagieren kann
 
 ## Paddeln zu Takt/Musik
 
-- Tempo um 80(?) geht ganz gut
-- Länge in Takten
-  - Axle/Post 7 Takte: 1 Takt Initiation, 4 Takte Placement, 2 Takte Conclusion
-  - Wedge/Tangent 6 Takte: 1 Takt Initiation, 3 Takte Placement, 2 Takte Conclusion
-  - Stern Axle/Post 5: 1 Takt Initiation, 3 Takte Placement, 1 Takt Conclusion
-  - Die Länge der Initiation ist je nach Manöver sehr unterschiedlich und damit nicht immer genau einen Takt lang. 
+- Tempo um 80 geht ganz gut
+- Die Länge der Initiation ist je nach Manöver sehr unterschiedlich und damit nicht immer genau einen Takt lang. 
 - Rückwärts compound: far back auf 1, normaler Catch zwischen 2 und 3. So bleibt dem Bugpaddler genug Zeit für eine Korrektur.
-- Musik
-  - Loreena McKennitt - La Serenissima
-    - Tempo 87
+- Alle Längen dürften stark abhängig sein von der Bootsform und der Trimmung
+
+### Musikalische Manöverlängen
+
+die folgende Liste gilt für
+
+- Rieke und Marius in Elmo
+- ein gutes Tempo ist für uns etwa 80 bis 95
+  - mögliche Musik: Loreena McKennitt - La Serenissima (87)
+  - Catch jeweils auf der 1
+- die Zahlen beschreiben die Taktanzahl für Initiation, Placement, Conclusion (einige Manöver können schneller gehen, wenn man flott reinfährt, das ist die letzte Spalte)
+
++---------------------+----------+-------------------+
+| Manöver             | Takte    | flotte Ausführung |
++=====================+==========+===================+
+| Axle                | 1 4 2    |                   |
++---------------------+----------+-------------------+
+| Post                | 1 4 2    |                   |
++---------------------+----------+-------------------+
+| Wedge               | 1 3 2    |                   |
++---------------------+----------+-------------------+
+| Tangent             | 1 3 2    |                   |
++---------------------+----------+-------------------+
+| Stern Axle          | 1 4 2    | 1 3 2             |
++---------------------+----------+-------------------+
+| Stern Post          | 1 4 2    | 1 3 2             |
++---------------------+----------+-------------------+
+| Stern Wedge         | 1 3 2    |                   |
++---------------------+----------+-------------------+
+| Stern Tangent       | 1 3 2    |                   |
++---------------------+----------+-------------------+
+| Stern Axle          | 1 3 1    |                   |
++---------------------+----------+-------------------+
+| Stern Post          | 1 3 1    |                   |
++---------------------+----------+-------------------+
+| Stern Wedge         | 1 3 1    |                   |
++---------------------+----------+-------------------+
+| Stern Tangent       | 1 3 1    |                   |
++---------------------+----------+-------------------+
+| Stern Cross Axle    | 1 4 1    | 1 3 1             |
++---------------------+----------+-------------------+
+| Stern Cross Post    | 1 4 1    |                   |
++---------------------+----------+-------------------+
+| Stern Cross Wedge   | 1 3 1    |                   |
++---------------------+----------+-------------------+
+| Stern Cross Tangent | 1 3 1    |                   |
++---------------------+----------+-------------------+
+| Sideslips           | variabel |                   |
++---------------------+----------+-------------------+
+| Gimbal              | variabel |                   |
++---------------------+----------+-------------------+
+
+- meistens sind nicht Cross und Cross Manöver gleich
+  - man muss sich überlegen, wo das Rübernehmen des Paddels untergebracht wird
+- im 3. Quadranten sind alle Manöver gleich
+- Conclusion für Cross Axle + Cross Post
+  - vorne: 1. Takt = loaded slice, 2. Takt = rübernehmen
+  - hinten: bis zum 2. Takt warten
+
+
+### Fragen, um sich heranzuarbeiten
+
+- Was ist eine komfortable Paddelfrequenz? (ggf. mit Metronom testen)
+- Wie lang sind die Manöver (in Takten) mit dem Team und Boot?
+- je nach Trim verhalten sich vorwärts und rückwärts Manöver sehr unterschiedlich
 
 ## Sonstiges
 

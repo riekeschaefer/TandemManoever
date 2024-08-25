@@ -85,6 +85,14 @@ Kantung:
 |             |                                         | - Cross Heckziehschlag                   |
 +-------------+-----------------------------------------+------------------------------------------+
 
+Koordinationsdetails
+
+- Cross Conclusions (vorne Cross, hinten nicht)
+  - versetzt: Cross Post + Cross Axle (gibt dem Bugpaddler Zeit rüberzugehen)
+    - V: neutraler Slice
+    - V: Bogen + H: Slice
+    - V: rüber + H: Bogen
+
 
 ## Cross Wedge und Cross Tangent
 
@@ -167,3 +175,8 @@ Kantung:
 | Abschluss   | (Kurzer loaded slice und) Cross Bogenschlag | - Bogenschlag                             |
 |             |                                             | - Rckwärts cross Heckziehschlag           |
 +-------------+---------------------------------------------+-------------------------------------------+
+
+Koordinationsdetails
+
+- Cross Conclusions (vorne Cross, hinten nicht)
+  - parallel: Cross Tangent + Cross Wedge
