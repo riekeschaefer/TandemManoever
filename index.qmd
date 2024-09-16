@@ -21,7 +21,7 @@ In den Skizzen wird auf der linken Seite die Drehrichtung und Paddelstellung fü
 
 ## Struktur
 
-Es werden alle Quadranten und dann einige sondern Manöver durchgegangen. Am Ende haben wir noch ein paar unserer Erfahrungen zur Feinabstimmung zwischen den Paddlern eingefügt.
+Es werden alle Quadranten und dann einige Sonder-Manöver durchgegangen. Am Ende haben wir noch ein paar unserer Erfahrungen zur Feinabstimmung zwischen den Paddlern eingefügt.
 
 
 [Texte und Bilder können unter [Create Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) genutzt werden.]{.content-visible when-format="pdf"}
