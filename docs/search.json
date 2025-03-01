@@ -24,7 +24,7 @@
     "href": "index.html#struktur",
     "title": "Tandem Freestyle",
     "section": "Struktur",
-    "text": "Struktur\nEs werden alle Quadranten und dann einige sondern Manöver durchgegangen. Am Ende haben wir noch ein paar unserer Erfahrungen zur Feinabstimmung zwischen den Paddlern eingefügt.",
+    "text": "Struktur\nEs werden alle Quadranten und dann einige Sonder-Manöver durchgegangen. Am Ende haben wir noch ein paar unserer Erfahrungen zur Feinabstimmung zwischen den Paddlern eingefügt.",
     "crumbs": [
       "Erläuterungen zum Dokument"
     ]
@@ -34,7 +34,7 @@
     "href": "intro.html",
     "title": "Allgemeine Gedanken",
     "section": "",
-    "text": "Placements",
+    "text": "Placements\nklassisch:\nErweiterung:",
     "crumbs": [
       "Allgemeine Gedanken"
     ]
@@ -44,7 +44,7 @@
     "href": "intro.html#placements",
     "title": "Allgemeine Gedanken",
     "section": "",
-    "text": "vorwärts: Bugpaddler\nrückwärts: Heckpaddler\nder jeweils andere soll nicht stören und hat verschiedene Möglichkeiten (ggf. parallele Bewegungen bevorzugen)\nwie auch im Solo, sollte aber auch eine Platzierung auf der jeweils anderen Seite des Drehpunktes möglich sein, dann wären die Rollen genau getauscht und der zweite stört nicht. Soweit ich das sehe, ist das aber noch namenlos.",
+    "text": "vorwärts: Bugpaddler\nrückwärts: Heckpaddler\nder jeweils andere soll nicht stören und hat verschiedene Möglichkeiten (ggf. parallele Bewegungen bevorzugen)\nwie auch im Solo, sollte aber auch eine Platzierung auf der jeweils anderen Seite des Drehpunktes möglich sein, dann wären die Rollen genau getauscht und der zweite stört nicht. Soweit ich das sehe, ist das aber noch namenlos.\n\n\n\nder folgende Paddler kann durch Kraft auf dem Paddel die Stärke des Schleuderns steuern also nicht nur neutral sein\ndarauf aufbauend kann der folgende Paddler im Grunde auch das Placement machen und der führende Paddler die Kurve steuern\n\nbeim stern axle/post vom Bugpaddler gefahren, hätte der dann zum Beispiel Kraft innen auf dem Paddel und das Paddel in Fahrtrichtung vom Boot wegzeigend\nbeim stern wedge/tangent hingegen wäre für den Bugpaddler die Kraft außen auf dem Paddel und das Paddel in Fahrtrichtung zum Boot zeigend",
     "crumbs": [
       "Allgemeine Gedanken"
     ]
@@ -74,7 +74,7 @@
     "href": "maneuver1.html",
     "title": "1  Vorwärts Onside",
     "section": "",
-    "text": "1.1 Axle und Post\nDrehrichtung: Onside\nKantung:\nKoordinationsdetails",
+    "text": "1.1 Axle und Post\nFahrtrichtung: Vorwärts\nPlacement: Onside\nDrehrichtung: Onside\nKantung:\nKoordinationsdetails",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Vorwärts Onside</span>"
     ]
@@ -104,7 +104,7 @@
     "href": "maneuver2.html",
     "title": "2  Vorwärts Offside (Cross)",
     "section": "",
-    "text": "2.1 Cross Axle und Cross Post\nDrehrichtung: Offside\nKantung:\nKoordinationsdetails",
+    "text": "2.1 Cross Axle und Cross Post\nFahrtrichtung: Vorwärts\nPlacement: Offside\nDrehrichtung: Offside\nKantung:\nKoordinationsdetails",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Vorwärts Offside (Cross)</span>"
     ]
@@ -114,7 +114,7 @@
     "href": "maneuver2.html#cross-axle-und-cross-post",
     "title": "2  Vorwärts Offside (Cross)",
     "section": "",
-    "text": "Onside = RechtsOnside = Links\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCross Axle\n\n\n\n\n\nCross Post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCross Axle\n\n\n\n\n\nCross Post\n\n\n\n\n\n\n\n\n\n\nCross Axle: Offside\nCross Post: Onside\n\n\n\n\n\n\n\n\n\nAbschnitt\nBug\nHeck\n\n\n\n\nEinleitung\n\nKurzer Bogenschlag\nCross Bugziehschlag\n\nÜberkorrigiertes J\n\n\nPlacement\nCross stationärer Ziehschlag\n\nNeutraler stationärer Drückschlag\nNeutraler cross stationärer Ziehschlag\nChristie (nur Cross Axle)\n\n\n\nAbschluss\nCross Bugziehschlag (ggf. um Bug herum)\n\nRückwärts Bogenschlag\nCross Heckziehschlag\n\n\n\n\n\n\nCross Conclusions (vorne Cross, hinten nicht)\n\nversetzt: Cross Post + Cross Axle (gibt dem Bugpaddler Zeit rüberzugehen)\n\nV: neutraler Slice\nV: Bogen + H: Slice\nV: rüber + H: Bogen",
+    "text": "Onside = RechtsOnside = Links\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCross Axle\n\n\n\n\n\nCross Post\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCross Axle\n\n\n\n\n\nCross Post\n\n\n\n\n\n\n\n\n\n\nCross Axle: Offside\nCross Post: Onside\n\n\n\n\n\n\n\n\n\nAbschnitt\nBug\nHeck\n\n\n\n\nEinleitung\n\nKurzer Bogenschlag\nCross Bugziehschlag\n\nÜberkorrigiertes J\n\n\nPlacement\nCross stationärer Ziehschlag\n\nNeutraler stationärer Drückschlag\nNeutraler cross stationärer Ziehschlag\nChristie (nur Cross Axle)\n\n\n\nAbschluss\nCross Bugziehschlag (ggf. um Bug herum)\n\nRückwärts Bogenschlag\nCross Heckziehschlag\n\n\n\n\n\n\nConclusions wenn vorne Cross und hinten nicht: versetzt\n\ngibt dem Bugpaddler Zeit rüberzugehen)\nV: neutraler Slice\nV: Bogen + H: Slice\nV: rüber + H: Bogen",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Vorwärts Offside (Cross)</span>"
     ]
@@ -124,7 +124,7 @@
     "href": "maneuver2.html#cross-wedge-und-cross-tangent",
     "title": "2  Vorwärts Offside (Cross)",
     "section": "2.2 Cross Wedge und Cross Tangent",
-    "text": "2.2 Cross Wedge und Cross Tangent\n\n\nOnside = RechtsOnside = Links\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCross Wedge\n\n\n\n\n\nCross Tangent\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCross Wedge\n\n\n\n\n\nCross Tangent\n\n\n\n\n\n\n\nDrehrichtung: Onside\nKantung:\n\nCross Wedge: Offside\nCross Tangent: Onside\n\n\n\n\n\n\n\n\n\nAbschnitt\nBug\nHeck\n\n\n\n\nEinleitung\n\n45° Ziehschlag\nCross Bugbogenschlag\n\n\n45° Ziehschlag\nBogenschlag\nunkorrigierter Vorwärtsschlag\n\n\n\nPlacement\nCross stationärer Drückschlag\n\nNeutraler stationärer Ziehschlag\nNeutraler cross stationärer Drückschlag\nCross Christie (nur Cross Tangent)\n\n\n\nAbschluss\n(Kurzer loaded slice und) Cross Bogenschlag\n\nBogenschlag\nRckwärts cross Heckziehschlag\n\n\n\n\nKoordinationsdetails\n\nCross Conclusions (vorne Cross, hinten nicht)\n\nparallel: Cross Tangent + Cross Wedge",
+    "text": "2.2 Cross Wedge und Cross Tangent\n\n\nOnside = RechtsOnside = Links\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCross Wedge\n\n\n\n\n\nCross Tangent\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCross Wedge\n\n\n\n\n\nCross Tangent\n\n\n\n\n\n\n\nDrehrichtung: Onside\nKantung:\n\nCross Wedge: Offside\nCross Tangent: Onside\n\n\n\n\n\n\n\n\n\n\nAbschnitt\nBug\nHeck\n\n\n\n\n\nEinleitung\n\n45° Ziehschlag\nCross Bugbogenschlag\n\n\n45° Ziehschlag\nBogenschlag\nunkorrigierter Vorwärtsschlag\n\n\n\n\nPlacement\nCross stationärer Drückschlag\n\nNeutraler stationärer Ziehschlag\nNeutraler cross stationärer Drückschlag\nCross Christie (nur Cross Tangent)\n\n\n\n\nAbschluss\n(Kurzer loaded slice und) Cross Bogenschlag\n\nBogenschlag |\nRückwärts cross Heckziehschlag\n\n\n\n\nKoordinationsdetails\n\nConclusions wenn vorne Cross und hinten nicht: parallel",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Vorwärts Offside (Cross)</span>"
     ]
@@ -134,7 +134,7 @@
     "href": "maneuver3.html",
     "title": "3  Rückwärts Offside (Stern)",
     "section": "",
-    "text": "3.1 Stern Axle und Stern Post\nDrehrichtung: Offside\nKantung:\nKoordinationsdetails",
+    "text": "3.1 Stern Axle und Stern Post\nFahrtrichtung: Rückwärts\nPlacement: Offside\nDa die Onside durch die Paddelseite im Bug bestimmt wird, sind Stern Manöver offside Manöver.\nDrehrichtung: Offside\nKantung:\nKoordinationsdetails",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Rückwärts Offside (Stern)</span>"
     ]
@@ -164,7 +164,7 @@
     "href": "maneuver4.html",
     "title": "4  Rückwärts Onside (Stern Cross)",
     "section": "",
-    "text": "4.1 Stern Cross Axle und Stern Cross Post\nDrehrichtung: Onside\nKantung:\nKoordinationsdetails",
+    "text": "4.1 Stern Cross Axle und Stern Cross Post\nFahrtrichtung: Rückwärts\nPlacement: Offside\nDa die Onside durch die Paddelseite im Bug bestimmt wird, sind Stern Cross Manöver onside Manöver.\nDrehrichtung: Onside\nKantung:\nKoordinationsdetails",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Rückwärts Onside (Stern Cross)</span>"
     ]
@@ -194,7 +194,7 @@
     "href": "sideslips.html",
     "title": "5  Side slips",
     "section": "",
-    "text": "5.1 Side slip onside\nFahrtrichtung: Vorwärts\nBewegungsrichtung: Onside\nKantung: Offside",
+    "text": "5.1 Side slip onside\nDie Paddelposition auf der On- und Offside kann beliebig kombiniert werden. Auf den Abbildungen sind einfach beide mögliche Positionen für jeweils Bug und Heck dargestellt.\nFahrtrichtung: Vorwärts\nBewegungsrichtung: Onside\nKantung: Offside",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Side slips</span>"
     ]
@@ -274,7 +274,7 @@
     "href": "gimbal.html",
     "title": "7  Gimbal",
     "section": "",
-    "text": "7.1 Outer Gimbal",
+    "text": "7.1 Outer Gimbal\nArme ins Wasser und rühren ;)",
     "crumbs": [
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Gimbal</span>"
     ]
@@ -304,7 +304,7 @@
     "href": "extended.html",
     "title": "8  Extended Manöver",
     "section": "",
-    "text": "8.1 Extended Axle\nDrehrichtung: Onside\nKantung: Onside",
+    "text": "8.1 Extended Axle\nPlacement ohne Druck für beide, das Gewicht wird allein durch Körperspannung gehalten und der zweite muss ausgleichen\nDrehrichtung: Onside\nKantung: Onside",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Extended Manöver</span>"
     ]
@@ -344,7 +344,7 @@
     "href": "Feinheiten.html#allgemeingültige-dinge",
     "title": "Feinabstimmung",
     "section": "",
-    "text": "Initiation\n\nDer Bugpaddler entscheidet die Drehrichtung.\nInitiation findet gleichzeitig statt.\nAlle Manöver vorwärts zur Onside/rückwärts zur Offside werden mit einem diagonalen Ziehschlag eingeleitet.\nAlle Manöver vorwärts zur Offside/rückwärts zur Onside werden mit einem kurzen Bogenschlag (beim führenden Paddler) und überkorrigierten J-Schlag (beim folgenden Paddler) eingeleitet.\nSide slips haben keine Einleitung und können daran erkannt werden.\n\n\n\nKantung – rein\n\nDer Bugpaddler gibt die Richtung der Kantung vor. Heckpaddler folgt leicht zeitversetzt mit der Kantung (insbesondere bei Cross Placement mit Offside Kante für den Bugpaddler wichtig).\n\n\n\nConclusion\n\nCross-Manöver zur Offside haben eine versetzte Conclusion, sofern der Heckpaddler kein Cross Placement macht (s.u. Weiterfahrt).\nStern Cross-Manöver zur Onside haben eine versetzte Conclusion, sofern der Bugpaddler kein Cross Placement macht (s.u. Weiterfahrt). (überprüfen)\nDer Paddler mit dem weiteren Weg zur Conclusion bestimmt das Timing, es sei denn er kann vom anderen Paddler nicht gesehen werden.\n\n\n\nKantung – raus\n\nBei Cross Manövern des Bugpaddlers beim Rübergehen des Bugpaddlers die Kantung rausnehmen (außer Cross Forward mit Kantung zur Onside).\n\nCross Post + Cross Tangent: Catch des Cross Forward Strokes\nCross Axle + Cross Wedge: beim Rübergehen\n\nTiming der Kantung\n\nbeide Paddler (fast) zeitgleich\nAxle/Post beim nächsten Catch\nWedge/Tangent Weg zum Vorwärtsschlag\n\n\n\n\nWeiterfahrt\n\nWenn beide Paddler ein Cross-Placement machen, wird eine Vorwärtsweiterfahrt mit Cross Forwards begonnen.\nDie Länge der Manöver ist Cross und Nicht-Cross meist gleich.\nGgf. beim ersten Vorwärtsschlag nach Manöver auch im Bug die Drehung etwas korrigieren",
+    "text": "Initiation\n\nDer Bugpaddler entscheidet die Drehrichtung.\nInitiation findet gleichzeitig statt.\nAlle Manöver vorwärts zur Onside/rückwärts zur Offside werden mit einem diagonalen Ziehschlag eingeleitet.\nAlle Manöver vorwärts zur Offside/rückwärts zur Onside werden mit einem kurzen Bogenschlag (beim führenden Paddler) und überkorrigierten J-Schlag (beim folgenden Paddler) eingeleitet.\nSide slips haben keine Einleitung und können daran erkannt werden.\nAus Side slips kann man aber auch wunderbar direkt in Manöver übergehen. Wann in welche Richtung weggedreht wird, ist dann ein wenig Gefühlssache, die Kantung sollte in dem Fall dann aber nicht gewechselt werden, sondern nur verstärkt werden, sonst entsteht zu viel Unruhe.\n\n\n\nKantung – rein\n\nDer Bugpaddler gibt die Richtung der Kantung vor. Heckpaddler folgt leicht zeitversetzt mit der Kantung (insbesondere bei Cross Placement mit Offside Kante für den Bugpaddler wichtig).\n\n\n\nConclusion\n\nCross-Manöver zur Offside haben eine versetzte Conclusion, sofern der Heckpaddler kein Cross Placement macht (s.u. Weiterfahrt).\nStern Cross-Manöver zur Onside haben eine versetzte Conclusion, sofern der Bugpaddler kein Cross Placement macht (s.u. Weiterfahrt). (überprüfen)\nDer Paddler mit dem weiteren Weg zur Conclusion bestimmt das Timing, es sei denn er kann vom anderen Paddler nicht gesehen werden.\n\n\n\nKantung – raus\n\nBei Cross Manövern des Bugpaddlers beim Rübergehen des Bugpaddlers die Kantung rausnehmen (außer Cross Forward mit Kantung zur Onside).\n\nCross Post + Cross Tangent: Catch des Cross Forward Strokes\nCross Axle + Cross Wedge: beim Rübergehen\n\nTiming der Kantung\n\nbeide Paddler (fast) zeitgleich\nAxle/Post beim nächsten Catch\nWedge/Tangent Weg zum Vorwärtsschlag\n\n\n\n\nWeiterfahrt\n\nWenn beide Paddler ein Cross-Placement machen, wird eine Vorwärtsweiterfahrt mit Cross Forwards begonnen.\nDie Länge der Manöver ist Cross und Nicht-Cross meist gleich.\nGgf. beim ersten Vorwärtsschlag nach Manöver auch im Bug die Drehung etwas korrigieren",
     "crumbs": [
       "Feinabstimmung"
     ]

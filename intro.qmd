@@ -2,10 +2,19 @@
 
 ## Placements
 
+klassisch:
+
 - vorwärts: Bugpaddler
 - rückwärts: Heckpaddler
 - der jeweils andere soll nicht stören und hat verschiedene Möglichkeiten (ggf. parallele Bewegungen bevorzugen)
 - wie auch im Solo, sollte aber auch eine Platzierung auf der jeweils anderen Seite des Drehpunktes möglich sein, dann wären die Rollen genau getauscht und der zweite stört nicht. Soweit ich das sehe, ist das aber noch namenlos.
+
+Erweiterung: 
+
+- der folgende Paddler kann durch Kraft auf dem Paddel die Stärke des Schleuderns steuern also nicht nur neutral sein
+- darauf aufbauend kann der folgende Paddler im Grunde auch das Placement machen und der führende Paddler die Kurve steuern
+  - beim stern axle/post vom Bugpaddler gefahren, hätte der dann zum Beispiel Kraft innen auf dem Paddel und das Paddel in Fahrtrichtung vom Boot wegzeigend
+  - beim stern wedge/tangent hingegen wäre für den Bugpaddler die Kraft außen auf dem Paddel und das Paddel in Fahrtrichtung zum Boot zeigend
 
 ## weitere Gedanken
 
