@@ -8,6 +8,18 @@ Arme ins Wasser und rühren ;)
 - immer abwechselnd, damit man eine ruhige Bootsbewegung kriegt
 - während der eine den Bogen macht, führt der andere das Paddel in die Startposition für den nächsten Bogen
 
+::: {.content-visible when-format="html"}
+::: {.column-margin}
+
+![gleiche Farbe - gleichzeitig, dünne Striche sind neutrale Slice](ManoeverSkizzen/OuterGimbal.png){fig-align="center" height=5cm}
+
+:::
+:::
+
+::: {.content-visible when-format="pdf"}
+![gleiche Farbe - gleichzeitig, dünne Striche sind neutrale Slice](ManoeverSkizzen/OuterGimbal.png){fig-align="center" height=3cm}
+:::
+
 - Übergang Manöver zu outer Gimbal, Koordination der zweiteiligen Conclusion
   - bei Manövern mit zweiteiliger Conclusion, würde ja sonst ggf. der Paddler mit nur einem Teil warten, bis der andere beim zweiten Teil ist
   - wenn man einen outer Gimbal anhängen möchte, fangen beide gleichzeitig an, der erste macht direkt den Bogen, der zweite dann versetzt und es geht flüssig in den Gimbal über
@@ -17,3 +29,15 @@ Arme ins Wasser und rühren ;)
 - beide machen 180° Bögen mit Kraft (ggf. etwas kürzer, damit das Boot keine vorwärts/rückwärts Fahrt bekommt) und die andere Hälfte neutral. Der Bugpaddler hat seine Kraftphase im Halbkreis um den Bug und der Heckpaddler ums Heck, der Wechsel erfolgt also etwa 90° neben den Paddlern
 - immer abwechselnd, damit man eine ruhige Bootsbewegung kriegt
 - die Paddel bewegen sich synchron auf dem Kreis, sind also gleichzeitig in der gleichen Position, nur dass einer Kraft auf dem Blatt hat, während der andere es neutral führt. 
+
+::: {.content-visible when-format="html"}
+::: {.column-margin}
+
+![gleiche Farbe - gleichzeitig, dünne Striche sind neutrale Slice](ManoeverSkizzen/InnerGimbal.png){fig-align="center" height=5cm}
+
+:::
+:::
+
+::: {.content-visible when-format="pdf"}
+![gleiche Farbe - gleichzeitig, dünne Striche sind neutrale Slice](ManoeverSkizzen/InnerGimbal.png){fig-align="center" height=3cm}
+:::

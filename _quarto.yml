@@ -11,8 +11,8 @@ book:
   page-footer: "Text and figures shared under the Creative Commons Attribution 4.0 International License."
   site-url: "./"
   chapters:
-    - intro.qmd
     - index.qmd
+    - intro.qmd
     - maneuver1.qmd
     - maneuver2.qmd
     - maneuver3.qmd
