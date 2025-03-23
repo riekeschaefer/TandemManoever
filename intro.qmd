@@ -6,7 +6,7 @@ klassisch:
 
 - vorwärts: Bugpaddler
 - rückwärts: Heckpaddler
-- der jeweils andere soll nicht stören und hat verschiedene Möglichkeiten (ggf. parallele Bewegungen bevorzugen)
+- der jeweils andere kann den Charakter des Manövers durch stationäres Schneiden oder stationäre Drück- oder Ziehschläge beeinflussen und hat verschiedene Möglichkeiten (ggf. parallele Bewegungen bevorzugen)
 - wie auch im Solo, sollte aber auch eine Platzierung auf der jeweils anderen Seite des Drehpunktes möglich sein, dann wären die Rollen genau getauscht und der zweite stört nicht. Soweit ich das sehe, ist das aber noch namenlos.
 
 Erweiterung: 
