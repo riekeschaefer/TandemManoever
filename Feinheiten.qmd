@@ -6,7 +6,7 @@
 
 - Der Bugpaddler entscheidet die Drehrichtung.
 - Initiation findet gleichzeitig statt.
-- Alle Manöver vorwärts zur Onside/rückwärts zur Offside werden mit einem diagonalen Ziehschlag eingeleitet.
+- Alle Manöver vorwärts zur Onside und rückwärts zur Offside können mit diagonalen Ziehschlägen eingeleitet werden.
 - Alle Manöver vorwärts zur Offside/rückwärts zur Onside werden mit einem kurzen Bogenschlag (beim führenden Paddler) und überkorrigierten J-Schlag (beim folgenden Paddler) eingeleitet. 
 - Side slips haben keine Einleitung und können daran erkannt werden.
 - Aus Side slips kann man aber auch wunderbar direkt in Manöver übergehen. Wann in welche Richtung weggedreht wird, ist dann ein wenig Gefühlssache, die Kantung sollte in dem Fall dann aber nicht gewechselt werden, sondern nur verstärkt werden, sonst entsteht zu viel Unruhe.
