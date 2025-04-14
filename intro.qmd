@@ -1,16 +1,17 @@
 # Allgemeine Gedanken {.unnumbered}
 
 ## Placements
-
+<!-- Ich denke, dass der folgende Absatz komplett ersetzt werden kann durch die Texte, die bei den "Allgemeingültigen Dingen" stehen. -->
 klassisch:
 
 - vorwärts: Bugpaddler
 - rückwärts: Heckpaddler
-- der jeweils andere soll nicht stören und hat verschiedene Möglichkeiten (ggf. parallele Bewegungen bevorzugen)
+- der jeweils andere kann den Charakter des Manövers durch stationäres Schneiden oder stationäre Drück- oder Ziehschläge beeinflussen und hat verschiedene Möglichkeiten (ggf. parallele Bewegungen bevorzugen)
+<!-- Vom folgenden Satz bin ich immer noch nicht überzeugt. Das Placement hinter dem Drehpunkt ist möglich, aber als alleiniges Placement nicht sehr wirksam, wenn das Boot ungünstig getrimmt ist (wie in unserem Fall). Ich würde eher davon ausgehen, dass beide ein Placement machen. -->
 - wie auch im Solo, sollte aber auch eine Platzierung auf der jeweils anderen Seite des Drehpunktes möglich sein, dann wären die Rollen genau getauscht und der zweite stört nicht. Soweit ich das sehe, ist das aber noch namenlos.
 
 Erweiterung: 
-
+<!-- Das hier ist dann irgendwie doppelt. -->
 - der folgende Paddler kann durch Kraft auf dem Paddel die Stärke des Schleuderns steuern also nicht nur neutral sein
 - darauf aufbauend kann der folgende Paddler im Grunde auch das Placement machen und der führende Paddler die Kurve steuern
   - beim stern axle/post vom Bugpaddler gefahren, hätte der dann zum Beispiel Kraft innen auf dem Paddel und das Paddel in Fahrtrichtung vom Boot wegzeigend
@@ -30,6 +31,6 @@ Erweiterung:
 - für den, der das Manöver macht, sind Bewegungen festgelegt (die einzige Variation ist eine Cross Einleitung und ggf. Variation im Abschluss, wenn man danach was anderes machen will), der andere hat wesentlich mehr Variationsspielraum. Auch dort scheint sich aber eine Struktur zu ergeben mit immer ähnlichen Möglichkeiten (so wahnsinnig viele Möglichkeiten gibt es ja auch nicht). Entscheidend ist hier im Grunde lediglich die Kantung und Drehrichtung, nicht das Manöver. Je nachdem was man möchte, kann man das Manöver parallel zum anderen Paddler aufbauen.
 
 ## Begriffe
-
+<!-- Sollten wir mit in einen Bereich "Definitionen und Erklärungen" packen. -->
 - Cross (Kreuz) auf Englisch belassen für einheitliche Bezeichnungen = übergegriffener Schlag, Paddel auf die Nicht-Paddelseite bewegen
 - Onside = Paddelseite des Bug, Offside = Paddelseite des Heck

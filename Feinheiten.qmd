@@ -1,15 +1,34 @@
 # Feinabstimmung {.unnumbered}
 
+## Definitionen und Erklärungen
+
+- Führendes und folgendes Bootsende
+- Führender und folgender Paddler
+- Aktive Paddelseite
+
 ## Allgemeingültige Dinge
 
 ### Initiation
 
 - Der Bugpaddler entscheidet die Drehrichtung.
 - Initiation findet gleichzeitig statt.
-- Alle Manöver vorwärts zur Onside/rückwärts zur Offside werden mit einem diagonalen Ziehschlag eingeleitet.
-- Alle Manöver vorwärts zur Offside/rückwärts zur Onside werden mit einem kurzen Bogenschlag (beim führenden Paddler) und überkorrigierten J-Schlag (beim folgenden Paddler) eingeleitet. 
+- Alle Manöver vorwärts zur Onside und rückwärts zur Offside können mit diagonalen Ziehschlägen eingeleitet werden.
+- Alle Manöver vorwärts zur Offside und rückwärts zur Onside können mit einem kurzen Bogenschlag (beim führenden Paddler) und überkorrigierten J-Schlag (beim folgenden Paddler) eingeleitet werden. 
 - Side slips haben keine Einleitung und können daran erkannt werden.
 - Aus Side slips kann man aber auch wunderbar direkt in Manöver übergehen. Wann in welche Richtung weggedreht wird, ist dann ein wenig Gefühlssache, die Kantung sollte in dem Fall dann aber nicht gewechselt werden, sondern nur verstärkt werden, sonst entsteht zu viel Unruhe.
+
+
+### Placement
+
+- führender Paddler
+  - Die aktive Paddelseite bleibt während des Placements die gleiche
+  - Der Winkel kann zwischen neutraler Haltung und kompletter Bremsung variiert werden.
+- folgender Paddler
+  - Die aktive Paddelseite ist variabel. Je nach gewünschtem Manöververlauf kann die aktive Seite mehrfach wechseln. 
+  - Beeinflusst damit entscheidend den Charakter des Manövers:
+    - Kann das Ausbrechen des folgenden Bootsendes verhinden und das Boot auf seiner Kurvenfahrt stabilisieren (mit einem Christie nicht möglich). Das Momentum bleibt entlang der Längsachse des Bootes erhalten.
+    - Kann das Ausbrechen des folgenden Bootsendes zulassen oder unterstützen und damit eine Drehung des Bootes begünstigen. Aus einem Vorwärtsmanöver kann die Fahrt dann rückwärts, aber in gleicher Fahrtrichtung, forgesetzt werden oder umgekehrt. Das Moment bleibt in der ursprünglichen Bewegungsrichtung erhalten. 
+
 
 ### Kantung -- rein
 
@@ -17,31 +36,35 @@
 
 ### Conclusion
 
-- Cross-Manöver zur Offside haben eine versetzte Conclusion, sofern der Heckpaddler kein Cross Placement macht (s.u. Weiterfahrt).
-- Stern Cross-Manöver zur Onside haben eine versetzte Conclusion, sofern der Bugpaddler kein Cross Placement macht (s.u. Weiterfahrt). (überprüfen)
-- Der Paddler mit dem weiteren Weg zur Conclusion bestimmt das Timing, es sei denn er kann vom anderen Paddler nicht gesehen werden.
+- Der Paddler mit dem weiteren Weg zur Conclusion bestimmt den Beginn, es sei denn er kann vom anderen Paddler nicht gesehen werden.
+- Bei Rückwärtsmanövern gibt im Idealfall der Heckpaddler das Timing vor, weil er die Bootsdrehung besser beurteilen kann. Das ist allerdings nicht in allen Manövern gut machbar, weil der Bugpaddler nicht immer ausreichende Sicht nach hinten hat.
+- Eine versetzte Conclusion ergibt Sinn, wenn der Weg von der Conclusion zum nächsten Schlag für beide unterschiedlich lang ist, der nächste Schlag aber zeitgleich gemacht werden soll.
+- Eine versetzte Conclusion ergibt häufig einen runderen Ablauf, aber eine parallel ausgeführte Conclusion funktioniert ebenfalls.
+- Cross Axle und Cross Post haben eine versetzte Conclusion
+  - Der Bugpaddler beginnt die Conclusion
+  - Ausnahme: Macht der Heckpaddler ein Cross-Placement beginnt er die Conclusion (weiterer Weg, s.o.) (Cross Forward schließt sich an, s.u. Weiterfahrt).
+- Stern Cross Axle und Stern Cross Post haben eine versetzte Conclusion.
+  - Der Heckpaddler beginnt die Conclusion (kann vom Bugpaddler halbwegs gesehen werden)
+  - Ausnahme: Macht der Bugpaddler ein Cross Placement, wird die Conclusion parallel ausgeführt. Ein Cross Rückwärtsschlag ist wenig praxistauglich. Damit haben beide Paddler einen langen Weg zum nächsten Catch und die parallele Conclusion bietet sich an.
+
 
 ### Kantung -- raus
 
-- Bei Cross Manövern des Bugpaddlers beim Rübergehen des Bugpaddlers die Kantung rausnehmen (außer Cross Forward mit Kantung zur Onside).
-  - Cross Post + Cross Tangent: Catch des Cross Forward Strokes
-  - Cross Axle + Cross Wedge: beim Rübergehen
 - Timing der Kantung 
   - beide Paddler (fast) zeitgleich
   - Axle/Post beim nächsten Catch
   - Wedge/Tangent Weg zum Vorwärtsschlag
+- Bei Cross Manövern beim Rübergehen des Bugpaddlers die Kantung rausnehmen 
+  - außer Cross Forward mit Kantung zur Onside
+    - Cross Post + Cross Tangent: Catch des Cross Forward Strokes
+    - Cross Axle + Cross Wedge: beim Rübergehen
 
 ### Weiterfahrt
 
-- Wenn beide Paddler ein Cross-Placement machen, wird eine Vorwärtsweiterfahrt mit Cross Forwards begonnen. 
+- Wenn beide Paddler ein Cross-Placement machen, ist es günstig die Vorwärtsweiterfahrt mit Cross Forwards zu beginnen. (Rückwärts gilt dies nicht, weil ein Cross Rückwärtsschlag unbequem ist.)
 - Die Länge der Manöver ist Cross und Nicht-Cross meist gleich.
-- Ggf. beim ersten Vorwärtsschlag nach Manöver auch im Bug die Drehung etwas korrigieren
+- Ggf. beim ersten Vorwärtsschlag nach Manöver auch im Bug die Drehung etwas korrigieren.
 
-
-## Koordination
-
-- Conclusion
-  - Bei Rückwärtsmanövern gibt im Idealfall der Heckpaddler das Timing vor, weil er die Bootsdrehung besser beurteilen kann. Das ist allerdings nicht in allen Manövern gut machbar, weil der Bugpaddler nicht immer ausreichende Sicht nach hinten hat.
 
 <!-- - Cross-Placement im Bug: Im Heck kann die Conclusion verzögert gemacht werden, um dem Bug-Paddler Zeit zu geben, das Paddel wieder auf die Onside zu bringen (wenn kein Cross Vorwärtsschlag anschließt). -->
 
