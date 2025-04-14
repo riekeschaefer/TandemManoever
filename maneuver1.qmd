@@ -99,7 +99,7 @@ Kantung:
 Koordinationsdetails
 
 - wenn der Heckpaddler ein Cross Placement macht, nimmt vorne Paddel auch aus dem Wasser und beide tauchen parallel ein
-  - hinten: bei Cross Placement sehr kurze Einleitung, damit man vorne rechtzeitig sieht, dass es rübergeht (relevant für paralleles Eintauchen bei Axle und Post)
+- hinten: bei Cross Placement sehr kurze Einleitung, damit man vorne rechtzeitig sieht, dass es rübergeht (relevant für paralleles Eintauchen)
 
 
 ## Wedge und Tangent

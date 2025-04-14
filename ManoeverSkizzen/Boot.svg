@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.6329496"
-     inkscape:cx="1613.032"
-     inkscape:cy="1526.379"
+     inkscape:cx="1546.2816"
+     inkscape:cy="1726.0177"
      inkscape:window-width="1862"
      inkscape:window-height="1011"
      inkscape:window-x="58"
@@ -475,6 +475,150 @@
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path3603" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true"
+       viewBox="0 0 4.4434635 2.539122"
+       markerWidth="4.4434633"
+       markerHeight="2.5391219"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-70" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5966"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true"
+       viewBox="0 0 4.4434635 2.539122"
+       markerWidth="4.4434633"
+       markerHeight="2.5391219"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5964" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5970"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true"
+       viewBox="0 0 4.4434635 2.539122"
+       markerWidth="4.4434633"
+       markerHeight="2.5391219"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5968" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5974"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true"
+       viewBox="0 0 4.4434635 2.539122"
+       markerWidth="4.4434633"
+       markerHeight="2.5391219"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5972" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-56-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true"
+       viewBox="0 0 4.4434635 2.539122"
+       markerWidth="4.4434633"
+       markerHeight="2.5391219"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-2-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker5980"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true"
+       viewBox="0 0 4.4434635 2.539122"
+       markerWidth="4.4434633"
+       markerHeight="2.5391219"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5978" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-2-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true"
+       viewBox="0 0 4.4434635 2.539122"
+       markerWidth="4.4434633"
+       markerHeight="2.5391219"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-70-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send-2-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true"
+       viewBox="0 0 4.4434635 2.539122"
+       markerWidth="4.4434633"
+       markerHeight="2.5391219"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1871-70-5" />
     </marker>
   </defs>
   <g
@@ -999,7 +1143,7 @@
     <g
        id="g1715-5-8-0-3"
        transform="matrix(0.41506925,0,0,0.41506925,401.81346,379.96787)"
-       inkscape:export-filename="/home/rieke/Documents/Paddeln/ManoeverSkizzen/CrossExtendedAxle.png"
+       inkscape:export-filename="OuterGimbal.png"
        inkscape:export-xdpi="255"
        inkscape:export-ydpi="255">
       <g
@@ -1193,7 +1337,7 @@
        d="m 421.66976,382.72185 a 17.846203,17.846203 0 0 1 15.68629,13.17991"
        sodipodi:open="true" />
     <path
-       style="fill:none;stroke:#666666;stroke-width:0.628607;marker-end:url(#Arrow1Send);stroke-opacity:1"
+       style="fill:none;stroke:#666666;stroke-width:0.863;marker-end:url(#Arrow1Send);stroke-opacity:1;stroke-dasharray:none"
        id="path777-3"
        sodipodi:type="arc"
        sodipodi:cx="420.1124"
@@ -1225,5 +1369,81 @@
        d="m 414.20852,426.49412 4.02123,15.56068"
        id="path3154-1"
        sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.863;stroke-dasharray:none;marker-end:url(#Arrow1Send-2)"
+       id="path777-6"
+       sodipodi:type="arc"
+       sodipodi:cx="417.16464"
+       sodipodi:cy="516.63232"
+       sodipodi:rx="17.846203"
+       sodipodi:ry="17.846203"
+       sodipodi:start="3.2604198"
+       sodipodi:end="6.0225883"
+       sodipodi:arc-type="arc"
+       d="m 399.44428,514.5167 a 17.846203,17.846203 0 0 1 16.45639,-15.68576 17.846203,17.846203 0 0 1 18.50762,13.20318"
+       sodipodi:open="true"
+       inkscape:export-filename="InnerGimbal.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:0.5;stroke-dasharray:none;marker-end:url(#Arrow1Send-2-0);stroke-opacity:1"
+       id="path777-6-3"
+       sodipodi:type="arc"
+       sodipodi:cx="417.16464"
+       sodipodi:cy="516.63232"
+       sodipodi:rx="17.846203"
+       sodipodi:ry="17.846203"
+       sodipodi:start="6.1615304"
+       sodipodi:end="3.1104376"
+       sodipodi:arc-type="arc"
+       d="m 434.87895,514.4666 a 17.846203,17.846203 0 0 1 -7.41652,16.74113 17.846203,17.846203 0 0 1 -18.25697,1.39765 17.846203,17.846203 0 0 1 -9.87836,-15.41715"
+       sodipodi:open="true" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:0.863;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-2)"
+       id="path777-3-1"
+       sodipodi:type="arc"
+       sodipodi:cx="417.16464"
+       sodipodi:cy="541.91364"
+       sodipodi:rx="17.846203"
+       sodipodi:ry="17.846203"
+       sodipodi:start="0.22110812"
+       sodipodi:end="2.8490815"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 434.57638,545.8275 A 17.846203,17.846203 0 0 1 417.80164,559.74847 17.846203,17.846203 0 0 1 400.0765,547.05972" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send-2-7)"
+       id="path777-3-1-9"
+       sodipodi:type="arc"
+       sodipodi:cx="417.16464"
+       sodipodi:cy="541.91364"
+       sodipodi:rx="17.846203"
+       sodipodi:ry="17.846203"
+       sodipodi:start="2.9724852"
+       sodipodi:end="0.093534362"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="m 399.57301,544.9172 a 17.846203,17.846203 0 0 1 7.43906,-17.68049 17.846203,17.846203 0 0 1 19.16805,-0.72464 17.846203,17.846203 0 0 1 8.75272,17.06837" />
+    <g
+       id="g1715-5-8-0-3-6"
+       transform="matrix(0.41506925,0,0,0.41506925,398.8657,496.10026)"
+       inkscape:export-filename="OuterGimbal.png"
+       inkscape:export-xdpi="255"
+       inkscape:export-ydpi="255">
+      <g
+         id="g1022-6-7-4-6-0"
+         style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 54.982853,80.02942 c 0,-35.103239 -5.694151,-48.098562 -10.896366,-68.019409 -5.202215,19.920847 -10.896366,32.91617 -10.896366,68.019409 0,35.10323 5.694151,48.09856 10.896366,68.01941 5.202215,-19.92085 10.896366,-32.91618 10.896366,-68.01941"
+           id="path857-6-2-9-4-7-6"
+           sodipodi:nodetypes="ccccc" />
+      </g>
+      <path
+         style="fill:#000000;stroke:none;stroke-width:4.81847;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 47.996464,35.227173 h -7.737769 l 3.63058,-18.319166 z"
+         id="path1057-9-2-4-5-2"
+         sodipodi:nodetypes="cccc" />
+    </g>
   </g>
 </svg>
