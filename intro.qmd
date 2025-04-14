@@ -21,11 +21,13 @@
 - Placement = immer einteilig
 
 klassisch:
+
 - vorwärts: Bugpaddler macht Placement
 - rückwärts: Heckpaddler macht Placement
 - der jeweils andere kann den Charakter des Manövers durch stationäres Schneiden oder stationäre Drück- oder Ziehschläge beeinflussen und hat verschiedene Möglichkeiten (ggf. parallele Bewegungen bevorzugen)
 
 Erweiterung: 
+
 - der folgende Paddler kann durch Kraft auf dem Paddel die Stärke des Schleuderns steuern also nicht nur neutral sein
   - führender Paddler
     - Die aktive Paddelseite bleibt während des Placements die gleiche
