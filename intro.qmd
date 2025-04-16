@@ -9,7 +9,7 @@
 - wichtig, dass die Einleitung des Bugpaddlers klar ist, damit der hintere erkennen kann, worum es geht
 - Side slips haben keine Einleitung und können daran erkannt werden.
 - Aus Side slips kann man aber auch wunderbar direkt in Manöver übergehen. Wann in welche Richtung weggedreht wird, ist dann ein wenig Gefühlssache, die Kantung sollte in dem Fall dann aber nicht gewechselt werden, sondern nur verstärkt werden, sonst entsteht zu viel Unruhe.
-- Einleitung = immer einteilig
+- Die Paddelschläge für die Initiation sind immer einzelne Schläge (z.B. diagonaler Ziehschlag, Bogenschlag)
 
 ## Kantung -- rein
 
@@ -18,17 +18,18 @@
 
 ## Placement
 
-- Placement = immer einteilig
+- Placement = immer einteilig (z.B. stationärer Ziehschlag)
 
 klassisch:
 
 - vorwärts: Bugpaddler macht Placement
 - rückwärts: Heckpaddler macht Placement
 - der jeweils andere kann den Charakter des Manövers durch stationäres Schneiden oder stationäre Drück- oder Ziehschläge beeinflussen und hat verschiedene Möglichkeiten (ggf. parallele Bewegungen bevorzugen)
+<!-- Darüber müssen wir uns auch nochmal unterhalten. Das Manöver ist nach dem Placemnt des führnden Paddlers benannt. Für mein Empfinden machen aber beide Pddler ein Placement. Es wollen zwei Bootsenden gesteuert werden, also gibt es auch 2 Placements, die beide eindeutige Wirkung haben. -->
 
 Erweiterung: 
 
-- der folgende Paddler kann durch Kraft auf dem Paddel die Stärke des Schleuderns steuern also nicht nur neutral sein
+- Die Placements beider Paddler:
   - führender Paddler
     - Die aktive Paddelseite bleibt während des Placements die gleiche
     - Der Winkel kann zwischen neutraler Haltung und kompletter Bremsung variiert werden.
@@ -36,21 +37,22 @@ Erweiterung:
     - Die aktive Paddelseite ist variabel. Je nach gewünschtem Manöververlauf kann die aktive Seite mehrfach wechseln. 
     - Beeinflusst damit entscheidend den Charakter des Manövers:
       - Kann das Ausbrechen des folgenden Bootsendes verhinden und das Boot auf seiner Kurvenfahrt stabilisieren (mit einem Christie nicht möglich). Das Momentum bleibt entlang der Längsachse des Bootes erhalten.
-      - Kann das Ausbrechen des folgenden Bootsendes zulassen oder unterstützen und damit eine Drehung des Bootes begünstigen. Aus einem Vorwärtsmanöver kann die Fahrt dann rückwärts, aber in gleicher Fahrtrichtung, fortgesetzt werden oder umgekehrt. Das Moment bleibt in der ursprünglichen Bewegungsrichtung erhalten. 
+      - Kann das Ausbrechen des folgenden Bootsendes zulassen oder unterstützen und damit eine Drehung des Bootes begünstigen. Aus einem Vorwärtsmanöver kann die Fahrt dann rückwärts, aber in gleicher Fahrtrichtung, fortgesetzt werden oder umgekehrt. Das Momentum bleibt in der ursprünglichen Bewegungsrichtung erhalten. 
 - darauf aufbauend kann der folgende Paddler im Grunde auch das Placement machen und der führende Paddler die Kurve steuern
+<!-- Auch hier finde ich die Denkweise nicht logisch. Ich sehe es so, dass beide ein Placement machen -->
   - beim stern axle/post vom Bugpaddler gefahren, hätte der dann zum Beispiel Kraft innen auf dem Paddel und das Paddel in Fahrtrichtung vom Boot wegzeigend
   - beim stern wedge/tangent hingegen wäre für den Bugpaddler die Kraft außen auf dem Paddel und das Paddel in Fahrtrichtung zum Boot zeigend
 
 
 ## Conclusion
 
-- kann zweiteilig sein
+- kann zweiteilig sein (z.B. ein Loaded Slice gefolgt von einem Bogenschlag)
 - Der Paddler mit dem weiteren Weg zur Conclusion bestimmt den Beginn, es sei denn er kann vom anderen Paddler nicht gesehen werden.
 - Bei Rückwärtsmanövern gibt im Idealfall der Heckpaddler das Timing vor, weil er die Bootsdrehung besser beurteilen kann. Das ist allerdings nicht in allen Manövern gut machbar, weil der Bugpaddler nicht immer ausreichende Sicht nach hinten hat.
 - Eine versetzte Conclusion ergibt Sinn, wenn der Weg von der Conclusion zum nächsten Schlag für beide unterschiedlich lang ist, der nächste Schlag aber zeitgleich gemacht werden soll.
 - Eine versetzte Conclusion ergibt häufig einen runderen Ablauf, aber eine parallel ausgeführte Conclusion funktioniert ebenfalls
   - bei einigen Manövern wie dem Stern Cross Tangent ist es auch etwas persönliche Vorliebe, was man angenehmer findet
-- ob parallele oder versetzte Conclusion abhängig davon, ob es hinterher vorher oder rückwärts weiter geht (ändert jeweils genau in das Gegenteil)
+- ob parallele oder versetzte Conclusion ist abhängig davon, ob es hinterher vorwärts oder rückwärts weiter geht (ändert jeweils genau in das Gegenteil)
 - Axle, Drehung: versetzt, vorne beginnt
 - Axle, Kurve: parallel
 - Cross Axle und Cross Post haben eine versetzte Conclusion bei einer Kurvenfahrt
@@ -62,7 +64,7 @@ Erweiterung:
   - Ausnahme: Macht der Bugpaddler ein Cross Placement, wird die Conclusion parallel ausgeführt. Ein Cross Rückwärtsschlag ist wenig praxistauglich. Damit haben beide Paddler einen langen Weg zum nächsten Catch und die parallele Conclusion bietet sich an.
 - Stern Cross Axle und Stern Cross Post, Drehung: parallele Conclusion
 - Wedge, Drehung: versetzt, hinten beginnt (schwierig zu sehen von vorne)
-- Wedge, Kurve parallel
+- Wedge, Kurve: parallel
 - Stern Wedge, Drehung: versetzt, vore beginnt
 - Stern Wedge, Kurve: parallel
 - Stern Cross Tangent/Wedge, Drehung: versetzt
