@@ -1,6 +1,6 @@
 # Erläuterungen zum Dokument {.unnumbered}
 
-Viele der Details im Tandem sind sehr abhängig vom Tandempaar (Paddelstil, Trim) und Boot. Wir haben uns bemüht, sowohl die Grundlage, die allgemein gelten, als auch Ideen und Anregungen zu eben solchen Details zu sammeln. Die feinere Abstimmung erfordert aber einfach Übung und Ausprobieren.
+Viele der Details im Tandem sind sehr abhängig vom Tandempaar (Paddelstil, Trim) und Boot. Wir haben uns bemüht, sowohl die Grundlagen, die allgemein gelten, als auch Ideen und Anregungen zu eben solchen Details zu sammeln. Die feinere Abstimmung erfordert aber einfach Übung und Ausprobieren.
 
 ## Darstellung
 
@@ -17,11 +17,13 @@ Die Onside (Paddelseite) wird durch die Paddelseite des/der Bugpaddler*in bestim
 
 Bei einigen Manövern gibt es verschiedene Alternativen, was gemacht werden kann. Diese sind in der Tabelle als Aufzählung gelistest. 
 
-In den Skizzen wird auf der linken Seite die Drehrichtung und Paddelstellung für die Placement gezeigt. Auf der rechten Seite ist die Kantung (Blick von hinten auf's Boot) im Verhältnis zum Paddel gezeigt.
+In den Skizzen wird auf der linken Seite die Drehrichtung und Paddelstellung für die Placements gezeigt. Auf der rechten Seite ist die Kantung (Blick von hinten auf's Boot) im Verhältnis zum Paddel gezeigt.
 
 ## Struktur
 
-Es werden alle Quadranten und dann einige Sonder-Manöver durchgegangen. Am Ende haben wir noch ein paar unserer Erfahrungen zur Feinabstimmung zwischen den Paddlern eingefügt.
+Es werden alle Quadranten und dann einige Sonder-Manöver durchgegangen. 
+Vorab findet ihr eine Sammlung von allgemeingültigen Gedanken. Zumindest ist es das, was uns bei unserem bisherigen Kenntnisstand als allgemeingültig erscheint. 
+Am Ende haben wir noch ein paar unserer Erfahrungen zur Feinabstimmung zwischen den Paddlern eingefügt.
 
 
 [Texte und Bilder können unter [Create Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) genutzt werden.]{.content-visible when-format="pdf"}
