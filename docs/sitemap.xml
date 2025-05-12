@@ -2,50 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>./index.html</loc>
-    <lastmod>2025-04-20T17:24:30.319Z</lastmod>
+    <lastmod>2025-05-12T18:15:53.811Z</lastmod>
+  </url>
+  <url>
+    <loc>./Begriffe.html</loc>
+    <lastmod>2025-05-12T18:15:53.809Z</lastmod>
   </url>
   <url>
     <loc>./intro.html</loc>
-    <lastmod>2025-04-20T17:24:30.319Z</lastmod>
+    <lastmod>2025-05-12T18:15:53.811Z</lastmod>
   </url>
   <url>
     <loc>./maneuver1.html</loc>
-    <lastmod>2025-04-20T17:24:30.319Z</lastmod>
+    <lastmod>2025-05-12T18:15:53.811Z</lastmod>
   </url>
   <url>
     <loc>./maneuver2.html</loc>
-    <lastmod>2025-04-20T17:24:30.320Z</lastmod>
+    <lastmod>2025-05-12T18:15:53.811Z</lastmod>
   </url>
   <url>
     <loc>./maneuver3.html</loc>
-    <lastmod>2025-04-20T17:24:30.320Z</lastmod>
+    <lastmod>2025-05-12T18:15:53.811Z</lastmod>
   </url>
   <url>
     <loc>./maneuver4.html</loc>
-    <lastmod>2025-04-20T17:24:30.320Z</lastmod>
+    <lastmod>2025-05-12T18:15:53.811Z</lastmod>
   </url>
   <url>
     <loc>./sideslips.html</loc>
-    <lastmod>2025-04-20T17:24:30.320Z</lastmod>
+    <lastmod>2025-05-12T18:15:53.811Z</lastmod>
   </url>
   <url>
     <loc>./freespins.html</loc>
-    <lastmod>2025-04-20T17:24:30.319Z</lastmod>
+    <lastmod>2025-05-12T18:15:53.811Z</lastmod>
   </url>
   <url>
     <loc>./gimbal.html</loc>
-    <lastmod>2025-04-20T17:24:30.319Z</lastmod>
+    <lastmod>2025-05-12T18:15:53.811Z</lastmod>
   </url>
   <url>
     <loc>./extended.html</loc>
-    <lastmod>2025-04-20T17:24:30.318Z</lastmod>
+    <lastmod>2025-05-12T18:15:53.811Z</lastmod>
   </url>
   <url>
     <loc>./Feinheiten.html</loc>
-    <lastmod>2025-04-20T17:24:30.315Z</lastmod>
+    <lastmod>2025-05-12T18:15:53.809Z</lastmod>
   </url>
   <url>
     <loc>./Tandem-Freestyle.pdf</loc>
-    <lastmod>2025-04-20T17:25:00.426Z</lastmod>
+    <lastmod>2025-05-12T18:16:23.318Z</lastmod>
   </url>
 </urlset>

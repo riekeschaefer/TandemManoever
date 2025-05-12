@@ -1,47 +1,85 @@
 # Allgemeine Gedanken {.unnumbered}
 
+Es folgt der Versuch einige grundlegende Dinge, die allen oder zumindest mehreren Manövern zugrunde liegen zu artikulieren.
+
 ## Initiation
 
-- Der Bugpaddler entscheidet die Drehrichtung.
-- Initiation findet gleichzeitig statt.
-- Alle Manöver vorwärts zur Onside und rückwärts zur Offside können mit diagonalen Ziehschlägen eingeleitet werden.
-- Alle Manöver vorwärts zur Offside und rückwärts zur Onside können mit einem kurzen Bogenschlag (beim führenden Paddler) und überkorrigierten J-Schlag (beim folgenden Paddler) eingeleitet werden. 
-- wichtig, dass die Einleitung des Bugpaddlers klar ist, damit der hintere erkennen kann, worum es geht
-- Side slips haben keine Einleitung und können daran erkannt werden.
-- Aus Side slips kann man aber auch wunderbar direkt in Manöver übergehen. Wann in welche Richtung weggedreht wird, ist dann ein wenig Gefühlssache, die Kantung sollte in dem Fall dann aber nicht gewechselt werden, sondern nur verstärkt werden, sonst entsteht zu viel Unruhe.
-- Die Paddelschläge für die Initiation sind immer einzelne Schläge (z.B. diagonaler Ziehschlag, Bogenschlag)
+Grundsätzliche entscheidet vorne die Drehrichtung. Egal, ob es ein vorwärts oder rückwärts Manöver ist. Denn von hinten kann man vorne und die Aktivitäten dort sehen. Wichtig dafür ist, dass die Einleitung des Bugpaddlers klar und eindeutig ist, damit der hintere erkennen kann, worum es geht.
+
+Die Paddelschläge für die Initiation sind immer einzelne Schläge (z.B. diagonaler Ziehschlag, Bogenschlag)
+
+Alle Manöver vorwärts zur Onside und rückwärts zur Offside können mit diagonalen Ziehschlägen eingeleitet werden.
+Alle Manöver vorwärts zur Offside und rückwärts zur Onside können mit einem kurzen Bogenschlag (beim führenden Paddler) und überkorrigierten J-Schlag (beim folgenden Paddler) eingeleitet werden.  Bei den rückwärts Manövern ist der Rückwärtsschlag der Initation ein einfacher Schlag, kein Compound Schlag, damit er sich von der normalen Rückwärtsfahrt unterscheidet.
+
+Die Initiation findet für beide gleichzeitig statt.
+
+Side slips haben keine Einleitung und können daran erkannt werden.
+
+<!-- - Der Bugpaddler entscheidet die Drehrichtung. -->
+<!-- - Initiation findet gleichzeitig statt. -->
+<!-- - Alle Manöver vorwärts zur Onside und rückwärts zur Offside können mit diagonalen Ziehschlägen eingeleitet werden. -->
+<!-- - Alle Manöver vorwärts zur Offside und rückwärts zur Onside können mit einem kurzen Bogenschlag (beim führenden Paddler) und überkorrigierten J-Schlag (beim folgenden Paddler) eingeleitet werden.  -->
+<!-- - wichtig, dass die Einleitung des Bugpaddlers klar ist, damit der hintere erkennen kann, worum es geht -->
+<!-- - Side slips haben keine Einleitung und können daran erkannt werden. -->
+<!-- - Aus Side slips kann man aber auch wunderbar direkt in Manöver übergehen. Wann in welche Richtung weggedreht wird, ist dann ein wenig Gefühlssache, die Kantung sollte in dem Fall dann aber nicht gewechselt werden, sondern nur verstärkt werden, sonst entsteht zu viel Unruhe. -->
+<!-- - Die Paddelschläge für die Initiation sind immer einzelne Schläge (z.B. diagonaler Ziehschlag, Bogenschlag) -->
 
 ## Kantung -- rein
 
-- Der Bugpaddler gibt die Richtung der Kantung vor. Heckpaddler folgt leicht zeitversetzt mit der Kantung (insbesondere bei Cross Placement mit Offside Kante für den Bugpaddler wichtig).
+Der Bugpaddler gibt auch die Richtung der Kantung vor. Heckpaddler folgt leicht zeitversetzt mit der Kantung. Dies ist insbesondere bei Cross Placements mit Offside Kante für den Bugpaddler wichtig, weil die Bewegung sonst für den Bugpaddler unangenehm ist.
 
 
 ## Placement
 
-- Placement = immer einteilig (z.B. stationärer Ziehschlag)
+Ganz allgemein sind die Placements immer einteilig (z.B. stationärer Ziehschlag).
+<!-- - Placement = immer einteilig (z.B. stationärer Ziehschlag) -->
 
-klassisch:
+### klassisch: passiver folgender Paddler
 
-- vorwärts: Bugpaddler macht Placement
-- rückwärts: Heckpaddler macht Placement
-- der jeweils andere kann den Charakter des Manövers durch stationäres Schneiden oder stationäre Drück- oder Ziehschläge beeinflussen und hat verschiedene Möglichkeiten (ggf. parallele Bewegungen bevorzugen)
-<!-- Darüber müssen wir uns auch nochmal unterhalten. Das Manöver ist nach dem Placemnt des führnden Paddlers benannt. Für mein Empfinden machen aber beide Pddler ein Placement. Es wollen zwei Bootsenden gesteuert werden, also gibt es auch 2 Placements, die beide eindeutige Wirkung haben. -->
+In der verbreiteten Darstellung des Placements im Tandem wird der führende Paddler als aktiver Paddler betrachtet, während der folgende Paddler im Grunde nur die Aufgabe hat "nicht zu stören und gut auszusehen". Bei vorwärts Manövern macht also der Bugpaddler und bei rückwärts Manövern der Heckpaddler das Placement. Dabei sind die Abläufe und Bewegungen für den führenden Paddler recht festgelegt  (die einzige Variation ist eine Cross Einleitung und ggf. Variation im Abschluss, wenn man danach was anderes machen will). 
 
-Erweiterung: 
+Der folgende Paddler hingegen hat wesentlich mehr Variationsspielraum aber nie einen Effekt auf das Manövern sondern das Paddel neutral im Wasser. Auch dort scheint sich aber eine Struktur zu ergeben mit immer ähnlichen Möglichkeiten (so wahnsinnig viele Möglichkeiten gibt es ja auch nicht). Entscheidend ist hier im Grunde lediglich die Kantung und Drehrichtung, nicht das Manöver. Je nachdem was man möchte, kann man das Manöver parallel zum anderen Paddler aufbauen.
 
-- Die Placements beider Paddler:
-  - führender Paddler
-    - Die aktive Paddelseite bleibt während des Placements die gleiche
-    - Der Winkel kann zwischen neutraler Haltung und kompletter Bremsung variiert werden.
-  - folgender Paddler
-    - Die aktive Paddelseite ist variabel. Je nach gewünschtem Manöververlauf kann die aktive Seite mehrfach wechseln. 
-    - Beeinflusst damit entscheidend den Charakter des Manövers:
-      - Kann das Ausbrechen des folgenden Bootsendes verhinden und das Boot auf seiner Kurvenfahrt stabilisieren (mit einem Christie nicht möglich). Das Momentum bleibt entlang der Längsachse des Bootes erhalten.
-      - Kann das Ausbrechen des folgenden Bootsendes zulassen oder unterstützen und damit eine Drehung des Bootes begünstigen. Aus einem Vorwärtsmanöver kann die Fahrt dann rückwärts, aber in gleicher Fahrtrichtung, fortgesetzt werden oder umgekehrt. Das Momentum bleibt in der ursprünglichen Bewegungsrichtung erhalten. 
-- darauf aufbauend kann der folgende Paddler im Grunde auch das Placement machen und der führende Paddler die Kurve steuern
+<!-- klassisch: -->
+
+<!-- - vorwärts: Bugpaddler macht Placement -->
+<!-- - rückwärts: Heckpaddler macht Placement -->
+<!-- - für den führenden Paddler sind Bewegungen festgelegt (die einzige Variation ist eine Cross Einleitung und ggf. Variation im Abschluss, wenn man danach was anderes machen will), der andere hat wesentlich mehr Variationsspielraum. Auch dort scheint sich aber eine Struktur zu ergeben mit immer ähnlichen Möglichkeiten (so wahnsinnig viele Möglichkeiten gibt es ja auch nicht). Entscheidend ist hier im Grunde lediglich die Kantung und Drehrichtung, nicht das Manöver. Je nachdem was man möchte, kann man das Manöver parallel zum anderen Paddler aufbauen. -->
+
+### aktiver folgender Paddler
+
+Wir haben aber festgestellt, dass der folgende Paddler einen ganz erheblichen Effekt auf den Kurvenverlauf haben kann, wenn er das Paddel eben nicht neutral ins Wasser hält, sondern aktiv das Schleudern des folgenden Bootsendes behindert oder fördert. Es tragen also beide aktiv zum Manöver bei und der folgende Paddler entscheidet, in welche Richtung sich das Boot nach dem Manöver bewegt.
+
+Während beim führenden Paddler während des Manövers die aktive Paddelseite immer die gleiche bleibt, kann der folgende Paddler je nach gewünschtem Manöververlauf mehrfach die aktive Seite wechseln. Damit kann er aktiv und gezielt den Charakter des Manövers beeinflussen: 
+I) Wird das Ausbrechen des folgenden Bootsendes verhindert, kann das Boot auf einer Kurvenfahrt stabilisiert werden. Das Momentum bleibt entlang der Längsachse des Bootes erhalten, das Boot bewegt sich also weiterhin vorwärts bei vorwärts bzw. rückwärts bei rückwärts Manövern.
+II) Wird das Ausbrechen des folgenden Bootsendes zugelassen oder unterstützt, dann wird die Drehung des Bootes begünstigt. Das Momentum bleibt in der ursprünglichen Bewegungsrichtung erhalten. Aus einem Vorwärtsmanöver kann die Fahrt dann rückwärts, aber in gleicher Fahrtrichtung, fortgesetzt werden oder umgekehrt.
+
+Beide können die Winkel ihres Paddels während des Manövers variieren und dadurch den Verlauf der Kurve/Drehung beeinflussen.
+Der Winkel des Paddels beim führenden Paddler kann zwischen neutraler Haltung und kompletter Bremsung variiert werden.
+Beim folgenden Paddler kann das Paddel basierend auf der neutralen Haltung geschlossen oder geöffnet werden. Im Laufe des Manövers kann damit auch von einem Verhindern des Ausbrechens/Schleuderns und dann des Zulassens gewechselt werden. Es ist nur sehr schwierig, das Schleudern wieder einzufangen, wenn es einmal begonnen hat. Der Christie ist hier ein Sonderfall des Placements, da er keine aktive Steuerung zulässt.
+
+
+
+<!-- Erweiterung:  -->
+
+<!-- - Die Placements beider Paddler: -->
+<!--   - führender Paddler -->
+<!--     - Die aktive Paddelseite bleibt während des Placements die gleiche -->
+<!--     - Der Winkel kann zwischen neutraler Haltung und kompletter Bremsung variiert werden. -->
+<!--   - folgender Paddler -->
+<!--     - Die aktive Paddelseite ist variabel. Je nach gewünschtem Manöververlauf kann die aktive Seite mehrfach wechseln.  -->
+<!--     - Beeinflusst damit entscheidend den Charakter des Manövers: -->
+<!--       - Kann das Ausbrechen des folgenden Bootsendes verhinden und das Boot auf seiner Kurvenfahrt stabilisieren (mit einem Christie nicht möglich). Das Momentum bleibt entlang der Längsachse des Bootes erhalten. -->
+<!--       - Kann das Ausbrechen des folgenden Bootsendes zulassen oder unterstützen und damit eine Drehung des Bootes begünstigen. Aus einem Vorwärtsmanöver kann die Fahrt dann rückwärts, aber in gleicher Fahrtrichtung, fortgesetzt werden oder umgekehrt. Das Momentum bleibt in der ursprünglichen Bewegungsrichtung erhalten.  -->
+<!-- - beide können die Kraft variieren und dadurch den Verlauf der Kurve/Drehung beeinflussen -->
+<!-- - im Grunde entscheidet aber der folgende Paddler damit, in welche Richtung es nach dem Manöver weiter geht. -->
+      
+<!-- - darauf aufbauend kann der folgende Paddler im Grunde auch das Placement machen und der führende Paddler die Kurve steuern -->
 <!-- Auch hier finde ich die Denkweise nicht logisch. Ich sehe es so, dass beide ein Placement machen -->
-  - beim stern axle/post vom Bugpaddler gefahren, hätte der dann zum Beispiel Kraft innen auf dem Paddel und das Paddel in Fahrtrichtung vom Boot wegzeigend
-  - beim stern wedge/tangent hingegen wäre für den Bugpaddler die Kraft außen auf dem Paddel und das Paddel in Fahrtrichtung zum Boot zeigend
+<!--   - beim stern axle/post vom Bugpaddler gefahren, hätte der dann zum Beispiel Kraft innen auf dem Paddel und das Paddel in Fahrtrichtung vom Boot wegzeigend -->
+<!--   - beim stern wedge/tangent hingegen wäre für den Bugpaddler die Kraft außen auf dem Paddel und das Paddel in Fahrtrichtung zum Boot zeigend -->
+
+
 
 
 ## Conclusion
@@ -91,19 +129,11 @@ Erweiterung:
 # weitere Gedanken
 
 - versuchen mit parallelen Bewegungen zu spielen
-- Platzierung für beide stationär
 - wie immer
    - Arme gerade
    - Paddel senkrecht
-   -  Rotation
+   - Rotation
 - bei cross (für einen oder beide)
    - Paddel gleichzeitig eintauchen
    - Paddel waagerecht über das Boot führen
-- für den, der das Manöver macht, sind Bewegungen festgelegt (die einzige Variation ist eine Cross Einleitung und ggf. Variation im Abschluss, wenn man danach was anderes machen will), der andere hat wesentlich mehr Variationsspielraum. Auch dort scheint sich aber eine Struktur zu ergeben mit immer ähnlichen Möglichkeiten (so wahnsinnig viele Möglichkeiten gibt es ja auch nicht). Entscheidend ist hier im Grunde lediglich die Kantung und Drehrichtung, nicht das Manöver. Je nachdem was man möchte, kann man das Manöver parallel zum anderen Paddler aufbauen.
 
-# Begrifflichkeiten {.unnumbered}
-- Cross (Kreuz) auf Englisch belassen für einheitliche Bezeichnungen = übergegriffener Schlag, Paddel auf die Nicht-Paddelseite bewegen
-- Onside = Paddelseite des Bug, Offside = Paddelseite des Heck
-- Führendes und folgendes Bootsende
-- Führender und folgender Paddler
-- Aktive Paddelseite

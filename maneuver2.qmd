@@ -77,8 +77,8 @@ Kantung:
 | Einleitung  | - Kurzer Bogenschlag                    | Überkorrigiertes J                       |
 |             | - Cross Bugziehschlag                   |                                          |
 +-------------+-----------------------------------------+------------------------------------------+
-| Placement   | Cross stationärer Ziehschlag            | - Neutraler stationärer Drückschlag      |
-|             |                                         | - Neutraler cross stationärer Ziehschlag |
+| Placement   | Cross stationärer Ziehschlag            | - Stationärer Drückschlag      |
+|             |                                         | - Cross stationärer Ziehschlag |
 |             |                                         | - Christie (nur Cross Axle)              |
 +-------------+-----------------------------------------+------------------------------------------+
 | Abschluss   | Cross Bugziehschlag (ggf. um Bug herum) | - Rückwärts Bogenschlag                  |
@@ -168,8 +168,8 @@ Kantung:
 |             | - Cross Bugbogenschlag                      | - Bogenschlag                             |
 |             |                                             | - unkorrigierter Vorwärtsschlag           |
 +-------------+---------------------------------------------+-------------------------------------------+
-| Placement   | Cross stationärer Drückschlag               | - Neutraler stationärer Ziehschlag        |
-|             |                                             | - Neutraler cross stationärer Drückschlag |
+| Placement   | Cross stationärer Drückschlag               | - Stationärer Ziehschlag        |
+|             |                                             | - Cross stationärer Drückschlag |
 |             |                                             | - Cross Christie (nur Cross Tangent)      |
 +-------------+---------------------------------------------+-------------------------------------------+
 | Abschluss   | (Kurzer loaded slice und) Cross Bogenschlag | - Bogenschlag                             |

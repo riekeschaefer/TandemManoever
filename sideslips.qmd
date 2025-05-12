@@ -2,6 +2,10 @@
 
 Die Paddelposition auf der On- und Offside kann beliebig kombiniert werden. Auf den Abbildungen sind einfach beide mögliche Positionen für jeweils Bug und Heck dargestellt.
 
+Wie bereits erwähnt, haben Sideslips im Gegensatz zu drehenden Manövern keine Initiation sondern starten direkt mit Kantung und Placement vom Bugpaddler.
+
+Aus Side slips kann man auch wunderbar direkt in Manöver übergehen. Wann in welche Richtung weggedreht wird, ist dann ein wenig Gefühlssache, die Kantung sollte in dem Fall dann aber nicht gewechselt werden, sondern nur verstärkt werden, sonst entsteht zu viel Unruhe.
+
 ## Side slip onside
 
 ::: {.column-margin .panel-tabset group="side"}

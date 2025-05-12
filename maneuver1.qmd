@@ -88,8 +88,8 @@ Kantung:
 |             |                         | - Bogenschlag                             |
 |             |                         | - unkorrigierter Vorwärtsschlag           |
 +-------------+-------------------------+-------------------------------------------+
-| Placement   | Stationärer Ziehschlag  | - Neutraler stationärer Ziehschlag        |
-|             |                         | - Neutraler cross stationärer Drückschlag |
+| Placement   | Stationärer Ziehschlag  | - Stationärer Ziehschlag        |
+|             |                         | - Cross stationärer Drückschlag |
 |             |                         | - Cross Christie (nur Axle)               |
 +-------------+-------------------------+-------------------------------------------+
 | Abschluss   | Bugziehschlag           | - Heckziehschlag                          |
@@ -182,8 +182,8 @@ Kantung:
 +=============+=======================================+==========================================+
 | Einleitung  | Kurzer Bugbogenschlag                 | Überkorrigiertes J                       |
 +-------------+---------------------------------------+------------------------------------------+
-| Placement   | Stationärer Drückschlag               | - Neutraler stationärer Drückschlag      | 
-|             |                                       | - Neutraler cross stationärer Ziehschlag |
+| Placement   | Stationärer Drückschlag               | - Stationärer Drückschlag      | 
+|             |                                       | - Cross stationärer Ziehschlag |
 |             |                                       | - Christie (nur Tangent)                 |
 +-------------+---------------------------------------+------------------------------------------+
 | Abschluss   | (Kurzer loaded slice und) Bogenschlag | - Cross Heckziehschlag                   |

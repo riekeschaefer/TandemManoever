@@ -12,6 +12,7 @@ book:
   site-url: "./"
   chapters:
     - index.qmd
+    - Begriffe.qmd
     - intro.qmd
     - maneuver1.qmd
     - maneuver2.qmd

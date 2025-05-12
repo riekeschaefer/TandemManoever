@@ -1,6 +1,9 @@
+Freestyle im Tandem bietet sehr viel mehr Freiheiten und Variationsmöglichkeiten als im Solo. Dieses Dokument ist als Anregung für alle gedacht, die sich damit beschäftigen und bereits ein wenig Erfahrung mit Freestyle im Solo und Paddeln allgemein im Tandem mitbringen. Uns selber dient es als Gedankenstütze und wir hoffen, dass es diese Funktion auch für andere erfüllen kann.
+
+
 # Erläuterungen zum Dokument {.unnumbered}
 
-Viele der Details im Tandem sind sehr abhängig vom Tandempaar (Paddelstil, Trim) und Boot. Wir haben uns bemüht, sowohl die Grundlagen, die allgemein gelten, als auch Ideen und Anregungen zu eben solchen Details zu sammeln. Die feinere Abstimmung erfordert aber einfach Übung und Ausprobieren.
+Viele der Details im Tandem sind sehr abhängig vom Tandempaar (Paddelstil, Trim) und Boot. Wir haben uns bemüht, sowohl die Grundlagen, die allgemein (scheinbar) gelten, als auch Ideen und Anregungen zu eben solchen Details zu sammeln. Die feinere Abstimmung erfordert aber einfach Übung und Ausprobieren.
 
 ## Darstellung
 
@@ -21,9 +24,6 @@ In den Skizzen wird auf der linken Seite die Drehrichtung und Paddelstellung fü
 
 ## Struktur
 
-Es werden alle Quadranten und dann einige Sonder-Manöver durchgegangen. 
-Vorab findet ihr eine Sammlung von allgemeingültigen Gedanken. Zumindest ist es das, was uns bei unserem bisherigen Kenntnisstand als allgemeingültig erscheint. 
-Am Ende haben wir noch ein paar unserer Erfahrungen zur Feinabstimmung zwischen den Paddlern eingefügt.
-
+Nach einigen einleitenden Erklärungen zu Begriffe, beginnen wir mit den Dingen, die wir als allgemeingültig empfinden. Danach folgt eine Darstellung der Manöver nach Quadranten sortiert gefolgt von einigen Spezialfällen wie Sideslips oder Gimbals. Ganz zum Schluss folgen dann noch einige Gedanken, welche Gedanken man sich machen kann, um sich nonverbale Kommunikation und Paddeln zu Musik zu erarbeiten.
 
 [Texte und Bilder können unter [Create Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) genutzt werden.]{.content-visible when-format="pdf"}

@@ -84,8 +84,8 @@ Kantung:
 | Einleitung  | - Unkorrigierter Rückwärtsschlag          | 45° rückwärts Ziehschlag         |
 |             | - Rückwärts 45° Ziehschlag                |                                  |
 +-------------+-------------------------------------------+----------------------------------+
-| Placement   | - Neutraler stationärer Ziehschlag        | Rückwärts stationärer Ziehschlag |
-|             | - Neutraler cross stationärer Drückschlag |                                  |
+| Placement   | - Stationärer Ziehschlag        | Rückwärts stationärer Ziehschlag |
+|             | - Cross stationärer Drückschlag |                                  |
 |             | - Reverse Cross Christie (nur Stern Axle) |                                  |
 +-------------+-------------------------------------------+----------------------------------+
 | Abschluss   | - Bugziehschlag                           | Heckziehschlag                   |
@@ -96,7 +96,7 @@ Koordinationsdetails
 
 - Stern Axle vorne Placement cross:
     - Palmroll beim Reinslicen
-    - neutral ist fast 90° zum Boot
+    - neutral ist fast 90° zum Boot (abhängig von Stärke des Schleuderns)
     - Cross reverse Schlag wenn hinten Compound 1. Teil macht (Vorwarnung ist der Ziehschlag der Conclusion hinten)
     - dann rüber (während hinten Compound 2. Teil macht) und weiter rückwärts (gleichzeitig vorne+hinten)
 - Stern Axle hinten
@@ -180,8 +180,8 @@ Kantung:
 +=============+===========================================+=========================================================+
 | Einleitung  | Überkorrigierter Rückwärtsschlag          | Heckhebel/Heckdrückschlag                               |
 +-------------+-------------------------------------------+---------------------------------------------------------+
-| Placement   | - Neutraler stationärer Drückschlag       | Rückwärts stationärer Drückschlag                       | 
-|             | - Neutraler cross stationärer Ziehschlag  |                                                         |
+| Placement   | - Stationärer Drückschlag       | Rückwärts stationärer Drückschlag                       | 
+|             | - Cross stationärer Ziehschlag  |                                                         |
 |             | - Reverse Christie (nur Stern Tangent)    |                                                         |
 +-------------+-------------------------------------------+---------------------------------------------------------+
 | Abschluss   | - Bogenschlag                             | (Kurzer loaded slice und) rückwärts Bogenschlag         |

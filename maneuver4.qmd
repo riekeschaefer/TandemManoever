@@ -80,8 +80,8 @@ Kantung:
 | Einleitung  | Überkorrigierter Rückwärtsschlag         | - Heckhebel                            |
 |             |                                          | - Cross Ziehschlag                     |
 +-------------+------------------------------------------+----------------------------------------+
-| Placement   | - Neutraler stationärer Drückschlag      | Rückwärts cross stationärer Ziehschlag |
-|             | - Neutraler cross stationärer Ziehschlag |                                        |
+| Placement   | - Stationärer Drückschlag      | Rückwärts cross stationärer Ziehschlag |
+|             | - Cross stationärer Ziehschlag |                                        |
 |             | - Christie (nur Stern Cross Axle)        |                                        |
 +-------------+------------------------------------------+----------------------------------------+
 | Abschluss   | - Rückwärts Bogenschlag                  | Cross Heckziehschlag                   |
@@ -170,8 +170,8 @@ Kantung:
 | Einleitung  | - Unkorrigierter Rückwärtsschlag           | - Rückwärts 45° Ziehschlag                                  |
 |             | - Rückwärts 45° Ziehschlag                 |                                                             |
 +-------------+--------------------------------------------+-------------------------------------------------------------+
-| Placement   | - Neutraler stationärer Ziehschlag         | Rückwärts cross stationärer Drückschlag                     |
-|             | - Neutraler cross stationärer Drückschlag  |                                                             |
+| Placement   | - Stationärer Ziehschlag         | Rückwärts cross stationärer Drückschlag                     |
+|             | - Cross stationärer Drückschlag  |                                                             |
 |             | - Cross Christie (nur Stern Cross Tangent) |                                                             |
 +-------------+--------------------------------------------+-------------------------------------------------------------+
 | Abschluss   | - Rückwärts Bogenschlag                    | (Kurzer cross loaded slice und) rückwärts cross Bogenschlag |
