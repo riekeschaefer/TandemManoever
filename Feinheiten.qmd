@@ -119,7 +119,7 @@ die folgende Liste gilt für
 | Gimbal              | variabel |                   |
 +---------------------+----------+-------------------+
 
-- meistens sind nicht Cross und Cross Manöver gleich
+- Die Länge der Manöver ist Cross und Nicht-Cross meist gleich.
   - man muss sich überlegen, wo das Rübernehmen des Paddels untergebracht wird
 - im 3. Quadranten sind alle Manöver gleich
 - Conclusion für Cross Axle + Cross Post

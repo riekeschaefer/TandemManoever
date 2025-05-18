@@ -87,8 +87,8 @@ Kantung:
 
 Koordinationsdetails
 
-- Conclusions wenn vorne Cross und hinten nicht: versetzt
-  - gibt dem Bugpaddler Zeit rüberzugehen)
+- Ablauf der versetzten Conclusion
+  <!-- - gibt dem Bugpaddler Zeit rüberzugehen -->
   - V: neutraler Slice
   - V: Bogen + H: Slice
   - V: rüber + H: Bogen
@@ -176,6 +176,6 @@ Kantung:
 |             |                                             | - Rückwärts cross Heckziehschlag           |
 +-------------+---------------------------------------------+-------------------------------------------+
 
-Koordinationsdetails
+<!-- Koordinationsdetails -->
 
-- Conclusions wenn vorne Cross und hinten nicht: parallel
+<!-- - Conclusions wenn vorne Cross und hinten nicht: parallel -->

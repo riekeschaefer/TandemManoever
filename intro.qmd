@@ -48,7 +48,7 @@ Der folgende Paddler hingegen hat wesentlich mehr Variationsspielraum aber nie e
 
 ### aktiver folgender Paddler
 
-Wir haben aber festgestellt, dass der folgende Paddler einen ganz erheblichen Effekt auf den Kurvenverlauf haben kann, wenn er das Paddel eben nicht neutral ins Wasser hält, sondern aktiv das Schleudern des folgenden Bootsendes behindert oder fördert. Es tragen also beide aktiv zum Manöver bei und der folgende Paddler entscheidet, in welche Richtung sich das Boot nach dem Manöver bewegt.
+Wir haben aber festgestellt, dass der folgende Paddler einen ganz erheblichen Effekt auf den Kurvenverlauf haben kann, wenn er das Paddel eben nicht neutral ins Wasser hält, sondern aktiv das Schleudern des folgenden Bootsendes behindert oder fördert. Es tragen also beide aktiv zum Manöver bei und der folgende Paddler entscheidet, in welche Richtung sich das Boot nach dem Manöver bewegt. Die Manöver bleiben ansonsten vom Ablauf her gleich, die Richtung der Weiterfahrt hat nur einen Einfluss auf den runden Ablauf der Conclusion (s.u.).
 
 Während beim führenden Paddler während des Manövers die aktive Paddelseite immer die gleiche bleibt, kann der folgende Paddler je nach gewünschtem Manöververlauf mehrfach die aktive Seite wechseln. Damit kann er aktiv und gezielt den Charakter des Manövers beeinflussen: 
 I) Wird das Ausbrechen des folgenden Bootsendes verhindert, kann das Boot auf einer Kurvenfahrt stabilisiert werden. Das Momentum bleibt entlang der Längsachse des Bootes erhalten, das Boot bewegt sich also weiterhin vorwärts bei vorwärts bzw. rückwärts bei rückwärts Manövern.
@@ -84,56 +84,105 @@ Beim folgenden Paddler kann das Paddel basierend auf der neutralen Haltung gesch
 
 ## Conclusion
 
-- kann zweiteilig sein (z.B. ein Loaded Slice gefolgt von einem Bogenschlag)
-- Der Paddler mit dem weiteren Weg zur Conclusion bestimmt den Beginn, es sei denn er kann vom anderen Paddler nicht gesehen werden.
-- Bei Rückwärtsmanövern gibt im Idealfall der Heckpaddler das Timing vor, weil er die Bootsdrehung besser beurteilen kann. Das ist allerdings nicht in allen Manövern gut machbar, weil der Bugpaddler nicht immer ausreichende Sicht nach hinten hat.
-- Eine versetzte Conclusion ergibt Sinn, wenn der Weg von der Conclusion zum nächsten Schlag für beide unterschiedlich lang ist, der nächste Schlag aber zeitgleich gemacht werden soll.
-- Eine versetzte Conclusion ergibt häufig einen runderen Ablauf, aber eine parallel ausgeführte Conclusion funktioniert ebenfalls
-  - bei einigen Manövern wie dem Stern Cross Tangent ist es auch etwas persönliche Vorliebe, was man angenehmer findet
-- ob parallele oder versetzte Conclusion ist abhängig davon, ob es hinterher vorwärts oder rückwärts weiter geht (ändert jeweils genau in das Gegenteil)
-- Axle, Drehung: versetzt, vorne beginnt
-- Axle, Kurve: parallel
-- Cross Axle und Cross Post haben eine versetzte Conclusion bei einer Kurvenfahrt
-  - Der Bugpaddler beginnt die Conclusion
-  - Ausnahme: Macht der Heckpaddler ein Cross-Placement beginnt er die Conclusion (weiterer Weg, s.o.) (Cross Forward schließt sich an, s.u. Weiterfahrt).
-- Cross Axle und Cross Post, Drehung: parallele Conclusion
-- Stern Cross Axle und Stern Cross Post haben eine versetzte Conclusion bei einer Kurvenfahrt
-  - Der Heckpaddler beginnt die Conclusion (kann vom Bugpaddler halbwegs gesehen werden)
-  - Ausnahme: Macht der Bugpaddler ein Cross Placement, wird die Conclusion parallel ausgeführt. Ein Cross Rückwärtsschlag ist wenig praxistauglich. Damit haben beide Paddler einen langen Weg zum nächsten Catch und die parallele Conclusion bietet sich an.
-- Stern Cross Axle und Stern Cross Post, Drehung: parallele Conclusion
-- Wedge, Drehung: versetzt, hinten beginnt (schwierig zu sehen von vorne)
-- Wedge, Kurve: parallel
-- Stern Wedge, Drehung: versetzt, vore beginnt
-- Stern Wedge, Kurve: parallel
-- Stern Cross Tangent/Wedge, Drehung: versetzt
-- Stern Cross Tangent/Wedge, Kurve: parallel, hinten schließt Cross Forward an
+Im Gegensatz zu Initiation und Placement kann die Conclusion zweiteilig sein. Zum Beispiel hat der Wedge vorne als Conclusion einen kurzen (loaded) Slice mit anschließendem Bogenschlag. Bei einem Crossmanöver schließt sich außerdem die Rückführung des Paddels an (sofern kein Cross-Schlag folgt).
+
+Dadurch, dass nicht immer beide Paddler eine zweiteilige Conclusion oder gleichlange Rückführung des Paddels haben, ist es sinnvoll den Start beider so abzupassen, dass sie gleichzeitig im nächsten Schlag ankommen. Dies ist zum Teil flüssiger möglich, wenn man den versetzt in die Conclusion startet. Eine parallele Conclusion ist jedoch immer auch eine Möglichkeit, die nur ggf. nicht ganz so rund ist. Wann was am besten passt, ist auch vom Paddelstil abhängig. Bei einigen Manövern wie dem Stern Cross Tangent ist es auch persönliche Vorliebe, was man angenehmer findet, selbst bei gleichem Paddelstil
+
+Insgesamt ist für den Beginn der parallelen Conclusion ideal, wenn der Paddler mit dem weiteren Weg zur Conclusion den Zeitpunkt festlegt. Dies ist jedoch nur möglich, wenn er vom anderen Paddler gesehen werden kann. Der Heckpaddler hat immer Blick nach vorne, während je nach Manöver der Blick nach hinten schwieriger sein kann. Bei Rückwärtsmanövern gibt im Idealfall der Heckpaddler das Timing vor, weil er die Bootsdrehung besser beurteilen kann. Das ist allerdings nicht in allen Manövern gut machbar, weil der Bugpaddler nicht immer ausreichende Sicht nach hinten hat.
+
+Dadurch, dass die Startposition für Vorwärts- und Rückwärtsschläge unterschiedlich ist, muss man von der Weiterfahrtrichtung abhängig machen, ob die Conclusion versetzt startet oder nicht (außerdem kann man je nach anschließender Fahrtrichtung Bogenschläge mehr oder weniger weit durchführen). Die folgende Fahrtrichtung ändert den jeweils besser passenden Conclusionablauf (parallel vs. versetzt) jeweils in das Gegenteil. Hier einige Beispiele:
+
+- Axle
+  - Drehung: versetzt, vorne beginnt
+  - Kurve: parallel
+- Cross Axle/Post
+  - Drehung: parallel
+  - Kurve: versetzt, vorne beginnt (Ausnahme: Cross Placement des Heckpaddlers, dann beginnt dieser wegen des weiteren Weges (s.o) zum anschließenden Cross Forward (s.u.))
+- Stern Cross Axle/Post
+  - Drehung: parallel
+  - Kurve: versetzt, hinten beginnt (halbwegs zu sehen von vorne) (Ausnahme: Cross Placement Bugpaddler, dann parallel - Cross Rückwärtsschlag ist wenig praxistauglich. Damit haben beide Paddler einen langen Weg zum nächsten Catch und die parallele Conclusion bietet sich an.)
+- Wedge/Tangent
+  - Drehung: versetzt, hinten beginnt (schwierig zu sehen von vorne)
+  - Kurve: parallel
+- Stern Wedge/Tangent
+  - Drehung: versetzt, vorne beginnt
+  - Kurve: parallel
+Stern Cross Wedge/Tangent
+  - Drehung: versetzt, hinten schließt Cross Forward an(?)
+  - Kurve: parallel
+  
+Der genaue Ablauf einer versetzen Conclusion ist bei einigen Manövern beispielhaft im jeweiligen Abschnitt detailliert.
+
+Ein Sonderfall sind anschließende Gimbals, weil dann ein versetzter Schlag im Anschluss gewünscht ist. Dies lässt sich durch einen entsprechenden Start der Conclusion erreichen.
+
+
+<!-- - kann zweiteilig sein (z.B. ein Loaded Slice gefolgt von einem Bogenschlag) -->
+<!-- - Der Paddler mit dem weiteren Weg zur Conclusion bestimmt den Beginn, es sei denn er kann vom anderen Paddler nicht gesehen werden. -->
+<!-- - Bei Rückwärtsmanövern gibt im Idealfall der Heckpaddler das Timing vor, weil er die Bootsdrehung besser beurteilen kann. Das ist allerdings nicht in allen Manövern gut machbar, weil der Bugpaddler nicht immer ausreichende Sicht nach hinten hat. -->
+<!-- - je nach anschließender Fahrtrichtung ist es sinnvoll Bogenschläge mehr oder weniger weit durchzuführen -->
+<!-- - Eine versetzte Conclusion ergibt Sinn, wenn der Weg von der Conclusion zum nächsten Schlag für beide unterschiedlich lang ist, der nächste Schlag aber zeitgleich gemacht werden soll -->
+
+<!-- - Eine versetzte Conclusion ergibt häufig einen runderen Ablauf, aber eine parallel ausgeführte Conclusion funktioniert ebenfalls -->
+  <!-- - bei einigen Manövern wie dem Stern Cross Tangent ist es auch etwas persönliche Vorliebe, was man angenehmer findet -->
+<!-- - ob parallele oder versetzte Conclusion ist abhängig davon, ob es hinterher vorwärts oder rückwärts weiter geht (ändert jeweils genau in das Gegenteil) -->
+<!-- - Axle, Drehung: versetzt, vorne beginnt -->
+<!-- - Axle, Kurve: parallel -->
+<!-- - Cross Axle und Cross Post haben eine versetzte Conclusion bei einer Kurvenfahrt -->
+<!--   - Der Bugpaddler beginnt die Conclusion -->
+<!--   - Ausnahme: Macht der Heckpaddler ein Cross-Placement beginnt er die Conclusion (weiterer Weg, s.o.) (Cross Forward schließt sich an, s.u. Weiterfahrt). -->
+<!-- - Cross Axle und Cross Post, Drehung: parallele Conclusion -->
+<!-- - Stern Cross Axle und Stern Cross Post haben eine versetzte Conclusion bei einer Kurvenfahrt -->
+<!--   - Der Heckpaddler beginnt die Conclusion (kann vom Bugpaddler halbwegs gesehen werden) -->
+<!--   - Ausnahme: Macht der Bugpaddler ein Cross Placement, wird die Conclusion parallel ausgeführt. Ein Cross Rückwärtsschlag ist wenig praxistauglich. Damit haben beide Paddler einen langen Weg zum nächsten Catch und die parallele Conclusion bietet sich an. -->
+<!-- - Stern Cross Axle und Stern Cross Post, Drehung: parallele Conclusion -->
+<!-- - Wedge, Drehung: versetzt, hinten beginnt (schwierig zu sehen von vorne) -->
+<!-- - Wedge, Kurve: parallel -->
+<!-- - Stern Wedge, Drehung: versetzt, vorne beginnt -->
+<!-- - Stern Wedge, Kurve: parallel -->
+<!-- - Stern Cross Tangent/Wedge, Drehung: versetzt -->
+<!-- - Stern Cross Tangent/Wedge, Kurve: parallel, hinten schließt Cross Forward an -->
 
 
 ## Kantung -- raus
 
-- Timing der Kantung 
-  - beide Paddler (fast) zeitgleich
-  - Axle/Post beim nächsten Catch
-  - Wedge/Tangent Weg zum Vorwärtsschlag
-- Bei Cross Manövern beim Rübergehen des Bugpaddlers die Kantung rausnehmen 
-  - außer Cross Forward mit Kantung zur Onside
-    - Cross Post + Cross Tangent: Catch des Cross Forward Strokes
-    - Cross Axle + Cross Wedge: beim Rübergehen
+Das Beenden der Kantung erfolgt bei beiden Paddler fast gleichzeitig. Meist hat der hintere jedoch einen deutlich größeren Effekt auf die Kantung, sodass dies der entscheidendere Zeitpunkt ist. Beim Axle/Post bietet sich bei folgender Vorwärtsfahrt der Catch des nächsten Schlages als Fixpunkt zum "Festhalten" an. Beim Wedge/Tangent lässt sich der Weg zwischen Ende des Bogenschlags der Conclusion und nächstem Schlag gut nutzen.
+
+Bei Cross Manövern ist es allgemein angenehm, die Kantung während des Rübergehens des Bugpaddlers herauszunehmen. Wenn ein Cross Vorwärtsschlag bei einer Kantung zur Onside (Cross Post/Tangent) folgt, kann dieser jedoch auch gut genutzt werden, um sich als Bugpaddler "aus der Kantung" zu ziehen.
+
+<!-- - Timing der Kantung  -->
+<!--   - beide Paddler (fast) zeitgleich -->
+<!--   - Axle/Post beim nächsten Catch -->
+<!--   - Wedge/Tangent Weg zum Vorwärtsschlag -->
+<!-- - Bei Cross Manövern beim Rübergehen des Bugpaddlers die Kantung rausnehmen  -->
+<!--   - außer Cross Forward mit Kantung zur Onside -->
+<!--     - Cross Post + Cross Tangent: Catch des Cross Forward Strokes -->
+<!--     - Cross Axle + Cross Wedge: beim Rübergehen -->
 
 ## Weiterfahrt
 
-- Wenn beide Paddler ein Cross-Placement machen, ist es günstig die Vorwärtsweiterfahrt mit Cross Forwards zu beginnen. (Rückwärts gilt dies nicht, weil ein Cross Rückwärtsschlag unbequem ist.)
-- Die Länge der Manöver ist Cross und Nicht-Cross meist gleich.
-- Ggf. beim ersten Vorwärtsschlag nach Manöver auch im Bug die Drehung etwas korrigieren.
+Wenn beide Paddler ein Cross-Placement machen, ist es günstig die Vorwärtsweiterfahrt mit Cross Forwards zu beginnen. (Rückwärts gilt dies nicht, weil ein Cross Rückwärtsschlag unbequem ist.)
+
+Je nach Situation ist es gut beim ersten Vorwärtsschlag nach Manöver auch im Bug die Drehung etwas korrigieren.
+
+<!-- - Wenn beide Paddler ein Cross-Placement machen, ist es günstig die Vorwärtsweiterfahrt mit Cross Forwards zu beginnen. (Rückwärts gilt dies nicht, weil ein Cross Rückwärtsschlag unbequem ist.) -->
+<!-- - Ggf. beim ersten Vorwärtsschlag nach Manöver auch im Bug die Drehung etwas korrigieren. -->
 
 # weitere Gedanken
 
-- versuchen mit parallelen Bewegungen zu spielen
-- wie immer
-   - Arme gerade
-   - Paddel senkrecht
-   - Rotation
-- bei cross (für einen oder beide)
-   - Paddel gleichzeitig eintauchen
-   - Paddel waagerecht über das Boot führen
+Grundsätzlich mach es im Tandem Spaß mit den verschiedenen Möglichkeiten zu spielen und zu variieren. Neben den zeitlichen Aspekten, wie rund und abgestimmt das Manöver läuft, kann man zum Beispiel auch versuchen parallele Bewegungen einzusetzen. Wenn zum Beispiel einer oder beide Cross gehen, können die Paddel gleichzeitig eingetaucht werden (ggf. muss einer dafür extra das Paddel herausnehmen). Die Haltung im Placement kann ebenfalls gespiegelt werden.
 
+Die grundsätzlichen Aspekte aus dem Solo Freestyle gelten auch im Tandem
+
+- Arme gerade
+- Paddeln mit Rotation und dem Paddel stets zugewandt
+- Paddel senkrecht im Wasser
+- Paddel waagerecht über das Boot führen
+
+<!-- - versuchen mit parallelen Bewegungen zu spielen -->
+<!-- - bei cross (für einen oder beide) -->
+<!--    - Paddel gleichzeitig eintauchen -->
+<!--    - Paddel waagerecht über das Boot führen -->
+<!-- - wie immer -->
+<!--    - Arme gerade -->
+<!--    - Paddel senkrecht -->
+<!--    - Rotation -->
