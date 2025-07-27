@@ -32,7 +32,7 @@ Placement: Onside
 
 ::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
 
-![](ManoeverSkizzen/Axle.png){fig-align="center" height=3cm}
+![](ManoeverSkizzen/Axle.png){fig-align="center" height=2cm}
 
 ![Axle](ManoeverSkizzen/K-rechts_P-rechts.png){fig-align="center" height=0.5cm}
 
@@ -63,7 +63,7 @@ Placement: Onside
 ::: {.content-visible when-format="pdf"}
 
 ::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
-![](ManoeverSkizzen/CrossAxle.png){fig-align="center" height=3cm}
+![](ManoeverSkizzen/CrossAxle.png){fig-align="center" height=2cm}
 
 ![Axle](ManoeverSkizzen/K-links_P-links.png){fig-align="center" height=0.5cm}
 
@@ -124,7 +124,7 @@ Koordinationsdetails
 ::: {.content-visible when-format="pdf"}
 ::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
 ::: {}
-![](ManoeverSkizzen/Wedge.png){fig-align="center" height=3cm}
+![](ManoeverSkizzen/Wedge.png){fig-align="center" height=2cm}
 :::
 
 ::: {}
@@ -156,7 +156,7 @@ Koordinationsdetails
 ::: {.content-visible when-format="pdf"}
 ::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
 ::: {}
-![](ManoeverSkizzen/CrossWedge.png){fig-align="center" height=3cm}
+![](ManoeverSkizzen/CrossWedge.png){fig-align="center" height=2cm}
 :::
 
 ::: {}

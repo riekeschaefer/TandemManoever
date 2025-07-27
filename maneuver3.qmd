@@ -32,7 +32,7 @@ Da die Onside durch die Paddelseite im Bug bestimmt wird, sind Stern Manöver of
 ::: {.content-visible when-format="pdf"}
 ::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
 
-![](ManoeverSkizzen/SternAxle.png){fig-align="center" height=3cm}
+![](ManoeverSkizzen/SternAxle.png){fig-align="center" height=2cm}
 
 ![Stern Axle](ManoeverSkizzen/K-links_P-links.png){fig-align="center" height=0.5cm}
 
@@ -61,7 +61,7 @@ Da die Onside durch die Paddelseite im Bug bestimmt wird, sind Stern Manöver of
 ::: {.content-visible when-format="pdf"}
 ::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
 
-![](ManoeverSkizzen/SternCrossAxle.png){fig-align="center" height=3cm}
+![](ManoeverSkizzen/SternCrossAxle.png){fig-align="center" height=2cm}
 
 ![Stern Axle](ManoeverSkizzen/K-rechts_P-rechts.png){fig-align="center" height=0.5cm}
 
@@ -129,7 +129,7 @@ Koordinationsdetails
 ::: {.content-visible when-format="pdf"}
 ::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
 
-![](ManoeverSkizzen/SternWedge.png){fig-align="center" height=3cm}
+![](ManoeverSkizzen/SternWedge.png){fig-align="center" height=2cm}
 
 ![Stern Wedge](ManoeverSkizzen/K-links_P-links.png){fig-align="center" height=0.5cm}
 
@@ -158,7 +158,7 @@ Koordinationsdetails
 ::: {.content-visible when-format="pdf"}
 ::: {layout="[[2, 1, 1]]" layout-valign="bottom"}
 
-![](ManoeverSkizzen/SternCrossWedge.png){fig-align="center" height=3cm}
+![](ManoeverSkizzen/SternCrossWedge.png){fig-align="center" height=2cm}
 
 ![Stern Wedge](ManoeverSkizzen/K-rechts_P-rechts.png){fig-align="center" height=0.5cm}
 
