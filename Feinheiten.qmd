@@ -2,6 +2,17 @@
 
 ## Nonverbale Kommunikation
 
+Für die erfolgreiche nonverbale Kommunikation sind einige Situationen und Feinheiten zu bedenken, damit beide wirklich jeweils wissen, was gemacht wird. Wir beschreiben hier Situationen, die uns aufgefallen sind und unsere Lösungen dafür.
+
+### Heckpaddler macht Cross-Placement, Bugpaddler nicht
+
+Wenn im Heck ein Cross-Placement gemacht wird, sollte der vorherige Schlag nur kurz sein und das Paddel direkt über das Boot geführt werden, damit der Bugpaddler eine Chance hat, dies rechtzeitig zu sehen. Denn dieser nimmt am Ende der Einleitung dann gegenbenenfalls ebenfalls sein Paddel aus dem Wasser (Axle und Post) und die Paddel beider Paddler werden synchron eingesetzt.
+
+### Bugpaddler kann Heckpaddler nicht sehen
+
+Wenn der Bugpaddler Paddel und Kantung auf der gleichen Seite hat (also zum Beispiel Axle, aber auch Cross Wedge) und der Heckpaddler das Placement auf der anderen Bootsseite macht, dann kann der Bugpaddler den Heckpaddler nicht oder kaum sehen. Entsprechend ist es sinnvoll, zu überlegen, wer und wie die Conclusion beginnt. Am einfachsten für die Kommunikation ist es, wenn der Bugpaddler dies tut, für den Manöverablauf ist dies jedoch nicht immer sinnvoll. Für Stern-Manöver bedeutet dies zum Beispiel, dass der Bugpaddler die Conclusion beginnen sollte, um die Kommunikation zu vereinfachen.
+
+
 <!-- - Das Einleiten der Kantung kann man von hinten teilweise schon an den Füßen des Bug-Paddlers erkennen. Alle Körperbewegungen beobachten. Wahrscheinlich stark abhängig vom jeweiligen Paddler.  -->
 <!-- - Einleitungsschläge (damit der Heckpaddler es sehen kann) -->
 <!--   - Onside Drehung: 45° Ziehschlag -->
@@ -9,16 +20,18 @@
 <!--   - Stern Onside Drehung: überkorrigierter Rückwärtsschlag (nicht compound!) -->
 <!--   - Stern Offside Drehung: rückwärts 45° Ziehschlag -->
 <!--   - Auch Rückwärtsmanöver leitet am besten der Bug-Paddler ein, weil der Heck-Paddler dann folgen kann.  -->
-- Vor einem Cross-Placement im Heck nur einen sehr kurzen Vorwärtsschlag machen und zügig mit dem Paddel das Boot kreuzen, damit der Bugpaddler eine Chance hat das Placement zu erkennen. Paddel können dann synchron eingesetzt werden.
+<!-- - Vor einem Cross-Placement im Heck nur einen sehr kurzen Vorwärtsschlag machen und zügig mit dem Paddel das Boot kreuzen, damit der Bugpaddler eine Chance hat das Placement zu erkennen. Paddel können dann synchron eingesetzt werden. -->
 <!-- - Sideslips erkennt man an Placement ohne Initiation -->
 
 <!-- - wenn wir beide ein Cross Placement machen, folgt direkt ein Cross Forward stroke (wenn es vorwärts weiter geht), Timing des Kantung rausnehmens dabei -->
 <!--   - Cross Post + Cross Tangent: Catch -->
 <!--   - Cross Axle + Cross Wedge: rübergehen -->
-- wenn vorne Paddel + Kantung auf einer Seite sind, kann man von vorne den Heckpaddler nicht sehen, wenn er das Placement auf der anderen Seite hat
-  - für Stern-Manöver bedeutet das, dass der Bugpaddler in dem Fall die Conclusion beginnen sollte
+<!-- - wenn vorne Paddel + Kantung auf einer Seite sind, kann man von vorne den Heckpaddler nicht sehen, wenn er das Placement auf der anderen Seite hat -->
+  <!-- - für Stern-Manöver bedeutet das, dass der Bugpaddler in dem Fall die Conclusion beginnen sollte -->
 
 ## Fragen, um sich heranzuarbeiten
+
+Im folgenden listen wir einige Punkte und Fragen auf, die helfen können, die Kommunikation und Koordination zu erarbeiten und verfeinern.
 
 - Fahrtrichtung
 - Einleitung 
@@ -28,6 +41,7 @@
     - Füße
     - Hüfte
 - Weg zum Placement
+  - wer geht wann Cross? Was bedeutet das für den anderen?
 - Kante
   - vorne festgelegt
   - hinten aufgenommen
@@ -59,25 +73,42 @@
 
 # Ideen für Übungen
 
-- alle Manöver nacheinander durcharbeiten: immer erst das Kurven- und dann das Drehungsmanöver
-- Manöver um und mit Stangen üben
+Um die Manöver zu verfeinern braucht es natürlich vor allem eines: viel, viel Übung. Für ein gutes Gefühl gerade im Vergleich der Kurven gegen die Drehung hat es uns gut gefallen, alle Manöver nacheinander durchzuarbeiten. Auf einer ausreichend großen Strecke immer hin- und herfahrend, kann man gut jedes Manöver erst als Kurven- und dann als Drehungsmanöver durchführen. Ist ein Durchgang nicht rund, wird es wiederholt. Nach den Vorwärtsmanöver folgen dann die Rückwärtsmanöver.
+
+Ein wenig komplexer ist es, Manöver um feststehende Hindernisse zu fahren. Dies können zum Beispiel Stangen, Bojen, Bäume, Schilf oder was auch immer zur Verfügung steht sein. Zunächst mit vorheriger Absprache und später dann spontan auf Einleitung des Bugpaddlers.
+
+<!-- - alle Manöver nacheinander durcharbeiten: immer erst das Kurven- und dann das Drehungsmanöver -->
+<!-- - Manöver um und mit Stangen üben -->
 
 # Paddeln zu Takt/Musik
 
-- Tempo um 80 geht ganz gut
-- Die Länge der Initiation ist je nach Manöver sehr unterschiedlich und damit nicht immer genau einen Takt lang. 
-- Rückwärts compound: far back auf 1, normaler Catch zwischen 2 und 3. So bleibt dem Bugpaddler genug Zeit für eine Korrektur.
-- Alle Längen dürften stark abhängig sein von der Bootsform und der Trimmung
+Im folgenden fassen wir unsere Erfahrungen des Paddelns zu Musik zusammen. Dies ist sicherlich sehr individuell, aber bildet vielleicht ein Grundlage und gibt Ideen :)
+
+Ein Tempo von 80 geht ganz gut. Der Catch des Vorwärtsschlages ist jeweils auf 1. Beim Rückwärts Compound ist der Ablauf: far back auf 1 und normaler Catch zwischen 2 und 3. Dieser Ablauf gibt dem Bugpaddler genug Zeit für eine Korrektur, die beim Catch auf 3, zeitlich schwierig zu realisieren ist (abhängig vom Trim?).
+
+Die Länge der Einleitung ist je nach Manöver sehr unterschiedlich und damit nicht immer genau einen Takt lang.
+
+<!-- - Tempo um 80 geht ganz gut -->
+<!-- - Die Länge der Initiation ist je nach Manöver sehr unterschiedlich und damit nicht immer genau einen Takt lang.  -->
+<!-- - Rückwärts compound: far back auf 1, normaler Catch zwischen 2 und 3. So bleibt dem Bugpaddler genug Zeit für eine Korrektur. -->
+<!-- -  -->
 
 ## Musikalische Manöverlängen
 
-die folgende Liste gilt für
+Im folgenden die genauen Manöverlängen für Rieke und Marius in Elmo (Swift Chicot). Wie bereits erwähnt, sind die Längen wohl stark abhängig von Bootsform und Trimmung. Elmo ist eher gemächlich, im Nova Craft Prospector sind wir eher schnellere Manöver gefahren.
 
-- Rieke und Marius in Elmo
-- ein gutes Tempo ist für uns etwa 80 bis 95
-  - mögliche Musik: Loreena McKennitt - La Serenissima (87)
-  - Catch jeweils auf der 1
-- die Zahlen beschreiben die Taktanzahl für Initiation, Placement, Conclusion (einige Manöver können schneller gehen, wenn man flott reinfährt, das ist die letzte Spalte)
+Ein gutes Tempo ist etwa 80 bis 95. Als Musik haben wir Loreena McKennitt - La Serenissima (Tempo 87) getestet.
+
+Die Zahlen sind die Taktanzahl für Einleitung, Placement und Conclusion. "1 4 2" bedeutet also, dass die Einleitung 1 Takt lang ist, das Placement 4 Takte dauert und die Conclusion 2 Takte ist. Bei einigen Manövern haben wir festgestellt, dass ie mit einer flotten Anfahrt schneller gehen. Dies ist in der letzten Spalte vermerkt.
+
+<!-- die folgende Liste gilt für -->
+
+<!-- - Rieke und Marius in Elmo -->
+<!-- - ein gutes Tempo ist für uns etwa 80 bis 95 -->
+<!--   - mögliche Musik: Loreena McKennitt - La Serenissima (87) -->
+  <!-- - Catch jeweils auf der 1 -->
+<!-- - die Zahlen beschreiben die Taktanzahl für Initiation, Placement, Conclusion (einige Manöver können schneller gehen, wenn man flott reinfährt, das ist die letzte Spalte) -->
+<!-- - Alle Längen dürften stark abhängig sein von der Bootsform und der Trimmung -->
 
 +---------------------+----------+-------------------+
 | Manöver             | Takte    | flotte Ausführung |
@@ -90,13 +121,13 @@ die folgende Liste gilt für
 +---------------------+----------+-------------------+
 | Tangent             | 1 3 2    |                   |
 +---------------------+----------+-------------------+
-| Stern Axle          | 1 4 2    | 1 3 2             |
+| Cross Axle          | 1 4 2    | 1 3 2             |
 +---------------------+----------+-------------------+
-| Stern Post          | 1 4 2    | 1 3 2             |
+| Cross Post          | 1 4 2    | 1 3 2             |
 +---------------------+----------+-------------------+
-| Stern Wedge         | 1 3 2    |                   |
+| Cross Wedge         | 1 3 2    |                   |
 +---------------------+----------+-------------------+
-| Stern Tangent       | 1 3 2    |                   |
+| Cross Tangent       | 1 3 2    |                   |
 +---------------------+----------+-------------------+
 | Stern Axle          | 1 3 1    |                   |
 +---------------------+----------+-------------------+
@@ -119,16 +150,28 @@ die folgende Liste gilt für
 | Gimbal              | variabel |                   |
 +---------------------+----------+-------------------+
 
-- Die Länge der Manöver ist Cross und Nicht-Cross meist gleich.
-  - man muss sich überlegen, wo das Rübernehmen des Paddels untergebracht wird
-- im 3. Quadranten sind alle Manöver gleich
-- Conclusion für Cross Axle + Cross Post
-  - vorne: 1. Takt = loaded slice, 2. Takt = rübernehmen
-  - hinten: bis zum 2. Takt warten
+
+Allgemein haben wir beobachtet, dass die Länge der Manöver Nicht-Cross und Cross meist gleich ist. Man muss sich aber jeweils überlegen, wo das Rübernehmen des Paddels untergebracht wird.
+
+Im 3. Quadranten sind die Manöver interessanterweise als einziger gleich lang.
+
+Das Timing der Conclusion für Cross Axle und Cross Post haben wir wie folgt gemacht:
+vorne im 1. Takt den loaded slice und im 2. Takt das Rübernehmen des Paddels; hinten mit der Conclusion warten bis zum 2. Takt.
+
+<!-- - Die Länge der Manöver ist Cross und Nicht-Cross meist gleich. -->
+<!--   - man muss sich überlegen, wo das Rübernehmen des Paddels untergebracht wird -->
+<!-- - im 3. Quadranten sind alle Manöver gleich -->
+<!-- - Conclusion für Cross Axle + Cross Post -->
+<!--   - vorne: 1. Takt = loaded slice, 2. Takt = rübernehmen -->
+<!--   - hinten: bis zum 2. Takt warten -->
 
 
 ## Fragen, um sich heranzuarbeiten
 
+Auch hier einige Fragen, um sich an die Musik heranzuarbeiten:
+
 - Was ist eine komfortable Paddelfrequenz? (ggf. mit Metronom testen)
 - Wie lang sind die Manöver (in Takten) mit dem Team und Boot?
-- je nach Trim verhalten sich vorwärts und rückwärts Manöver sehr unterschiedlich
+- Wie stark unterscheiden sich vorwärts und rückwärts Manöver?
+
+<!-- - je nach Trim verhalten sich vorwärts und rückwärts Manöver sehr unterschiedlich -->
